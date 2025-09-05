@@ -6,5 +6,5 @@ Prativa
 Nilanjana
 Subhayan
 Rahul 
-Prithwise
+Prithwish
 Rupam
