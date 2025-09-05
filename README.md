@@ -3,6 +3,8 @@ Its the project (Someone update this)
 
 ## Credits
 
+### Design
+*   [Nilanjana Tripathy]()
 ### Web
 *   [Prativa](https://github.com/Prativa705)
 *   [Rahul Singh](https://github.com/amrahulsingh)
