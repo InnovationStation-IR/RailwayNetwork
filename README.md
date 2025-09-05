@@ -1,10 +1,16 @@
 # RailwayNetwork
 Its the project
 
-Authors:
+## Authors: 
+<br>
 Prativa 
+<br>
 Nilanjana
+<br>
 Subhayan
+<br>
 Rahul 
+<br>
 Prithwish
+<br>
 Rupam
