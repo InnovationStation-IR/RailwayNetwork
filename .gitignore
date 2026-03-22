@@ -13,6 +13,3 @@ env/
 
 # OS files
 .DS_Store
-
-# Runtime output
-data/episodes/
