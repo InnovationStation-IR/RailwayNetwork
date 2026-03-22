@@ -1,0 +1,4980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-22">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="5" title="distance_km" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="code" type="string" />
+      <attribute id="1" title="name" type="string" />
+      <attribute id="2" title="zone" type="string" />
+      <attribute id="3" title="lon" type="double" />
+      <attribute id="4" title="lat" type="double" />
+    </attributes>
+    <nodes>
+      <node id="JNM" label="JNM">
+        <attvalues>
+          <attvalue for="0" value="JNM" />
+          <attvalue for="1" value="Jayanagar Majilpur Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.415324" />
+          <attvalue for="4" value="22.168635" />
+        </attvalues>
+      </node>
+      <node id="DEB" label="DEB">
+        <attvalues>
+          <attvalue for="0" value="DEB" />
+          <attvalue for="1" value="Debagram" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.306807" />
+          <attvalue for="4" value="23.685277" />
+        </attvalues>
+      </node>
+      <node id="BTY" label="BTY">
+        <attvalues>
+          <attvalue for="0" value="BTY" />
+          <attvalue for="1" value="Bethuadahari" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.384597" />
+          <attvalue for="4" value="23.610275" />
+        </attvalues>
+      </node>
+      <node id="BGNA" label="BGNA">
+        <attvalues>
+          <attvalue for="0" value="BGNA" />
+          <attvalue for="1" value="Balgona" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.95045644976199" />
+          <attvalue for="4" value="23.458049719226736" />
+        </attvalues>
+      </node>
+      <node id="KLNP" label="KLNP">
+        <attvalues>
+          <attvalue for="0" value="KLNP" />
+          <attvalue for="1" value="Kalinarayanpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.573216" />
+          <attvalue for="4" value="23.206506" />
+        </attvalues>
+      </node>
+      <node id="BRDB" label="BRDB">
+        <attvalues>
+          <attvalue for="0" value="BRDB" />
+          <attvalue for="1" value="Barda" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.08753041" />
+          <attvalue for="4" value="22.15295838" />
+        </attvalues>
+      </node>
+      <node id="APDJ" label="APDJ">
+        <attvalues>
+          <attvalue for="0" value="APDJ" />
+          <attvalue for="1" value="ALIPUR DUAR JN" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.534048" />
+          <attvalue for="4" value="26.523279" />
+        </attvalues>
+      </node>
+      <node id="JTK" label="JTK">
+        <attvalues>
+          <attvalue for="0" value="JTK" />
+          <attvalue for="1" value="Jhitkia" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.05297200000001" />
+          <attvalue for="4" value="25.626133" />
+        </attvalues>
+      </node>
+      <node id="SNKR" label="SNKR">
+        <attvalues>
+          <attvalue for="0" value="SNKR" />
+          <attvalue for="1" value="Sanka" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.616164" />
+          <attvalue for="4" value="23.52693" />
+        </attvalues>
+      </node>
+      <node id="GCN" label="GCN">
+        <attvalues>
+          <attvalue for="0" value="GCN" />
+          <attvalue for="1" value="Gocharan" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.45836999999999" />
+          <attvalue for="4" value="22.277738" />
+        </attvalues>
+      </node>
+      <node id="SDMD" label="SDMD">
+        <attvalues>
+          <attvalue for="0" value="SDMD" />
+          <attvalue for="1" value="Sudamdih" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.44032" />
+          <attvalue for="4" value="23.654478" />
+        </attvalues>
+      </node>
+      <node id="CLD" label="CLD">
+        <attvalues>
+          <attvalue for="0" value="CLD" />
+          <attvalue for="1" value="CHALSA JN" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.798213" />
+          <attvalue for="4" value="26.882215" />
+        </attvalues>
+      </node>
+      <node id="CRX" label="CRX">
+        <attvalues>
+          <attvalue for="0" value="CRX" />
+          <attvalue for="1" value="CARRON" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.9704" />
+          <attvalue for="4" value="26.880279" />
+        </attvalues>
+      </node>
+      <node id="CSZ" label="CSZ">
+        <attvalues>
+          <attvalue for="0" value="CSZ" />
+          <attvalue for="1" value="Cossimbazar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.266903" />
+          <attvalue for="4" value="24.122264" />
+        </attvalues>
+      </node>
+      <node id="DDM" label="DDM">
+        <attvalues>
+          <attvalue for="0" value="DDM" />
+          <attvalue for="1" value="DAM DIM" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.67133299999999" />
+          <attvalue for="4" value="26.859243000000003" />
+        </attvalues>
+      </node>
+      <node id="CQR" label="CQR">
+        <attvalues>
+          <attvalue for="0" value="CQR" />
+          <attvalue for="1" value="Champapukur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.80796000000001" />
+          <attvalue for="4" value="22.656633999999997" />
+        </attvalues>
+      </node>
+      <node id="AG" label="AG">
+        <attvalues>
+          <attvalue for="0" value="AG" />
+          <attvalue for="1" value="Aranghata" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.613551" />
+          <attvalue for="4" value="23.242037" />
+        </attvalues>
+      </node>
+      <node id="DJ" label="DJ">
+        <attvalues>
+          <attvalue for="0" value="DJ" />
+          <attvalue for="1" value="Darjeeling" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.263326" />
+          <attvalue for="4" value="27.038151" />
+        </attvalues>
+      </node>
+      <node id="GGLE" label="GGLE">
+        <attvalues>
+          <attvalue for="0" value="GGLE" />
+          <attvalue for="1" value="GANGATIKURI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.087286" />
+          <attvalue for="4" value="23.71822" />
+        </attvalues>
+      </node>
+      <node id="DTAE" label="DTAE">
+        <attvalues>
+          <attvalue for="0" value="DTAE" />
+          <attvalue for="1" value="DHATRIGRAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.31182199999999" />
+          <attvalue for="4" value="23.277796" />
+        </attvalues>
+      </node>
+      <node id="HNB" label="HNB">
+        <attvalues>
+          <attvalue for="0" value="HNB" />
+          <attvalue for="1" value="Hasanabad" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.912953" />
+          <attvalue for="4" value="22.570155" />
+        </attvalues>
+      </node>
+      <node id="JHBN" label="JHBN">
+        <attvalues>
+          <attvalue for="0" value="JHBN" />
+          <attvalue for="1" value="JHAMATPUR BAHARAN" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.098669" />
+          <attvalue for="4" value="23.749987" />
+        </attvalues>
+      </node>
+      <node id="JIT" label="JIT">
+        <attvalues>
+          <attvalue for="0" value="JIT" />
+          <attvalue for="1" value="JIRAT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.461461" />
+          <attvalue for="4" value="23.098255" />
+        </attvalues>
+      </node>
+      <node id="KAU" label="KAU">
+        <attvalues>
+          <attvalue for="0" value="KAU" />
+          <attvalue for="1" value="Kachna" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.0246425354" />
+          <attvalue for="4" value="25.6337383216" />
+        </attvalues>
+      </node>
+      <node id="NBKH" label="NBKH">
+        <attvalues>
+          <attvalue for="0" value="NBKH" />
+          <attvalue for="1" value="NABA GRAM KANKU" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.10026" />
+          <attvalue for="4" value="23.661572" />
+        </attvalues>
+      </node>
+      <node id="ABKA" label="ABKA">
+        <attvalues>
+          <attvalue for="0" value="ABKA" />
+          <attvalue for="1" value="AMBIKA KALNA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.353984" />
+          <attvalue for="4" value="23.211377" />
+        </attvalues>
+      </node>
+      <node id="KMAE" label="KMAE">
+        <attvalues>
+          <attvalue for="0" value="KMAE" />
+          <attvalue for="1" value="KHAMARGACHHI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.44421" />
+          <attvalue for="4" value="23.054229" />
+        </attvalues>
+      </node>
+      <node id="HOJ" label="HOJ">
+        <attvalues>
+          <attvalue for="0" value="HOJ" />
+          <attvalue for="1" value="HAMITONGANJ" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.416841" />
+          <attvalue for="4" value="26.688907" />
+        </attvalues>
+      </node>
+      <node id="LAP" label="LAP">
+        <attvalues>
+          <attvalue for="0" value="LAP" />
+          <attvalue for="1" value="Lohapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.963719" />
+          <attvalue for="4" value="24.302357" />
+        </attvalues>
+      </node>
+      <node id="KJME" label="KJME">
+        <attvalues>
+          <attvalue for="0" value="KJME" />
+          <attvalue for="1" value="KAJORAGRAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.18466500000001" />
+          <attvalue for="4" value="23.615327" />
+        </attvalues>
+      </node>
+      <node id="ABW" label="ABW">
+        <attvalues>
+          <attvalue for="0" value="ABW" />
+          <attvalue for="1" value="Abutara Halt" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.5868746" />
+          <attvalue for="4" value="26.0707762" />
+        </attvalues>
+      </node>
+      <node id="MHN" label="MHN">
+        <attvalues>
+          <attvalue for="0" value="MHN" />
+          <attvalue for="1" value="Mahanadi" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.318628" />
+          <attvalue for="4" value="26.882301000000002" />
+        </attvalues>
+      </node>
+      <node id="MDKD" label="MDKD">
+        <attvalues>
+          <attvalue for="0" value="MDKD" />
+          <attvalue for="1" value="MADHUKUNDA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.869091" />
+          <attvalue for="4" value="23.626630000000002" />
+        </attvalues>
+      </node>
+      <node id="CPLE" label="CPLE">
+        <attvalues>
+          <attvalue for="0" value="CPLE" />
+          <attvalue for="1" value="CHINPAI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.46063699999999" />
+          <attvalue for="4" value="23.839677000000002" />
+        </attvalues>
+      </node>
+      <node id="NILE" label="NILE">
+        <attvalues>
+          <attvalue for="0" value="NILE" />
+          <attvalue for="1" value="NIMTITA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.00764" />
+          <attvalue for="4" value="24.625338" />
+        </attvalues>
+      </node>
+      <node id="RHA" label="RHA">
+        <attvalues>
+          <attvalue for="0" value="RHA" />
+          <attvalue for="1" value="Ranaghat Junction" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.568184" />
+          <attvalue for="4" value="23.173344" />
+        </attvalues>
+      </node>
+      <node id="SHM" label="SHM">
+        <attvalues>
+          <attvalue for="0" value="SHM" />
+          <attvalue for="1" value="KOLKATA SHALIMAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.315615" />
+          <attvalue for="4" value="22.555508" />
+        </attvalues>
+      </node>
+      <node id="SDI" label="SDI">
+        <attvalues>
+          <attvalue for="0" value="SDI" />
+          <attvalue for="1" value="Sagardighi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.105398" />
+          <attvalue for="4" value="24.287789" />
+        </attvalues>
+      </node>
+      <node id="SVH" label="SVH">
+        <attvalues>
+          <attvalue for="0" value="SVH" />
+          <attvalue for="1" value="Sonadanga" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.354092" />
+          <attvalue for="4" value="23.636393" />
+        </attvalues>
+      </node>
+      <node id="CWLE" label="CWLE">
+        <attvalues>
+          <attvalue for="0" value="CWLE" />
+          <attvalue for="1" value="CHOWRIGACHA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.18645099999999" />
+          <attvalue for="4" value="23.942472" />
+        </attvalues>
+      </node>
+      <node id="LKX" label="LKX">
+        <attvalues>
+          <attvalue for="0" value="LKX" />
+          <attvalue for="1" value="LAKSHMIPUR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.302374" />
+          <attvalue for="4" value="23.502512000000003" />
+        </attvalues>
+      </node>
+      <node id="DMLE" label="DMLE">
+        <attvalues>
+          <attvalue for="0" value="DMLE" />
+          <attvalue for="1" value="DUMURDAHA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.43266200000001" />
+          <attvalue for="4" value="23.040053" />
+        </attvalues>
+      </node>
+      <node id="NKB" label="NKB">
+        <attvalues>
+          <attvalue for="0" value="NKB" />
+          <attvalue for="1" value="NAGRAKOTA" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.917581" />
+          <attvalue for="4" value="26.885533" />
+        </attvalues>
+      </node>
+      <node id="GRU" label="GRU">
+        <attvalues>
+          <attvalue for="0" value="GRU" />
+          <attvalue for="1" value="GAROPARA" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.48526169979999" />
+          <attvalue for="4" value="26.6574376742" />
+        </attvalues>
+      </node>
+      <node id="THP" label="THP">
+        <attvalues>
+          <attvalue for="0" value="THP" />
+          <attvalue for="1" value="Taherpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.54311899999999" />
+          <attvalue for="4" value="23.259379000000003" />
+        </attvalues>
+      </node>
+      <node id="AGAE" label="AGAE">
+        <attvalues>
+          <attvalue for="0" value="AGAE" />
+          <attvalue for="1" value="AGRADWIP" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.22611699999999" />
+          <attvalue for="4" value="23.58096" />
+        </attvalues>
+      </node>
+      <node id="BAAR" label="BAAR">
+        <attvalues>
+          <attvalue for="0" value="BAAR" />
+          <attvalue for="1" value="Bandar P.H." />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="88.086816" />
+          <attvalue for="4" value="22.052122" />
+        </attvalues>
+      </node>
+      <node id="BDYP" label="BDYP">
+        <attvalues>
+          <attvalue for="0" value="BDYP" />
+          <attvalue for="1" value="Bidyadharpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.452872" />
+          <attvalue for="4" value="22.425122" />
+        </attvalues>
+      </node>
+      <node id="BEB" label="BEB">
+        <attvalues>
+          <attvalue for="0" value="BEB" />
+          <attvalue for="1" value="Beldanga" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.2429681" />
+          <attvalue for="4" value="23.9320594" />
+        </attvalues>
+      </node>
+      <node id="BHNA" label="BHNA">
+        <attvalues>
+          <attvalue for="0" value="BHNA" />
+          <attvalue for="1" value="Bhayna" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.64165885999999" />
+          <attvalue for="4" value="23.31226134" />
+        </attvalues>
+      </node>
+      <node id="BGA" label="BGA">
+        <attvalues>
+          <attvalue for="0" value="BGA" />
+          <attvalue for="1" value="BAGALIA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.51904643" />
+          <attvalue for="4" value="23.44693617" />
+        </attvalues>
+      </node>
+      <node id="BERO" label="BERO">
+        <attvalues>
+          <attvalue for="0" value="BERO" />
+          <attvalue for="1" value="BERO" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.72660900000001" />
+          <attvalue for="4" value="23.548271" />
+        </attvalues>
+      </node>
+      <node id="BGB" label="BGB">
+        <attvalues>
+          <attvalue for="0" value="BGB" />
+          <attvalue for="1" value="Budge Budge" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.19469228000001" />
+          <attvalue for="4" value="22.49310248" />
+        </attvalues>
+      </node>
+      <node id="BGJT" label="BGJT">
+        <attvalues>
+          <attvalue for="0" value="BGJT" />
+          <attvalue for="1" value="Bagha Jatin" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.387421" />
+          <attvalue for="4" value="22.482615000000003" />
+        </attvalues>
+      </node>
+      <node id="BIJ" label="BIJ">
+        <attvalues>
+          <attvalue for="0" value="BIJ" />
+          <attvalue for="1" value="Birnagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.55125199999999" />
+          <attvalue for="4" value="23.2358754" />
+        </attvalues>
+      </node>
+      <node id="BHLA" label="BHLA">
+        <attvalues>
+          <attvalue for="0" value="BHLA" />
+          <attvalue for="1" value="BEHULA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.4287921" />
+          <attvalue for="4" value="23.181967399999998" />
+        </attvalues>
+      </node>
+      <node id="BGAE" label="BGAE">
+        <attvalues>
+          <attvalue for="0" value="BGAE" />
+          <attvalue for="1" value="BALAGARH" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.4525522" />
+          <attvalue for="4" value="23.1215453" />
+        </attvalues>
+      </node>
+      <node id="AKRA" label="AKRA">
+        <attvalues>
+          <attvalue for="0" value="AKRA" />
+          <attvalue for="1" value="Akra" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.249021" />
+          <attvalue for="4" value="22.514668" />
+        </attvalues>
+      </node>
+      <node id="BMGR" label="BMGR">
+        <attvalues>
+          <attvalue for="0" value="BMGR" />
+          <attvalue for="1" value="Bamangram" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.1912832245" />
+          <attvalue for="4" value="25.622139865799998" />
+        </attvalues>
+      </node>
+      <node id="BPN" label="BPN">
+        <attvalues>
+          <attvalue for="0" value="BPN" />
+          <attvalue for="1" value="Banpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.76185515" />
+          <attvalue for="4" value="23.45186861" />
+        </attvalues>
+      </node>
+      <node id="BQZ" label="BQZ">
+        <attvalues>
+          <attvalue for="0" value="BQZ" />
+          <attvalue for="1" value="BALLALPUR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.91224299999999" />
+          <attvalue for="4" value="24.747459000000003" />
+        </attvalues>
+      </node>
+      <node id="BRP" label="BRP">
+        <attvalues>
+          <attvalue for="0" value="BRP" />
+          <attvalue for="1" value="Baruipur Junction" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.431647" />
+          <attvalue for="4" value="22.366657999999997" />
+        </attvalues>
+      </node>
+      <node id="BTKB" label="BTKB">
+        <attvalues>
+          <attvalue for="0" value="BTKB" />
+          <attvalue for="1" value="Bathna Krittibas Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.48266943" />
+          <attvalue for="4" value="23.236313600000003" />
+        </attvalues>
+      </node>
+      <node id="BQA" label="BQA">
+        <attvalues>
+          <attvalue for="0" value="BQA" />
+          <attvalue for="1" value="BANKURA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.07468750000001" />
+          <attvalue for="4" value="23.224387099999998" />
+        </attvalues>
+      </node>
+      <node id="BRJ" label="BRJ">
+        <attvalues>
+          <attvalue for="0" value="BRJ" />
+          <attvalue for="1" value="Brace Bridge" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.301496" />
+          <attvalue for="4" value="22.517861" />
+        </attvalues>
+      </node>
+      <node id="BTPG" label="BTPG">
+        <attvalues>
+          <attvalue for="0" value="BTPG" />
+          <attvalue for="1" value="Betheria Ghola" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.573321" />
+          <attvalue for="4" value="22.350122" />
+        </attvalues>
+      </node>
+      <node id="BRPK" label="BRPK">
+        <attvalues>
+          <attvalue for="0" value="BRPK" />
+          <attvalue for="1" value="Bisharpara Kodaliya" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.434731" />
+          <attvalue for="4" value="22.676284" />
+        </attvalues>
+      </node>
+      <node id="BYSA" label="BYSA">
+        <attvalues>
+          <attvalue for="0" value="BYSA" />
+          <attvalue for="1" value="Basulyasutahata" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.13056325" />
+          <attvalue for="4" value="22.12030128" />
+        </attvalues>
+      </node>
+      <node id="BXT" label="BXT">
+        <attvalues>
+          <attvalue for="0" value="BXT" />
+          <attvalue for="1" value="Bamanhat" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.62797752581537" />
+          <attvalue for="4" value="26.076284459879247" />
+        </attvalues>
+      </node>
+      <node id="BUTA" label="BUTA">
+        <attvalues>
+          <attvalue for="0" value="BUTA" />
+          <attvalue for="1" value="BHADUTALA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.3208" />
+          <attvalue for="4" value="22.485657" />
+        </attvalues>
+      </node>
+      <node id="CDGR" label="CDGR">
+        <attvalues>
+          <attvalue for="0" value="CDGR" />
+          <attvalue for="1" value="CHANDRAKONA RD" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.340588" />
+          <attvalue for="4" value="22.739076" />
+        </attvalues>
+      </node>
+      <node id="ANR" label="ANR">
+        <attvalues>
+          <attvalue for="0" value="ANR" />
+          <attvalue for="1" value="ANARA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.559763" />
+          <attvalue for="4" value="23.481082" />
+        </attvalues>
+      </node>
+      <node id="CG" label="CG">
+        <attvalues>
+          <attvalue for="0" value="CG" />
+          <attvalue for="1" value="Canning" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.667458" />
+          <attvalue for="4" value="22.313264" />
+        </attvalues>
+      </node>
+      <node id="DGNR" label="DGNR">
+        <attvalues>
+          <attvalue for="0" value="DGNR" />
+          <attvalue for="1" value="Durganagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.419" />
+          <attvalue for="4" value="22.650758" />
+        </attvalues>
+      </node>
+      <node id="CDH" label="CDH">
+        <attvalues>
+          <attvalue for="0" value="CDH" />
+          <attvalue for="1" value="Chakdaha" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.529672" />
+          <attvalue for="4" value="23.078406" />
+        </attvalues>
+      </node>
+      <node id="MLYA" label="MLYA">
+        <attvalues>
+          <attvalue for="0" value="MLYA" />
+          <attvalue for="1" value="Maliya" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.136281" />
+          <attvalue for="4" value="22.831668" />
+        </attvalues>
+      </node>
+      <node id="DMU" label="DMU">
+        <attvalues>
+          <attvalue for="0" value="DMU" />
+          <attvalue for="1" value="Dhamua" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.392178" />
+          <attvalue for="4" value="22.290179" />
+        </attvalues>
+      </node>
+      <node id="DHH" label="DHH">
+        <attvalues>
+          <attvalue for="0" value="DHH" />
+          <attvalue for="1" value="Dinhata" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.5868746" />
+          <attvalue for="4" value="26.0707762" />
+        </attvalues>
+      </node>
+      <node id="DKDP" label="DKDP">
+        <attvalues>
+          <attvalue for="0" value="DKDP" />
+          <attvalue for="1" value="Dakshin Durgapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.399338" />
+          <attvalue for="4" value="22.308871" />
+        </attvalues>
+      </node>
+      <node id="DJRZ" label="DJRZ">
+        <attvalues>
+          <attvalue for="0" value="DJRZ" />
+          <attvalue for="1" value="To Darjeeling" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.3332302" />
+          <attvalue for="4" value="26.8521353" />
+        </attvalues>
+      </node>
+      <node id="DPDP" label="DPDP">
+        <attvalues>
+          <attvalue for="0" value="DPDP" />
+          <attvalue for="1" value="Dhapdhapi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.459855" />
+          <attvalue for="4" value="22.315994" />
+        </attvalues>
+      </node>
+      <node id="DHU" label="DHU">
+        <attvalues>
+          <attvalue for="0" value="DHU" />
+          <attvalue for="1" value="Dhubulia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.441145" />
+          <attvalue for="4" value="23.483546" />
+        </attvalues>
+      </node>
+      <node id="FLU" label="FLU">
+        <attvalues>
+          <attvalue for="0" value="FLU" />
+          <attvalue for="1" value="Phulia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.49634" />
+          <attvalue for="4" value="23.229896999999998" />
+        </attvalues>
+      </node>
+      <node id="DZKT" label="DZKT">
+        <attvalues>
+          <attvalue for="0" value="DZKT" />
+          <attvalue for="1" value="Durga Chak Town" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.136032" />
+          <attvalue for="4" value="22.066831" />
+        </attvalues>
+      </node>
+      <node id="DZK" label="DZK">
+        <attvalues>
+          <attvalue for="0" value="DZK" />
+          <attvalue for="1" value="Durgachak" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.15527399999999" />
+          <attvalue for="4" value="22.082011" />
+        </attvalues>
+      </node>
+      <node id="NAI" label="NAI">
+        <attvalues>
+          <attvalue for="0" value="NAI" />
+          <attvalue for="1" value="Nangi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.223984" />
+          <attvalue for="4" value="22.500255999999997" />
+        </attvalues>
+      </node>
+      <node id="DUJ" label="DUJ">
+        <attvalues>
+          <attvalue for="0" value="DUJ" />
+          <attvalue for="1" value="DUBRAJPUR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.378973" />
+          <attvalue for="4" value="23.803358" />
+        </attvalues>
+      </node>
+      <node id="GBA" label="GBA">
+        <attvalues>
+          <attvalue for="0" value="GBA" />
+          <attvalue for="1" value="GARHBETA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.320972" />
+          <attvalue for="4" value="22.844562" />
+        </attvalues>
+      </node>
+      <node id="GIA" label="GIA">
+        <attvalues>
+          <attvalue for="0" value="GIA" />
+          <attvalue for="1" value="Garia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.404673" />
+          <attvalue for="4" value="22.465958999999998" />
+        </attvalues>
+      </node>
+      <node id="GHUM" label="GHUM">
+        <attvalues>
+          <attvalue for="0" value="GHUM" />
+          <attvalue for="1" value="Ghoom" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.254223" />
+          <attvalue for="4" value="27.008643" />
+        </attvalues>
+      </node>
+      <node id="GEDE" label="GEDE">
+        <attvalues>
+          <attvalue for="0" value="GEDE" />
+          <attvalue for="1" value="Gede" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.786737" />
+          <attvalue for="4" value="23.491197" />
+        </attvalues>
+      </node>
+      <node id="GRB" label="GRB">
+        <attvalues>
+          <attvalue for="0" value="GRB" />
+          <attvalue for="1" value="GARHDHRUBESWAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.617006" />
+          <attvalue for="4" value="23.509341" />
+        </attvalues>
+      </node>
+      <node id="HBE" label="HBE">
+        <attvalues>
+          <attvalue for="0" value="HBE" />
+          <attvalue for="1" value="Habibpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.538423" />
+          <attvalue for="4" value="23.211966999999998" />
+        </attvalues>
+      </node>
+      <node id="HGA" label="HGA">
+        <attvalues>
+          <attvalue for="0" value="HGA" />
+          <attvalue for="1" value="Hogla" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.452384" />
+          <attvalue for="4" value="22.255044" />
+        </attvalues>
+      </node>
+      <node id="HLZ" label="HLZ">
+        <attvalues>
+          <attvalue for="0" value="HLZ" />
+          <attvalue for="1" value="Haldia" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.06589" />
+          <attvalue for="4" value="22.045284" />
+        </attvalues>
+      </node>
+      <node id="GSL" label="GSL">
+        <attvalues>
+          <attvalue for="0" value="GSL" />
+          <attvalue for="1" value="GODAPIASAL" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.320806" />
+          <attvalue for="4" value="22.530677" />
+        </attvalues>
+      </node>
+      <node id="HSA" label="HSA">
+        <attvalues>
+          <attvalue for="0" value="HSA" />
+          <attvalue for="1" value="HASIMARA" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.347661" />
+          <attvalue for="4" value="26.72689" />
+        </attvalues>
+      </node>
+      <node id="HRSR" label="HRSR">
+        <attvalues>
+          <attvalue for="0" value="HRSR" />
+          <attvalue for="1" value="Harish Nagar Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.77798899999999" />
+          <attvalue for="4" value="23.469777" />
+        </attvalues>
+      </node>
+      <node id="JDP" label="JDP">
+        <attvalues>
+          <attvalue for="0" value="JDP" />
+          <attvalue for="1" value="Jadabpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.37469700000001" />
+          <attvalue for="4" value="22.495442" />
+        </attvalues>
+      </node>
+      <node id="JKL" label="JKL">
+        <attvalues>
+          <attvalue for="0" value="JKL" />
+          <attvalue for="1" value="Jalal Khali" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="88.513628" />
+          <attvalue for="4" value="23.347507999999998" />
+        </attvalues>
+      </node>
+      <node id="IBL" label="IBL">
+        <attvalues>
+          <attvalue for="0" value="IBL" />
+          <attvalue for="1" value="INDRABIL" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.78164699999999" />
+          <attvalue for="4" value="23.445293999999997" />
+        </attvalues>
+      </node>
+      <node id="JPH" label="JPH">
+        <attvalues>
+          <attvalue for="0" value="JPH" />
+          <attvalue for="1" value="JHANTIPAHARI" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="86.904491" />
+          <attvalue for="4" value="23.353362999999998" />
+        </attvalues>
+      </node>
+      <node id="KBGH" label="KBGH">
+        <attvalues>
+          <attvalue for="0" value="KBGH" />
+          <attvalue for="1" value="Karea Kadambagachhi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.534887" />
+          <attvalue for="4" value="22.705299" />
+        </attvalues>
+      </node>
+      <node id="KAJ" label="KAJ">
+        <attvalues>
+          <attvalue for="0" value="KAJ" />
+          <attvalue for="1" value="Kaliyaganj" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.330404" />
+          <attvalue for="4" value="25.6393" />
+        </attvalues>
+      </node>
+      <node id="KCF" label="KCF">
+        <attvalues>
+          <attvalue for="0" value="KCF" />
+          <attvalue for="1" value="KALCHINI" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.447487" />
+          <attvalue for="4" value="26.687507" />
+        </attvalues>
+      </node>
+      <node id="KKAE" label="KKAE">
+        <attvalues>
+          <attvalue for="0" value="KKAE" />
+          <attvalue for="1" value="Kaikala" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.09337895" />
+          <attvalue for="4" value="22.83998676" />
+        </attvalues>
+      </node>
+      <node id="KHGR" label="KHGR">
+        <attvalues>
+          <attvalue for="0" value="KHGR" />
+          <attvalue for="1" value="Kashinagar Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.20132346" />
+          <attvalue for="4" value="21.90539421" />
+        </attvalues>
+      </node>
+      <node id="KLKR" label="KLKR">
+        <attvalues>
+          <attvalue for="0" value="KLKR" />
+          <attvalue for="1" value="Kalikapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.47502999999999" />
+          <attvalue for="4" value="22.412606" />
+        </attvalues>
+      </node>
+      <node id="KLW" label="KLW">
+        <attvalues>
+          <attvalue for="0" value="KLW" />
+          <attvalue for="1" value="Kalwan Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.256019" />
+          <attvalue for="4" value="22.076525" />
+        </attvalues>
+      </node>
+      <node id="KPA" label="KPA">
+        <attvalues>
+          <attvalue for="0" value="KPA" />
+          <attvalue for="1" value="Kanchrapara" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.451231" />
+          <attvalue for="4" value="22.946024" />
+        </attvalues>
+      </node>
+      <node id="KRXM" label="KRXM">
+        <attvalues>
+          <attvalue for="0" value="KRXM" />
+          <attvalue for="1" value="Krishnamohan Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.449759" />
+          <attvalue for="4" value="22.330258" />
+        </attvalues>
+      </node>
+      <node id="KRP" label="KRP">
+        <attvalues>
+          <attvalue for="0" value="KRP" />
+          <attvalue for="1" value="Krishnapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.25613200000001" />
+          <attvalue for="4" value="24.406330999999998" />
+        </attvalues>
+      </node>
+      <node id="KRKN" label="KRKN">
+        <attvalues>
+          <attvalue for="0" value="KRKN" />
+          <attvalue for="1" value="Karkend" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.369799" />
+          <attvalue for="4" value="23.765615" />
+        </attvalues>
+      </node>
+      <node id="KSU" label="KSU">
+        <attvalues>
+          <attvalue for="0" value="KSU" />
+          <attvalue for="1" value="KUSHTAUR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.498336" />
+          <attvalue for="4" value="23.430415999999997" />
+        </attvalues>
+      </node>
+      <node id="KWDP" label="KWDP">
+        <attvalues>
+          <attvalue for="0" value="KWDP" />
+          <attvalue for="1" value="Kakdwip" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.19387900000001" />
+          <attvalue for="4" value="21.8796" />
+        </attvalues>
+      </node>
+      <node id="KWF" label="KWF">
+        <attvalues>
+          <attvalue for="0" value="KWF" />
+          <attvalue for="1" value="Katwa" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.123575" />
+          <attvalue for="4" value="23.639805" />
+        </attvalues>
+      </node>
+      <node id="KYP" label="KYP">
+        <attvalues>
+          <attvalue for="0" value="KYP" />
+          <attvalue for="1" value="Kalyanpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.414597" />
+          <attvalue for="4" value="22.343456" />
+        </attvalues>
+      </node>
+      <node id="LKPR" label="LKPR">
+        <attvalues>
+          <attvalue for="0" value="LKPR" />
+          <attvalue for="1" value="Lakshmikantpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.321958" />
+          <attvalue for="4" value="22.110055" />
+        </attvalues>
+      </node>
+      <node id="KYI" label="KYI">
+        <attvalues>
+          <attvalue for="0" value="KYI" />
+          <attvalue for="1" value="Kalyani" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.467499" />
+          <attvalue for="4" value="22.969219" />
+        </attvalues>
+      </node>
+      <node id="LGL" label="LGL">
+        <attvalues>
+          <attvalue for="0" value="LGL" />
+          <attvalue for="1" value="Lalgola" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.257513" />
+          <attvalue for="4" value="24.421152" />
+        </attvalues>
+      </node>
+      <node id="LBTL" label="LBTL">
+        <attvalues>
+          <attvalue for="0" value="LBTL" />
+          <attvalue for="1" value="Lebutala" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.640107" />
+          <attvalue for="4" value="22.666791" />
+        </attvalues>
+      </node>
+      <node id="MAK" label="MAK">
+        <attvalues>
+          <attvalue for="0" value="MAK" />
+          <attvalue for="1" value="Mallikpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.43331500000001" />
+          <attvalue for="4" value="22.396985" />
+        </attvalues>
+      </node>
+      <node id="MDF" label="MDF">
+        <attvalues>
+          <attvalue for="0" value="MDF" />
+          <attvalue for="1" value="MURADI" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.80929" />
+          <attvalue for="4" value="23.593092000000002" />
+        </attvalues>
+      </node>
+      <node id="MDBP" label="MDBP">
+        <attvalues>
+          <attvalue for="0" value="MDBP" />
+          <attvalue for="1" value="Madhabpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.347323" />
+          <attvalue for="4" value="22.119207" />
+        </attvalues>
+      </node>
+      <node id="MIJ" label="MIJ">
+        <attvalues>
+          <attvalue for="0" value="MIJ" />
+          <attvalue for="1" value="Majhdia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.719031" />
+          <attvalue for="4" value="23.414561999999997" />
+        </attvalues>
+      </node>
+      <node id="MGLE" label="MGLE">
+        <attvalues>
+          <attvalue for="0" value="MGLE" />
+          <attvalue for="1" value="MANIGRAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.107881626" />
+          <attvalue for="4" value="24.3428549076" />
+        </attvalues>
+      </node>
+      <node id="MJE" label="MJE">
+        <attvalues>
+          <attvalue for="0" value="MJE" />
+          <attvalue for="1" value="MUJNAL" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.191957" />
+          <attvalue for="4" value="26.693327999999998" />
+        </attvalues>
+      </node>
+      <node id="MGAE" label="MGAE">
+        <attvalues>
+          <attvalue for="0" value="MGAE" />
+          <attvalue for="1" value="Morgram" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.018413" />
+          <attvalue for="4" value="24.304919" />
+        </attvalues>
+      </node>
+      <node id="MGM" label="MGM">
+        <attvalues>
+          <attvalue for="0" value="MGM" />
+          <attvalue for="1" value="Muragacha" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.421243" />
+          <attvalue for="4" value="23.529636" />
+        </attvalues>
+      </node>
+      <node id="MPLR" label="MPLR">
+        <attvalues>
+          <attvalue for="0" value="MPLR" />
+          <attvalue for="1" value="MAHIPAL ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.1911711557" />
+          <attvalue for="4" value="24.2875453877" />
+        </attvalues>
+      </node>
+      <node id="MMG" label="MMG">
+        <attvalues>
+          <attvalue for="0" value="MMG" />
+          <attvalue for="1" value="Madhyamgram" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.45225400000001" />
+          <attvalue for="4" value="22.693938" />
+        </attvalues>
+      </node>
+      <node id="MPLE" label="MPLE">
+        <attvalues>
+          <attvalue for="0" value="MPLE" />
+          <attvalue for="1" value="MAHIPAL" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.162107" />
+          <attvalue for="4" value="24.30631" />
+        </attvalues>
+      </node>
+      <node id="MTFA" label="MTFA">
+        <attvalues>
+          <attvalue for="0" value="MTFA" />
+          <attvalue for="1" value="MERTALA PHALEYA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.319686" />
+          <attvalue for="4" value="23.479665999999998" />
+        </attvalues>
+      </node>
+      <node id="MSDL" label="MSDL">
+        <attvalues>
+          <attvalue for="0" value="MSDL" />
+          <attvalue for="1" value="Mahisadal" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.010799" />
+          <attvalue for="4" value="22.176298999999997" />
+        </attvalues>
+      </node>
+      <node id="NCP" label="NCP">
+        <attvalues>
+          <attvalue for="0" value="NCP" />
+          <attvalue for="1" value="Nishchindapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.214325" />
+          <attvalue for="4" value="21.973426" />
+        </attvalues>
+      </node>
+      <node id="MYHT" label="MYHT">
+        <attvalues>
+          <attvalue for="0" value="MYHT" />
+          <attvalue for="1" value="Mayurhat" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.661013" />
+          <attvalue for="4" value="23.363017" />
+        </attvalues>
+      </node>
+      <node id="NKL" label="NKL">
+        <attvalues>
+          <attvalue for="0" value="NKL" />
+          <attvalue for="1" value="Nalikul" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.16622600000001" />
+          <attvalue for="4" value="22.829712999999998" />
+        </attvalues>
+      </node>
+      <node id="NDAE" label="NDAE">
+        <attvalues>
+          <attvalue for="0" value="NDAE" />
+          <attvalue for="1" value="NABADWIP DHAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.356472" />
+          <attvalue for="4" value="23.396593" />
+        </attvalues>
+      </node>
+      <node id="NBE" label="NBE">
+        <attvalues>
+          <attvalue for="0" value="NBE" />
+          <attvalue for="1" value="New Barrackpore" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.444755" />
+          <attvalue for="4" value="22.687235" />
+        </attvalues>
+      </node>
+      <node id="NMZ" label="NMZ">
+        <attvalues>
+          <attvalue for="0" value="NMZ" />
+          <attvalue for="1" value="NEW MAL JN" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.724837" />
+          <attvalue for="4" value="26.87368" />
+        </attvalues>
+      </node>
+      <node id="NMKA" label="NMKA">
+        <attvalues>
+          <attvalue for="0" value="NMKA" />
+          <attvalue for="1" value="Namkhana" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.239558" />
+          <attvalue for="4" value="21.772235000000002" />
+        </attvalues>
+      </node>
+      <node id="NBPH" label="NBPH">
+        <attvalues>
+          <attvalue for="0" value="NBPH" />
+          <attvalue for="1" value="New Balarampur Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.24737400000001" />
+          <attvalue for="4" value="24.051233" />
+        </attvalues>
+      </node>
+      <node id="NLSF" label="NLSF">
+        <attvalues>
+          <attvalue for="0" value="NLSF" />
+          <attvalue for="1" value="NIYALISH PARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.246367" />
+          <attvalue for="4" value="24.156525000000002" />
+        </attvalues>
+      </node>
+      <node id="ODM" label="ODM">
+        <attvalues>
+          <attvalue for="0" value="ODM" />
+          <attvalue for="1" value="ONDAGRAM" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.202275" />
+          <attvalue for="4" value="23.147973999999998" />
+        </attvalues>
+      </node>
+      <node id="NSF" label="NSF">
+        <attvalues>
+          <attvalue for="0" value="NSF" />
+          <attvalue for="1" value="Nasibpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.262036" />
+          <attvalue for="4" value="22.804834999999997" />
+        </attvalues>
+      </node>
+      <node id="NRPR" label="NRPR">
+        <attvalues>
+          <attvalue for="0" value="NRPR" />
+          <attvalue for="1" value="Narendrapur Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.41769" />
+          <attvalue for="4" value="22.453419999999998" />
+        </attvalues>
+      </node>
+      <node id="NTA" label="NTA">
+        <attvalues>
+          <attvalue for="0" value="NTA" />
+          <attvalue for="1" value="Netra" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.25409499999999" />
+          <attvalue for="4" value="22.208105" />
+        </attvalues>
+      </node>
+      <node id="PDPK" label="PDPK">
+        <attvalues>
+          <attvalue for="0" value="PDPK" />
+          <attvalue for="1" value="PADMAPUKAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="88.3062197015" />
+          <attvalue for="4" value="22.5683088157" />
+        </attvalues>
+      </node>
+      <node id="PCX" label="PCX">
+        <attvalues>
+          <attvalue for="0" value="PCX" />
+          <attvalue for="1" value="Pagla Chandi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.303969" />
+          <attvalue for="4" value="23.743195" />
+        </attvalues>
+      </node>
+      <node id="PCR" label="PCR">
+        <attvalues>
+          <attvalue for="0" value="PCR" />
+          <attvalue for="1" value="PANCHRA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.330151" />
+          <attvalue for="4" value="23.771990000000002" />
+        </attvalues>
+      </node>
+      <node id="PBA" label="PBA">
+        <attvalues>
+          <attvalue for="0" value="PBA" />
+          <attvalue for="1" value="PIARDOBA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.322164" />
+          <attvalue for="4" value="22.956881" />
+        </attvalues>
+      </node>
+      <node id="PLF" label="PLF">
+        <attvalues>
+          <attvalue for="0" value="PLF" />
+          <attvalue for="1" value="Piali" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.51744099999999" />
+          <attvalue for="4" value="22.388254" />
+        </attvalues>
+      </node>
+      <node id="PNCB" label="PNCB">
+        <attvalues>
+          <attvalue for="0" value="PNCB" />
+          <attvalue for="1" value="Pancheberia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.599435" />
+          <attvalue for="4" value="23.221017" />
+        </attvalues>
+      </node>
+      <node id="PDX" label="PDX">
+        <attvalues>
+          <attvalue for="0" value="PDX" />
+          <attvalue for="1" value="Payradanga" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.545481" />
+          <attvalue for="4" value="23.128660999999997" />
+        </attvalues>
+      </node>
+      <node id="PRTL" label="PRTL">
+        <attvalues>
+          <attvalue for="0" value="PRTL" />
+          <attvalue for="1" value="Pirtala" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.28058300000001" />
+          <attvalue for="4" value="24.359325000000002" />
+        </attvalues>
+      </node>
+      <node id="RKI" label="RKI">
+        <attvalues>
+          <attvalue for="0" value="RKI" />
+          <attvalue for="1" value="RAMKANALI JN" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.76233599999999" />
+          <attvalue for="4" value="23.579891" />
+        </attvalues>
+      </node>
+      <node id="RGJ" label="RGJ">
+        <attvalues>
+          <attvalue for="0" value="RGJ" />
+          <attvalue for="1" value="RaiGanj" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.127696" />
+          <attvalue for="4" value="25.619125" />
+        </attvalues>
+      </node>
+      <node id="SAD" label="SAD">
+        <attvalues>
+          <attvalue for="0" value="SAD" />
+          <attvalue for="1" value="Sonada" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.273323" />
+          <attvalue for="4" value="26.960337" />
+        </attvalues>
+      </node>
+      <node id="RGX" label="RGX">
+        <attvalues>
+          <attvalue for="0" value="RGX" />
+          <attvalue for="1" value="Raghunathbari" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.797247" />
+          <attvalue for="4" value="22.353228" />
+        </attvalues>
+      </node>
+      <node id="SBGR" label="SBGR">
+        <attvalues>
+          <attvalue for="0" value="SBGR" />
+          <attvalue for="1" value="Subhas Gram" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.433753" />
+          <attvalue for="4" value="22.413546" />
+        </attvalues>
+      </node>
+      <node id="SALE" label="SALE">
+        <attvalues>
+          <attvalue for="0" value="SALE" />
+          <attvalue for="1" value="SALAR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.111097" />
+          <attvalue for="4" value="23.774579" />
+        </attvalues>
+      </node>
+      <node id="SHBA" label="SHBA">
+        <attvalues>
+          <attvalue for="0" value="SHBA" />
+          <attvalue for="1" value="SAHEBTALA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.200996" />
+          <attvalue for="4" value="23.591585" />
+        </attvalues>
+      </node>
+      <node id="SIU" label="SIU">
+        <attvalues>
+          <attvalue for="0" value="SIU" />
+          <attvalue for="1" value="Singur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.228712" />
+          <attvalue for="4" value="22.814558" />
+        </attvalues>
+      </node>
+      <node id="RSG" label="RSG">
+        <attvalues>
+          <attvalue for="0" value="RSG" />
+          <attvalue for="1" value="RAMSAGAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.277063" />
+          <attvalue for="4" value="23.106248" />
+        </attvalues>
+      </node>
+      <node id="SBNM" label="SBNM">
+        <attvalues>
+          <attvalue for="0" value="SBNM" />
+          <attvalue for="1" value="Subarnamrigi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.292124" />
+          <attvalue for="4" value="24.27321" />
+        </attvalues>
+      </node>
+      <node id="SHBL" label="SHBL">
+        <attvalues>
+          <attvalue for="0" value="SHBL" />
+          <attvalue for="1" value="SHIBLUN" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.082999" />
+          <attvalue for="4" value="23.692561" />
+        </attvalues>
+      </node>
+      <node id="SGUT" label="SGUT">
+        <attvalues>
+          <attvalue for="0" value="SGUT" />
+          <attvalue for="1" value="SILIGURU TOWN" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.42960699999999" />
+          <attvalue for="4" value="26.7073" />
+        </attvalues>
+      </node>
+      <node id="SGUJ" label="SGUJ">
+        <attvalues>
+          <attvalue for="0" value="SGUJ" />
+          <attvalue for="1" value="SILIGURI JN" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.413663" />
+          <attvalue for="4" value="26.723204" />
+        </attvalues>
+      </node>
+      <node id="SJPR" label="SJPR">
+        <attvalues>
+          <attvalue for="0" value="SJPR" />
+          <attvalue for="1" value="Surjyapur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.466557" />
+          <attvalue for="4" value="22.293128" />
+        </attvalues>
+      </node>
+      <node id="SNU" label="SNU">
+        <attvalues>
+          <attvalue for="0" value="SNU" />
+          <attvalue for="1" value="Sangrampur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.32876" />
+          <attvalue for="4" value="22.224929" />
+        </attvalues>
+      </node>
+      <node id="SJPA" label="SJPA">
+        <attvalues>
+          <attvalue for="0" value="SJPA" />
+          <attvalue for="1" value="Sujalpur" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.65749699999999" />
+          <attvalue for="4" value="21.763167000000003" />
+        </attvalues>
+      </node>
+      <node id="SSP" label="SSP">
+        <attvalues>
+          <attvalue for="0" value="SSP" />
+          <attvalue for="1" value="Santoshpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.272502" />
+          <attvalue for="4" value="22.524414" />
+        </attvalues>
+      </node>
+      <node id="SSRD" label="SSRD">
+        <attvalues>
+          <attvalue for="0" value="SSRD" />
+          <attvalue for="1" value="Shasan Road" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.434523" />
+          <attvalue for="4" value="22.346539999999997" />
+        </attvalues>
+      </node>
+      <node id="SMTG" label="SMTG">
+        <attvalues>
+          <attvalue for="0" value="SMTG" />
+          <attvalue for="1" value="Saheed Matangini" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.90811500000001" />
+          <attvalue for="4" value="22.301973999999998" />
+        </attvalues>
+      </node>
+      <node id="MHTR" label="MHTR">
+        <attvalues>
+          <attvalue for="0" value="MHTR" />
+          <attvalue for="1" value="MALIHATI TALIBPUR ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.126194" />
+          <attvalue for="4" value="23.79372" />
+        </attvalues>
+      </node>
+      <node id="SVQ" label="SVQ">
+        <attvalues>
+          <attvalue for="0" value="SVQ" />
+          <attvalue for="1" value="SIVOK" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.468742" />
+          <attvalue for="4" value="26.880144" />
+        </attvalues>
+      </node>
+      <node id="TKF" label="TKF">
+        <attvalues>
+          <attvalue for="0" value="TKF" />
+          <attvalue for="1" value="Taki Road" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.915553" />
+          <attvalue for="4" value="22.587179" />
+        </attvalues>
+      </node>
+      <node id="TNX" label="TNX">
+        <attvalues>
+          <attvalue for="0" value="TNX" />
+          <attvalue for="1" value="Tarak Nagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.680184" />
+          <attvalue for="4" value="23.38018" />
+        </attvalues>
+      </node>
+      <node id="SXP" label="SXP">
+        <attvalues>
+          <attvalue for="0" value="SXP" />
+          <attvalue for="1" value="SANKOPARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.9344515665" />
+          <attvalue for="4" value="24.7176851264" />
+        </attvalues>
+      </node>
+      <node id="TLX" label="TLX">
+        <attvalues>
+          <attvalue for="0" value="TLX" />
+          <attvalue for="1" value="Taldi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.60875899999999" />
+          <attvalue for="4" value="22.343647" />
+        </attvalues>
+      </node>
+      <node id="TMZ" label="TMZ">
+        <attvalues>
+          <attvalue for="0" value="TMZ" />
+          <attvalue for="1" value="Tamluk" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.91914399999999" />
+          <attvalue for="4" value="22.275813" />
+        </attvalues>
+      </node>
+      <node id="TYAE" label="TYAE">
+        <attvalues>
+          <attvalue for="0" value="TYAE" />
+          <attvalue for="1" value="TENYA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.148864" />
+          <attvalue for="4" value="23.822157" />
+        </attvalues>
+      </node>
+      <node id="UKA" label="UKA">
+        <attvalues>
+          <attvalue for="0" value="UKA" />
+          <attvalue for="1" value="UKHRA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.232537" />
+          <attvalue for="4" value="23.653692" />
+        </attvalues>
+      </node>
+      <node id="UTN" label="UTN">
+        <attvalues>
+          <attvalue for="0" value="UTN" />
+          <attvalue for="1" value="Uttar Radhanagar Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.383365" />
+          <attvalue for="4" value="22.269458" />
+        </attvalues>
+      </node>
+      <node id="VSPR" label="VSPR">
+        <attvalues>
+          <attvalue for="0" value="VSPR" />
+          <attvalue for="1" value="BISHNUPRIYA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.3552" />
+          <attvalue for="4" value="23.413186" />
+        </attvalues>
+      </node>
+      <node id="VSU" label="VSU">
+        <attvalues>
+          <attvalue for="0" value="VSU" />
+          <attvalue for="1" value="BISHNUPUR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.30107100000001" />
+          <attvalue for="4" value="23.065499000000003" />
+        </attvalues>
+      </node>
+      <node id="ACLE" label="ACLE">
+        <attvalues>
+          <attvalue for="0" value="ACLE" />
+          <attvalue for="1" value="AZIMGANJ CITY" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.25887100000001" />
+          <attvalue for="4" value="24.237941" />
+        </attvalues>
+      </node>
+      <node id="AZ" label="AZ">
+        <attvalues>
+          <attvalue for="0" value="AZ" />
+          <attvalue for="1" value="AZIMGANJ JN" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.256764" />
+          <attvalue for="4" value="24.219053" />
+        </attvalues>
+      </node>
+      <node id="APD" label="APD">
+        <attvalues>
+          <attvalue for="0" value="APD" />
+          <attvalue for="1" value="Alipur Duar" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.520667" />
+          <attvalue for="4" value="26.479307000000002" />
+        </attvalues>
+      </node>
+      <node id="BGRD" label="BGRD">
+        <attvalues>
+          <attvalue for="0" value="BGRD" />
+          <attvalue for="1" value="Beliaghata Road" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.607005" />
+          <attvalue for="4" value="22.674548" />
+        </attvalues>
+      </node>
+      <node id="BMGA" label="BMGA">
+        <attvalues>
+          <attvalue for="0" value="BMGA" />
+          <attvalue for="1" value="BHIMGARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.28427905" />
+          <attvalue for="4" value="23.73804814" />
+        </attvalues>
+      </node>
+      <node id="BQY" label="BQY">
+        <attvalues>
+          <attvalue for="0" value="BQY" />
+          <attvalue for="1" value="BELERHAT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.28291748000001" />
+          <attvalue for="4" value="23.51930706" />
+        </attvalues>
+      </node>
+      <node id="BNV" label="BNV">
+        <attvalues>
+          <attvalue for="0" value="BNV" />
+          <attvalue for="1" value="BINNAGURI" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.05239089999999" />
+          <attvalue for="4" value="26.747088299999998" />
+        </attvalues>
+      </node>
+      <node id="DLO" label="DLO">
+        <attvalues>
+          <attvalue for="0" value="DLO" />
+          <attvalue for="1" value="DALGAON" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.136244" />
+          <attvalue for="4" value="26.715384" />
+        </attvalues>
+      </node>
+      <node id="BJY" label="BJY">
+        <attvalues>
+          <attvalue for="0" value="BJY" />
+          <attvalue for="1" value="Bangalbaree" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.22942499999999" />
+          <attvalue for="4" value="25.626454" />
+        </attvalues>
+      </node>
+      <node id="DMA" label="DMA">
+        <attvalues>
+          <attvalue for="0" value="DMA" />
+          <attvalue for="1" value="DAMODAR JUNCTION" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.908517" />
+          <attvalue for="4" value="23.651021" />
+        </attvalues>
+      </node>
+      <node id="DGHA" label="DGHA">
+        <attvalues>
+          <attvalue for="0" value="DGHA" />
+          <attvalue for="1" value="Digha Flag Station" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.507655" />
+          <attvalue for="4" value="21.622377" />
+        </attvalues>
+      </node>
+      <node id="DLX" label="DLX">
+        <attvalues>
+          <attvalue for="0" value="DLX" />
+          <attvalue for="1" value="Dalimgaon" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.38629999999999" />
+          <attvalue for="4" value="25.640548000000003" />
+        </attvalues>
+      </node>
+      <node id="BSLA" label="BSLA">
+        <attvalues>
+          <attvalue for="0" value="BSLA" />
+          <attvalue for="1" value="Bhasila" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.65854499999999" />
+          <attvalue for="4" value="22.665494000000002" />
+        </attvalues>
+      </node>
+      <node id="GALE" label="GALE">
+        <attvalues>
+          <attvalue for="0" value="GALE" />
+          <attvalue for="1" value="GANKAR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.07289439819999" />
+          <attvalue for="4" value="24.404804119599998" />
+        </attvalues>
+      </node>
+      <node id="FLM" label="FLM">
+        <attvalues>
+          <attvalue for="0" value="FLM" />
+          <attvalue for="1" value="Falimari" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.5868746" />
+          <attvalue for="4" value="26.0707762" />
+        </attvalues>
+      </node>
+      <node id="GGV" label="GGV">
+        <attvalues>
+          <attvalue for="0" value="GGV" />
+          <attvalue for="1" value="Ghovarash Ghona" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.78289199999999" />
+          <attvalue for="4" value="22.651678" />
+        </attvalues>
+      </node>
+      <node id="JOC" label="JOC">
+        <attvalues>
+          <attvalue for="0" value="JOC" />
+          <attvalue for="1" value="JOYCHANDI PAHAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.68033899999999" />
+          <attvalue for="4" value="23.516393" />
+        </attvalues>
+      </node>
+      <node id="HRO" label="HRO">
+        <attvalues>
+          <attvalue for="0" value="HRO" />
+          <attvalue for="1" value="Harua Road" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.689994" />
+          <attvalue for="4" value="22.661628" />
+        </attvalues>
+      </node>
+      <node id="KJU" label="KJU">
+        <attvalues>
+          <attvalue for="0" value="KJU" />
+          <attvalue for="1" value="KUNTIGHAT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.413149" />
+          <attvalue for="4" value="23.016799000000002" />
+        </attvalues>
+      </node>
+      <node id="TKRA" label="TKRA">
+        <attvalues>
+          <attvalue for="0" value="TKRA" />
+          <attvalue for="1" value="Tikra Ph" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.531081" />
+          <attvalue for="4" value="21.664080000000002" />
+        </attvalues>
+      </node>
+      <node id="KNJ" label="KNJ">
+        <attvalues>
+          <attvalue for="0" value="KNJ" />
+          <attvalue for="1" value="Krishnanagar City Junction" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.493636" />
+          <attvalue for="4" value="23.388714" />
+        </attvalues>
+      </node>
+      <node id="MBB" label="MBB">
+        <attvalues>
+          <attvalue for="0" value="MBB" />
+          <attvalue for="1" value="Murshidabad" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.281598" />
+          <attvalue for="4" value="24.176963999999998" />
+        </attvalues>
+      </node>
+      <node id="MPJ" label="MPJ">
+        <attvalues>
+          <attvalue for="0" value="MPJ" />
+          <attvalue for="1" value="Madanpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.489717" />
+          <attvalue for="4" value="23.005927999999997" />
+        </attvalues>
+      </node>
+      <node id="MPN" label="MPN">
+        <attvalues>
+          <attvalue for="0" value="MPN" />
+          <attvalue for="1" value="Madhyampur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.896007" />
+          <attvalue for="4" value="22.619981" />
+        </attvalues>
+      </node>
+      <node id="SURI" label="SURI">
+        <attvalues>
+          <attvalue for="0" value="SURI" />
+          <attvalue for="1" value="SIURI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.5327" />
+          <attvalue for="4" value="23.890185" />
+        </attvalues>
+      </node>
+      <node id="NWMS" label="NWMS">
+        <attvalues>
+          <attvalue for="0" value="NWMS" />
+          <attvalue for="1" value="NOAPARA MAHISHA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.13727399999999" />
+          <attvalue for="4" value="24.323279" />
+        </attvalues>
+      </node>
+      <node id="ODB" label="ODB">
+        <attvalues>
+          <attvalue for="0" value="ODB" />
+          <attvalue for="1" value="OODLABARI" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.624639" />
+          <attvalue for="4" value="26.866793" />
+        </attvalues>
+      </node>
+      <node id="RUI" label="RUI">
+        <attvalues>
+          <attvalue for="0" value="RUI" />
+          <attvalue for="1" value="Rukni" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.548025" />
+          <attvalue for="4" value="23.551806" />
+        </attvalues>
+      </node>
+      <node id="RMRB" label="RMRB">
+        <attvalues>
+          <attvalue for="0" value="RMRB" />
+          <attvalue for="1" value="Ramnagar Bengal" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.55405" />
+          <attvalue for="4" value="21.677450999999998" />
+        </attvalues>
+      </node>
+      <node id="RGA" label="RGA">
+        <attvalues>
+          <attvalue for="0" value="RGA" />
+          <attvalue for="1" value="Rajgoda" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.866472" />
+          <attvalue for="4" value="22.324313" />
+        </attvalues>
+      </node>
+      <node id="RVK" label="RVK">
+        <attvalues>
+          <attvalue for="0" value="RVK" />
+          <attvalue for="1" value="RAJA BHAT KHAWA" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.528605351" />
+          <attvalue for="4" value="26.6201438112" />
+        </attvalues>
+      </node>
+      <node id="SGV" label="SGV">
+        <attvalues>
+          <attvalue for="0" value="SGV" />
+          <attvalue for="1" value="Sargachhi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.244037" />
+          <attvalue for="4" value="24.01772" />
+        </attvalues>
+      </node>
+      <node id="PXR" label="PXR">
+        <attvalues>
+          <attvalue for="0" value="PXR" />
+          <attvalue for="1" value="Palpara" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.520722" />
+          <attvalue for="4" value="23.059458" />
+        </attvalues>
+      </node>
+      <node id="SPLE" label="SPLE">
+        <attvalues>
+          <attvalue for="0" value="SPLE" />
+          <attvalue for="1" value="SUJNIPARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.03679699999999" />
+          <attvalue for="4" value="24.571584" />
+        </attvalues>
+      </node>
+      <node id="SOAE" label="SOAE">
+        <attvalues>
+          <attvalue for="0" value="SOAE" />
+          <attvalue for="1" value="SOMRA BAZAR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.433032" />
+          <attvalue for="4" value="23.13916" />
+        </attvalues>
+      </node>
+      <node id="SMX" label="SMX">
+        <attvalues>
+          <attvalue for="0" value="SMX" />
+          <attvalue for="1" value="Simurali" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.51016399999999" />
+          <attvalue for="4" value="23.041337" />
+        </attvalues>
+      </node>
+      <node id="TAK" label="TAK">
+        <attvalues>
+          <attvalue for="0" value="TAK" />
+          <attvalue for="1" value="Tarakeswar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.013437" />
+          <attvalue for="4" value="22.882582" />
+        </attvalues>
+      </node>
+      <node id="TUNG" label="TUNG">
+        <attvalues>
+          <attvalue for="0" value="TUNG" />
+          <attvalue for="1" value="Tung" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.294811" />
+          <attvalue for="4" value="26.921803" />
+        </attvalues>
+      </node>
+      <node id="ADRA" label="ADRA">
+        <attvalues>
+          <attvalue for="0" value="ADRA" />
+          <attvalue for="1" value="ADRA JN" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.67466499999999" />
+          <attvalue for="4" value="23.495992" />
+        </attvalues>
+      </node>
+      <node id="VTG" label="VTG">
+        <attvalues>
+          <attvalue for="0" value="VTG" />
+          <attvalue for="1" value="Bhetaguri" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.6653098" />
+          <attvalue for="4" value="26.3029681" />
+        </attvalues>
+      </node>
+      <node id="BFZ" label="BFZ">
+        <attvalues>
+          <attvalue for="0" value="BFZ" />
+          <attvalue for="1" value="BHANDARTIKURI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.32981731" />
+          <attvalue for="4" value="23.43319157" />
+        </attvalues>
+      </node>
+      <node id="BFT" label="BFT">
+        <attvalues>
+          <attvalue for="0" value="BFT" />
+          <attvalue for="1" value="Bhabta" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.241584" />
+          <attvalue for="4" value="23.9869677" />
+        </attvalues>
+      </node>
+      <node id="BAA" label="BAA">
+        <attvalues>
+          <attvalue for="0" value="BAA" />
+          <attvalue for="1" value="Barala" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.039851" />
+          <attvalue for="4" value="24.300532" />
+        </attvalues>
+      </node>
+      <node id="BDZ" label="BDZ">
+        <attvalues>
+          <attvalue for="0" value="BDZ" />
+          <attvalue for="1" value="Badkulla" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.526557" />
+          <attvalue for="4" value="23.3046657" />
+        </attvalues>
+      </node>
+      <node id="BBLA" label="BBLA">
+        <attvalues>
+          <attvalue for="0" value="BBLA" />
+          <attvalue for="1" value="Bhyabla Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.854932" />
+          <attvalue for="4" value="22.654259999999997" />
+        </attvalues>
+      </node>
+      <node id="BBT" label="BBT">
+        <attvalues>
+          <attvalue for="0" value="BBT" />
+          <attvalue for="1" value="Birati" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.42761300000001" />
+          <attvalue for="4" value="22.66472" />
+        </attvalues>
+      </node>
+      <node id="BSAE" label="BSAE">
+        <attvalues>
+          <attvalue for="0" value="BSAE" />
+          <attvalue for="1" value="BANSH BARIA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.395641" />
+          <attvalue for="4" value="22.957288000000002" />
+        </attvalues>
+      </node>
+      <node id="BQG" label="BQG">
+        <attvalues>
+          <attvalue for="0" value="BQG" />
+          <attvalue for="1" value="Bhagwangola" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.309816" />
+          <attvalue for="4" value="24.333178" />
+        </attvalues>
+      </node>
+      <node id="BRQ" label="BRQ">
+        <attvalues>
+          <attvalue for="0" value="BRQ" />
+          <attvalue for="1" value="BAGRAKOT" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.58596154" />
+          <attvalue for="4" value="26.87063169" />
+        </attvalues>
+      </node>
+      <node id="BNQ" label="BNQ">
+        <attvalues>
+          <attvalue for="0" value="BNQ" />
+          <attvalue for="1" value="BANARHAT" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.025682" />
+          <attvalue for="4" value="26.797885" />
+        </attvalues>
+      </node>
+      <node id="BSHT" label="BSHT">
+        <attvalues>
+          <attvalue for="0" value="BSHT" />
+          <attvalue for="1" value="Basirhat" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.86896" />
+          <attvalue for="4" value="22.650516" />
+        </attvalues>
+      </node>
+      <node id="BZLE" label="BZLE">
+        <attvalues>
+          <attvalue for="0" value="BZLE" />
+          <attvalue for="1" value="BAZARSAU" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.1828793" />
+          <attvalue for="4" value="23.8757926" />
+        </attvalues>
+      </node>
+      <node id="ANCR" label="ANCR">
+        <attvalues>
+          <attvalue for="0" value="ANCR" />
+          <attvalue for="1" value="ANCHURI" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.993174" />
+          <attvalue for="4" value="23.283904" />
+        </attvalues>
+      </node>
+      <node id="BSW" label="BSW">
+        <attvalues>
+          <attvalue for="0" value="BSW" />
+          <attvalue for="1" value="Baneswar" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.494466" />
+          <attvalue for="4" value="26.388205" />
+        </attvalues>
+      </node>
+      <node id="APDC" label="APDC">
+        <attvalues>
+          <attvalue for="0" value="APDC" />
+          <attvalue for="1" value="Alipur Duar Court" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.526808" />
+          <attvalue for="4" value="26.499254999999998" />
+        </attvalues>
+      </node>
+      <node id="BDPA" label="BDPA">
+        <attvalues>
+          <attvalue for="0" value="BDPA" />
+          <attvalue for="1" value="Badalpur Ph" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.616227" />
+          <attvalue for="4" value="21.710487" />
+        </attvalues>
+      </node>
+      <node id="BPC" label="BPC">
+        <attvalues>
+          <attvalue for="0" value="BPC" />
+          <attvalue for="1" value="Berhampore Court" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.263642" />
+          <attvalue for="4" value="24.0890841" />
+        </attvalues>
+      </node>
+      <node id="BT" label="BT">
+        <attvalues>
+          <attvalue for="0" value="BT" />
+          <attvalue for="1" value="Barasat" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.48348299999999" />
+          <attvalue for="4" value="22.723879999999998" />
+        </attvalues>
+      </node>
+      <node id="BPD" label="BPD">
+        <attvalues>
+          <attvalue for="0" value="BPD" />
+          <attvalue for="1" value="Bahadurpur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.4633792" />
+          <attvalue for="4" value="23.438519499999998" />
+        </attvalues>
+      </node>
+      <node id="DGLE" label="DGLE">
+        <attvalues>
+          <attvalue for="0" value="DGLE" />
+          <attvalue for="1" value="DHULIAN GANGA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.937644" />
+          <attvalue for="4" value="24.672086" />
+        </attvalues>
+      </node>
+      <node id="DHAE" label="DHAE">
+        <attvalues>
+          <attvalue for="0" value="DHAE" />
+          <attvalue for="1" value="DAINHAT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.17026899999999" />
+          <attvalue for="4" value="23.60191" />
+        </attvalues>
+      </node>
+      <node id="COB" label="COB">
+        <attvalues>
+          <attvalue for="0" value="COB" />
+          <attvalue for="1" value="Cooch Behar" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.6653098" />
+          <attvalue for="4" value="26.3029681" />
+        </attvalues>
+      </node>
+      <node id="BARU" label="BARU">
+        <attvalues>
+          <attvalue for="0" value="BARU" />
+          <attvalue for="1" value="Baharu" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.44446" />
+          <attvalue for="4" value="22.205278" />
+        </attvalues>
+      </node>
+      <node id="DHPD" label="DHPD">
+        <attvalues>
+          <attvalue for="0" value="DHPD" />
+          <attvalue for="1" value="DHAPARA DHAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.246087" />
+          <attvalue for="4" value="24.195866000000002" />
+        </attvalues>
+      </node>
+      <node id="DSPN" label="DSPN">
+        <attvalues>
+          <attvalue for="0" value="DSPN" />
+          <attvalue for="1" value="Deshpran Ph" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.817047" />
+          <attvalue for="4" value="22.029346999999998" />
+        </attvalues>
+      </node>
+      <node id="DWT" label="DWT">
+        <attvalues>
+          <attvalue for="0" value="DWT" />
+          <attvalue for="1" value="Dewan Hat" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.6653098" />
+          <attvalue for="4" value="26.3029681" />
+        </attvalues>
+      </node>
+      <node id="GMDN" label="GMDN">
+        <attvalues>
+          <attvalue for="0" value="GMDN" />
+          <attvalue for="1" value="GIRIMAIDAN" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.306151" />
+          <attvalue for="4" value="22.340478" />
+        </attvalues>
+      </node>
+      <node id="GKL" label="GKL">
+        <attvalues>
+          <attvalue for="0" value="GKL" />
+          <attvalue for="1" value="GOKULPUR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.293716" />
+          <attvalue for="4" value="22.375923" />
+        </attvalues>
+      </node>
+      <node id="GLMA" label="GLMA">
+        <attvalues>
+          <attvalue for="0" value="GLMA" />
+          <attvalue for="1" value="GULMA" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.403784" />
+          <attvalue for="4" value="26.802802" />
+        </attvalues>
+      </node>
+      <node id="BGL" label="BGL">
+        <attvalues>
+          <attvalue for="0" value="BGL" />
+          <attvalue for="1" value="Bagula" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.64640372000001" />
+          <attvalue for="4" value="23.335464709999997" />
+        </attvalues>
+      </node>
+      <node id="HHR" label="HHR">
+        <attvalues>
+          <attvalue for="0" value="HHR" />
+          <attvalue for="1" value="Hridaypur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.470282" />
+          <attvalue for="4" value="22.711098" />
+        </attvalues>
+      </node>
+      <node id="JVT" label="JVT">
+        <attvalues>
+          <attvalue for="0" value="JVT" />
+          <attvalue for="1" value="JIVANTI HALT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.192446" />
+          <attvalue for="4" value="24.080516999999997" />
+        </attvalues>
+      </node>
+      <node id="JJG" label="JJG">
+        <attvalues>
+          <attvalue for="0" value="JJG" />
+          <attvalue for="1" value="JiaGanj" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.27698" />
+          <attvalue for="4" value="24.244268" />
+        </attvalues>
+      </node>
+      <node id="JRLE" label="JRLE">
+        <attvalues>
+          <attvalue for="0" value="JRLE" />
+          <attvalue for="1" value="JANGIPUR ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.04076" />
+          <attvalue for="4" value="24.459515" />
+        </attvalues>
+      </node>
+      <node id="KGN" label="KGN">
+        <attvalues>
+          <attvalue for="0" value="KGN" />
+          <attvalue for="1" value="Kurseong" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.277001" />
+          <attvalue for="4" value="26.877401000000003" />
+        </attvalues>
+      </node>
+      <node id="D" label="D">
+        <attvalues>
+          <attvalue for="0" value="D" />
+          <attvalue for="1" value="Deula" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.28148300000001" />
+          <attvalue for="4" value="22.214924" />
+        </attvalues>
+      </node>
+      <node id="DEA" label="DEA">
+        <attvalues>
+          <attvalue for="0" value="DEA" />
+          <attvalue for="1" value="Diara" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.280471" />
+          <attvalue for="4" value="22.798157" />
+        </attvalues>
+      </node>
+      <node id="KTLR" label="KTLR">
+        <attvalues>
+          <attvalue for="0" value="KTLR" />
+          <attvalue for="1" value="KANTHALIYA ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.179001" />
+          <attvalue for="4" value="23.991771" />
+        </attvalues>
+      </node>
+      <node id="DH" label="DH">
+        <attvalues>
+          <attvalue for="0" value="DH" />
+          <attvalue for="1" value="Diamond Harbour" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.18991600000001" />
+          <attvalue for="4" value="22.191902" />
+        </attvalues>
+      </node>
+      <node id="DHK" label="DHK">
+        <attvalues>
+          <attvalue for="0" value="DHK" />
+          <attvalue for="1" value="Dhakuria" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.371504" />
+          <attvalue for="4" value="22.51554" />
+        </attvalues>
+      </node>
+      <node id="KZPR" label="KZPR">
+        <attvalues>
+          <attvalue for="0" value="KZPR" />
+          <attvalue for="1" value="KAZIPARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.188491" />
+          <attvalue for="4" value="23.909854000000003" />
+        </attvalues>
+      </node>
+      <node id="MDT" label="MDT">
+        <attvalues>
+          <attvalue for="0" value="MDT" />
+          <attvalue for="1" value="MADARIHAT" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.274559021" />
+          <attvalue for="4" value="26.694551388" />
+        </attvalues>
+      </node>
+      <node id="MPE" label="MPE">
+        <attvalues>
+          <attvalue for="0" value="MPE" />
+          <attvalue for="1" value="Malatipur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.76282300000001" />
+          <attvalue for="4" value="22.651892" />
+        </attvalues>
+      </node>
+      <node id="PAW" label="PAW">
+        <attvalues>
+          <attvalue for="0" value="PAW" />
+          <attvalue for="1" value="PANDABESWAR" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.277416" />
+          <attvalue for="4" value="23.711965" />
+        </attvalues>
+      </node>
+      <node id="NGTG" label="NGTG">
+        <attvalues>
+          <attvalue for="0" value="NGTG" />
+          <attvalue for="1" value="New Gitaldaha" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="89.5868746" />
+          <attvalue for="4" value="26.0707762" />
+        </attvalues>
+      </node>
+      <node id="PRDG" label="PRDG">
+        <attvalues>
+          <attvalue for="0" value="PRDG" />
+          <attvalue for="1" value="PORADANGA HALT" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.2261646533" />
+          <attvalue for="4" value="24.2602726462" />
+        </attvalues>
+      </node>
+      <node id="PSAE" label="PSAE">
+        <attvalues>
+          <attvalue for="0" value="PSAE" />
+          <attvalue for="1" value="PURBASTHALI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.323896" />
+          <attvalue for="4" value="23.453302" />
+        </attvalues>
+      </node>
+      <node id="HT" label="HT">
+        <attvalues>
+          <attvalue for="0" value="HT" />
+          <attvalue for="1" value="Hotar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.39900800000001" />
+          <attvalue for="4" value="22.308540999999998" />
+        </attvalues>
+      </node>
+      <node id="PTAE" label="PTAE">
+        <attvalues>
+          <attvalue for="0" value="PTAE" />
+          <attvalue for="1" value="PATULI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.25171385990001" />
+          <attvalue for="4" value="23.5475854116" />
+        </attvalues>
+      </node>
+      <node id="REJ" label="REJ">
+        <attvalues>
+          <attvalue for="0" value="REJ" />
+          <attvalue for="1" value="Rejinagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.259255" />
+          <attvalue for="4" value="23.850089999999998" />
+        </attvalues>
+      </node>
+      <node id="SMAE" label="SMAE">
+        <attvalues>
+          <attvalue for="0" value="SMAE" />
+          <attvalue for="1" value="SAMUDRAGARH" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.324967" />
+          <attvalue for="4" value="23.335767" />
+        </attvalues>
+      </node>
+      <node id="SLB" label="SLB">
+        <attvalues>
+          <attvalue for="0" value="SLB" />
+          <attvalue for="1" value="SALBONI" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.321899" />
+          <attvalue for="4" value="22.640971" />
+        </attvalues>
+      </node>
+      <node id="SRJM" label="SRJM">
+        <attvalues>
+          <attvalue for="0" value="SRJM" />
+          <attvalue for="1" value="SIRJAM" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.83509699999999" />
+          <attvalue for="4" value="23.403864" />
+        </attvalues>
+      </node>
+      <node id="SN" label="SN">
+        <attvalues>
+          <attvalue for="0" value="SN" />
+          <attvalue for="1" value="Sukna" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.363493" />
+          <attvalue for="4" value="26.790887" />
+        </attvalues>
+      </node>
+      <node id="TKP" label="TKP">
+        <attvalues>
+          <attvalue for="0" value="TKP" />
+          <attvalue for="1" value="Takipur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="87.92059400000001" />
+          <attvalue for="4" value="24.303242" />
+        </attvalues>
+      </node>
+      <node id="SRJN" label="SRJN">
+        <attvalues>
+          <attvalue for="0" value="SRJN" />
+          <attvalue for="1" value="Sirajnagar Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.27076000000001" />
+          <attvalue for="4" value="23.818590999999998" />
+        </attvalues>
+      </node>
+      <node id="SXC" label="SXC">
+        <attvalues>
+          <attvalue for="0" value="SXC" />
+          <attvalue for="1" value="Sondalia" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.58227500000001" />
+          <attvalue for="4" value="22.682186" />
+        </attvalues>
+      </node>
+      <node id="KWAE" label="KWAE">
+        <attvalues>
+          <attvalue for="0" value="KWAE" />
+          <attvalue for="1" value="KATWA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.124085" />
+          <attvalue for="4" value="23.640315" />
+        </attvalues>
+      </node>
+      <node id="CJN" label="CJN">
+        <attvalues>
+          <attvalue for="0" value="CJN" />
+          <attvalue for="1" value="CHHATNA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.975734" />
+          <attvalue for="4" value="23.305386000000002" />
+        </attvalues>
+      </node>
+      <node id="URP" label="URP">
+        <attvalues>
+          <attvalue for="0" value="URP" />
+          <attvalue for="1" value="Udairampur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.273732" />
+          <attvalue for="4" value="22.100085" />
+        </attvalues>
+      </node>
+      <node id="DDC" label="DDC">
+        <attvalues>
+          <attvalue for="0" value="DDC" />
+          <attvalue for="1" value="Dum Dum Cantt." />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.411641" />
+          <attvalue for="4" value="22.636349000000003" />
+        </attvalues>
+      </node>
+      <node id="PLY" label="PLY">
+        <attvalues>
+          <attvalue for="0" value="PLY" />
+          <attvalue for="1" value="Plassey" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.28447" />
+          <attvalue for="4" value="23.777986000000002" />
+        </attvalues>
+      </node>
+      <node id="BHPA" label="BHPA">
+        <attvalues>
+          <attvalue for="0" value="BHPA" />
+          <attvalue for="1" value="Bahrupiya Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.349067" />
+          <attvalue for="4" value="22.22962" />
+        </attvalues>
+      </node>
+      <node id="BXL" label="BXL">
+        <attvalues>
+          <attvalue for="0" value="BXL" />
+          <attvalue for="1" value="BHEDUASOL" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.13517327999999" />
+          <attvalue for="4" value="23.1943639299" />
+        </attvalues>
+      </node>
+      <node id="SPR" label="SPR">
+        <attvalues>
+          <attvalue for="0" value="SPR" />
+          <attvalue for="1" value="Sonarpur Junction" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.429773" />
+          <attvalue for="4" value="22.443359" />
+        </attvalues>
+      </node>
+      <node id="MPRD" label="MPRD">
+        <attvalues>
+          <attvalue for="0" value="MPRD" />
+          <attvalue for="1" value="Mathurapur Road" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.390923" />
+          <attvalue for="4" value="22.140587" />
+        </attvalues>
+      </node>
+      <node id="HLR" label="HLR">
+        <attvalues>
+          <attvalue for="0" value="HLR" />
+          <attvalue for="1" value="Halisahar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.436792" />
+          <attvalue for="4" value="22.921498999999997" />
+        </attvalues>
+      </node>
+      <node id="TDH" label="TDH">
+        <attvalues>
+          <attvalue for="0" value="TDH" />
+          <attvalue for="1" value="Tindharia" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.332848" />
+          <attvalue for="4" value="26.851551" />
+        </attvalues>
+      </node>
+      <node id="STB" label="STB">
+        <attvalues>
+          <attvalue for="0" value="STB" />
+          <attvalue for="1" value="Shantipur" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.435028" />
+          <attvalue for="4" value="23.262660999999998" />
+        </attvalues>
+      </node>
+      <node id="NMDR" label="NMDR">
+        <attvalues>
+          <attvalue for="0" value="NMDR" />
+          <attvalue for="1" value="Nimdanri" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.905624" />
+          <attvalue for="4" value="22.608628" />
+        </attvalues>
+      </node>
+      <node id="TBAE" label="TBAE">
+        <attvalues>
+          <attvalue for="0" value="TBAE" />
+          <attvalue for="1" value="TRIBENI" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.398096" />
+          <attvalue for="4" value="22.990357999999997" />
+        </attvalues>
+      </node>
+      <node id="KNSN" label="KNSN">
+        <attvalues>
+          <attvalue for="0" value="KNSN" />
+          <attvalue for="1" value="KARNA SUBARNA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.176458" />
+          <attvalue for="4" value="24.035537" />
+        </attvalues>
+      </node>
+      <node id="CHRA" label="CHRA">
+        <attvalues>
+          <attvalue for="0" value="CHRA" />
+          <attvalue for="1" value="CHHARRA" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.42299399999999" />
+          <attvalue for="4" value="23.375747" />
+        </attvalues>
+      </node>
+      <node id="SNTD" label="SNTD">
+        <attvalues>
+          <attvalue for="0" value="SNTD" />
+          <attvalue for="1" value="Santaldih" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.48312299999999" />
+          <attvalue for="4" value="23.596660999999997" />
+        </attvalues>
+      </node>
+      <node id="LOK" label="LOK">
+        <attvalues>
+          <attvalue for="0" value="LOK" />
+          <attvalue for="1" value="Loknath" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.03392099999999" />
+          <attvalue for="4" value="22.871717999999998" />
+        </attvalues>
+      </node>
+      <node id="GPAE" label="GPAE">
+        <attvalues>
+          <attvalue for="0" value="GPAE" />
+          <attvalue for="1" value="GUPTIPARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.4178" />
+          <attvalue for="4" value="23.197355" />
+        </attvalues>
+      </node>
+      <node id="BSD" label="BSD">
+        <attvalues>
+          <attvalue for="0" value="BSD" />
+          <attvalue for="1" value="Basuldanga" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.23393947000001" />
+          <attvalue for="4" value="22.20374787" />
+        </attvalues>
+      </node>
+      <node id="BURN" label="BURN">
+        <attvalues>
+          <attvalue for="0" value="BURN" />
+          <attvalue for="1" value="BURNPUR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.9386234" />
+          <attvalue for="4" value="23.6719137" />
+        </attvalues>
+      </node>
+      <node id="BHKA" label="BHKA">
+        <attvalues>
+          <attvalue for="0" value="BHKA" />
+          <attvalue for="1" value="Bahira Kalibari" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.563588" />
+          <attvalue for="4" value="22.685772" />
+        </attvalues>
+      </node>
+      <node id="NCPM" label="NCPM">
+        <attvalues>
+          <attvalue for="0" value="NCPM" />
+          <attvalue for="1" value="Nishchindapur Market Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.21710499999999" />
+          <attvalue for="4" value="21.987443000000003" />
+        </attvalues>
+      </node>
+      <node id="KGLE" label="KGLE">
+        <attvalues>
+          <attvalue for="0" value="KGLE" />
+          <attvalue for="1" value="KHAGRAGHAT ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.22648099999999" />
+          <attvalue for="4" value="24.106842" />
+        </attvalues>
+      </node>
+      <node id="RTG" label="RTG">
+        <attvalues>
+          <attvalue for="0" value="RTG" />
+          <attvalue for="1" value="Rangtong" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.342388" />
+          <attvalue for="4" value="26.836122" />
+        </attvalues>
+      </node>
+      <node id="CHT" label="CHT">
+        <attvalues>
+          <attvalue for="0" value="CHT" />
+          <attvalue for="1" value="Champahati" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.493624" />
+          <attvalue for="4" value="22.402193" />
+        </attvalues>
+      </node>
+      <node id="MDN" label="MDN">
+        <attvalues>
+          <attvalue for="0" value="MDN" />
+          <attvalue for="1" value="MIDNAPORE" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.307379" />
+          <attvalue for="4" value="22.42498" />
+        </attvalues>
+      </node>
+      <node id="MYX" label="MYX">
+        <attvalues>
+          <attvalue for="0" value="MYX" />
+          <attvalue for="1" value="METYAL SOHAR" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="86.748784" />
+          <attvalue for="4" value="23.482582" />
+        </attvalues>
+      </node>
+      <node id="KATI" label="KATI">
+        <attvalues>
+          <attvalue for="0" value="KATI" />
+          <attvalue for="1" value="Kanthi P Halt" />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.734128" />
+          <attvalue for="4" value="21.788742999999997" />
+        </attvalues>
+      </node>
+      <node id="GURN" label="GURN">
+        <attvalues>
+          <attvalue for="0" value="GURN" />
+          <attvalue for="1" value="Gurudas Nagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.214928" />
+          <attvalue for="4" value="22.199323" />
+        </attvalues>
+      </node>
+      <node id="LCAE" label="LCAE">
+        <attvalues>
+          <attvalue for="0" value="LCAE" />
+          <attvalue for="1" value="LALBAGH COURT ROAD" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.246307" />
+          <attvalue for="4" value="24.173693" />
+        </attvalues>
+      </node>
+      <node id="BGRA" label="BGRA">
+        <attvalues>
+          <attvalue for="0" value="BGRA" />
+          <attvalue for="1" value="BAGHNAPARA" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.329724" />
+          <attvalue for="4" value="23.242082" />
+        </attvalues>
+      </node>
+      <node id="KSBP" label="KSBP">
+        <attvalues>
+          <attvalue for="0" value="KSBP" />
+          <attvalue for="1" value="Keshabpur" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.948672" />
+          <attvalue for="4" value="22.221674" />
+        </attvalues>
+      </node>
+      <node id="DBT" label="DBT">
+        <attvalues>
+          <attvalue for="0" value="DBT" />
+          <attvalue for="1" value="Dakshin Barasat" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.45228599999999" />
+          <attvalue for="4" value="22.226102" />
+        </attvalues>
+      </node>
+      <node id="HPL" label="HPL">
+        <attvalues>
+          <attvalue for="0" value="HPL" />
+          <attvalue for="1" value="Haripal" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.11853982" />
+          <attvalue for="4" value="22.8311582" />
+        </attvalues>
+      </node>
+      <node id="GOF" label="GOF">
+        <attvalues>
+          <attvalue for="0" value="GOF" />
+          <attvalue for="1" value="Ghutiari Sharif" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.552115" />
+          <attvalue for="4" value="22.367665" />
+        </attvalues>
+      </node>
+      <node id="AHN" label="AHN">
+        <attvalues>
+          <attvalue for="0" value="AHN" />
+          <attvalue for="1" value="AHIRAN" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.04112500000001" />
+          <attvalue for="4" value="24.517687000000002" />
+        </attvalues>
+      </node>
+      <node id="MIAN" label="MIAN">
+        <attvalues>
+          <attvalue for="0" value="MIAN" />
+          <attvalue for="1" value="MIANGRAM" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.17146" />
+          <attvalue for="4" value="23.853212000000003" />
+        </attvalues>
+      </node>
+      <node id="RDP" label="RDP">
+        <attvalues>
+          <attvalue for="0" value="RDP" />
+          <attvalue for="1" value="Radhikapur" />
+          <attvalue for="2" value="NFR" />
+          <attvalue for="3" value="88.448153" />
+          <attvalue for="4" value="25.643573999999997" />
+        </attvalues>
+      </node>
+      <node id="MGT" label="MGT">
+        <attvalues>
+          <attvalue for="0" value="MGT" />
+          <attvalue for="1" value="Magra Hat" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.37271299999999" />
+          <attvalue for="4" value="22.242111" />
+        </attvalues>
+      </node>
+      <node id="KMZA" label="KMZA">
+        <attvalues>
+          <attvalue for="0" value="KMZA" />
+          <attvalue for="1" value="Kankra Mirzanagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.721428" />
+          <attvalue for="4" value="22.658005" />
+        </attvalues>
+      </node>
+      <node id="BAHW" label="BAHW">
+        <attvalues>
+          <attvalue for="0" value="BAHW" />
+          <attvalue for="1" value="Bahir Khanda" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.071068" />
+          <attvalue for="4" value="22.851949" />
+        </attvalues>
+      </node>
+      <node id="GSGB" label="GSGB">
+        <attvalues>
+          <attvalue for="0" value="GSGB" />
+          <attvalue for="1" value="Gosaingram" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.211777" />
+          <attvalue for="4" value="24.248003" />
+        </attvalues>
+      </node>
+      <node id="NDKR" label="NDKR">
+        <attvalues>
+          <attvalue for="0" value="NDKR" />
+          <attvalue for="1" value="Nandakumar P.H." />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.927872196" />
+          <attvalue for="4" value="22.1909239649" />
+        </attvalues>
+      </node>
+      <node id="UKLR" label="UKLR">
+        <attvalues>
+          <attvalue for="0" value="UKLR" />
+          <attvalue for="1" value="Ukilerhat Halt" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.230351" />
+          <attvalue for="4" value="21.824712" />
+        </attvalues>
+      </node>
+      <node id="BGO" label="BGO">
+        <attvalues>
+          <attvalue for="0" value="BGO" />
+          <attvalue for="1" value="BOGRI ROAD" />
+          <attvalue for="2" value="SER" />
+          <attvalue for="3" value="87.325732" />
+          <attvalue for="4" value="22.881747" />
+        </attvalues>
+      </node>
+      <node id="BNKA" label="BNKA">
+        <attvalues>
+          <attvalue for="0" value="BNKA" />
+          <attvalue for="1" value="Bankim Nagar" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.59190873" />
+          <attvalue for="4" value="23.209058770000002" />
+        </attvalues>
+      </node>
+      <node id="SSPH" label="SSPH">
+        <attvalues>
+          <attvalue for="0" value="SSPH" />
+          <attvalue for="1" value="Satish Samanta P.H." />
+          <attvalue for="2" value="?" />
+          <attvalue for="3" value="87.987567" />
+          <attvalue for="4" value="22.194485" />
+        </attvalues>
+      </node>
+      <node id="BHGH" label="BHGH">
+        <attvalues>
+          <attvalue for="0" value="BHGH" />
+          <attvalue for="1" value="Bhairgachhi" />
+          <attvalue for="2" value="ER" />
+          <attvalue for="3" value="88.634016" />
+          <attvalue for="4" value="23.274779" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="JNM" target="MPRD" id="0">
+        <attvalues>
+          <attvalue for="5" value="4.005219178875888" />
+        </attvalues>
+      </edge>
+      <edge source="JNM" target="BARU" id="1">
+        <attvalues>
+          <attvalue for="5" value="5.059745609439582" />
+        </attvalues>
+      </edge>
+      <edge source="DEB" target="PCX" id="2">
+        <attvalues>
+          <attvalue for="5" value="6.446665508123216" />
+        </attvalues>
+      </edge>
+      <edge source="DEB" target="SVH" id="3">
+        <attvalues>
+          <attvalue for="5" value="7.2621515801967815" />
+        </attvalues>
+      </edge>
+      <edge source="BTY" target="SVH" id="4">
+        <attvalues>
+          <attvalue for="5" value="4.253519172827244" />
+        </attvalues>
+      </edge>
+      <edge source="BTY" target="MGM" id="5">
+        <attvalues>
+          <attvalue for="5" value="9.713403488700528" />
+        </attvalues>
+      </edge>
+      <edge source="BGNA" target="KWF" id="6">
+        <attvalues>
+          <attvalue for="5" value="26.830252020055767" />
+        </attvalues>
+      </edge>
+      <edge source="BGNA" target="KWAE" id="7">
+        <attvalues>
+          <attvalue for="5" value="26.907139133347034" />
+        </attvalues>
+      </edge>
+      <edge source="KLNP" target="BNKA" id="8">
+        <attvalues>
+          <attvalue for="5" value="1.9313189789938099" />
+        </attvalues>
+      </edge>
+      <edge source="KLNP" target="PNCB" id="9">
+        <attvalues>
+          <attvalue for="5" value="3.127725985011191" />
+        </attvalues>
+      </edge>
+      <edge source="KLNP" target="RHA" id="10">
+        <attvalues>
+          <attvalue for="5" value="3.723142429448109" />
+        </attvalues>
+      </edge>
+      <edge source="KLNP" target="HBE" id="11">
+        <attvalues>
+          <attvalue for="5" value="3.6071881808195587" />
+        </attvalues>
+      </edge>
+      <edge source="BRDB" target="BYSA" id="12">
+        <attvalues>
+          <attvalue for="5" value="5.729905385200383" />
+        </attvalues>
+      </edge>
+      <edge source="BRDB" target="MSDL" id="13">
+        <attvalues>
+          <attvalue for="5" value="8.316967374155618" />
+        </attvalues>
+      </edge>
+      <edge source="APDJ" target="APDC" id="14">
+        <attvalues>
+          <attvalue for="5" value="2.7667791280437433" />
+        </attvalues>
+      </edge>
+      <edge source="APDJ" target="APD" id="15">
+        <attvalues>
+          <attvalue for="5" value="5.067533525475878" />
+        </attvalues>
+      </edge>
+      <edge source="APDJ" target="RVK" id="16">
+        <attvalues>
+          <attvalue for="5" value="10.784467313345653" />
+        </attvalues>
+      </edge>
+      <edge source="JTK" target="KAU" id="17">
+        <attvalues>
+          <attvalue for="5" value="2.963373783314272" />
+        </attvalues>
+      </edge>
+      <edge source="JTK" target="RGJ" id="18">
+        <attvalues>
+          <attvalue for="5" value="7.532261933816593" />
+        </attvalues>
+      </edge>
+      <edge source="SNKR" target="GRB" id="19">
+        <attvalues>
+          <attvalue for="5" value="1.957690801603252" />
+        </attvalues>
+      </edge>
+      <edge source="SNKR" target="JOC" id="20">
+        <attvalues>
+          <attvalue for="5" value="6.6470816121675425" />
+        </attvalues>
+      </edge>
+      <edge source="SNKR" target="RUI" id="21">
+        <attvalues>
+          <attvalue for="5" value="7.476711878555997" />
+        </attvalues>
+      </edge>
+      <edge source="GCN" target="SJPR" id="22">
+        <attvalues>
+          <attvalue for="5" value="1.9073739348994558" />
+        </attvalues>
+      </edge>
+      <edge source="GCN" target="HGA" id="23">
+        <attvalues>
+          <attvalue for="5" value="2.597550641706532" />
+        </attvalues>
+      </edge>
+      <edge source="SDMD" target="SNTD" id="24">
+        <attvalues>
+          <attvalue for="5" value="7.768264630904574" />
+        </attvalues>
+      </edge>
+      <edge source="SDMD" target="KRKN" id="25">
+        <attvalues>
+          <attvalue for="5" value="14.2921249012155" />
+        </attvalues>
+      </edge>
+      <edge source="CLD" target="NMZ" id="26">
+        <attvalues>
+          <attvalue for="5" value="7.339250986680055" />
+        </attvalues>
+      </edge>
+      <edge source="CLD" target="NKB" id="27">
+        <attvalues>
+          <attvalue for="5" value="11.844368927390617" />
+        </attvalues>
+      </edge>
+      <edge source="CRX" target="NKB" id="28">
+        <attvalues>
+          <attvalue for="5" value="5.270978534211005" />
+        </attvalues>
+      </edge>
+      <edge source="CRX" target="BNQ" id="29">
+        <attvalues>
+          <attvalue for="5" value="10.678138072683636" />
+        </attvalues>
+      </edge>
+      <edge source="CSZ" target="BPC" id="30">
+        <attvalues>
+          <attvalue for="5" value="3.7042533865826446" />
+        </attvalues>
+      </edge>
+      <edge source="CSZ" target="NLSF" id="31">
+        <attvalues>
+          <attvalue for="5" value="4.342316253567413" />
+        </attvalues>
+      </edge>
+      <edge source="CSZ" target="KGLE" id="32">
+        <attvalues>
+          <attvalue for="5" value="4.446454242604382" />
+        </attvalues>
+      </edge>
+      <edge source="DDM" target="ODB" id="33">
+        <attvalues>
+          <attvalue for="5" value="4.707315997474237" />
+        </attvalues>
+      </edge>
+      <edge source="DDM" target="NMZ" id="34">
+        <attvalues>
+          <attvalue for="5" value="5.544686251299657" />
+        </attvalues>
+      </edge>
+      <edge source="DDM" target="BRQ" id="35">
+        <attvalues>
+          <attvalue for="5" value="8.5625105785022" />
+        </attvalues>
+      </edge>
+      <edge source="CQR" target="GGV" id="36">
+        <attvalues>
+          <attvalue for="5" value="2.630741512026718" />
+        </attvalues>
+      </edge>
+      <edge source="CQR" target="MPE" id="37">
+        <attvalues>
+          <attvalue for="5" value="4.66168513873682" />
+        </attvalues>
+      </edge>
+      <edge source="CQR" target="BBLA" id="38">
+        <attvalues>
+          <attvalue for="5" value="4.827249811013261" />
+        </attvalues>
+      </edge>
+      <edge source="AG" target="PNCB" id="39">
+        <attvalues>
+          <attvalue for="5" value="2.74653490057853" />
+        </attvalues>
+      </edge>
+      <edge source="AG" target="BHGH" id="40">
+        <attvalues>
+          <attvalue for="5" value="4.198325082849293" />
+        </attvalues>
+      </edge>
+      <edge source="DJ" target="GHUM" id="41">
+        <attvalues>
+          <attvalue for="5" value="3.402783285725542" />
+        </attvalues>
+      </edge>
+      <edge source="DJ" target="SAD" id="42">
+        <attvalues>
+          <attvalue for="5" value="8.709027212226127" />
+        </attvalues>
+      </edge>
+      <edge source="GGLE" target="SHBL" id="43">
+        <attvalues>
+          <attvalue for="5" value="2.8863430026304773" />
+        </attvalues>
+      </edge>
+      <edge source="GGLE" target="JHBN" id="44">
+        <attvalues>
+          <attvalue for="5" value="3.7175112320575967" />
+        </attvalues>
+      </edge>
+      <edge source="DTAE" target="BGRA" id="45">
+        <attvalues>
+          <attvalue for="5" value="4.372086018042033" />
+        </attvalues>
+      </edge>
+      <edge source="DTAE" target="SMAE" id="46">
+        <attvalues>
+          <attvalue for="5" value="6.584372396036512" />
+        </attvalues>
+      </edge>
+      <edge source="HNB" target="TKF" id="47">
+        <attvalues>
+          <attvalue for="5" value="1.9117122071885881" />
+        </attvalues>
+      </edge>
+      <edge source="HNB" target="NMDR" id="48">
+        <attvalues>
+          <attvalue for="5" value="4.343667736724308" />
+        </attvalues>
+      </edge>
+      <edge source="JHBN" target="SALE" id="49">
+        <attvalues>
+          <attvalue for="5" value="3.0128364180062923" />
+        </attvalues>
+      </edge>
+      <edge source="JIT" target="BGAE" id="50">
+        <attvalues>
+          <attvalue for="5" value="2.745362200154809" />
+        </attvalues>
+      </edge>
+      <edge source="JIT" target="KMAE" id="51">
+        <attvalues>
+          <attvalue for="5" value="5.203834719126263" />
+        </attvalues>
+      </edge>
+      <edge source="KAU" target="RGJ" id="52">
+        <attvalues>
+          <attvalue for="5" value="10.458832369236319" />
+        </attvalues>
+      </edge>
+      <edge source="NBKH" target="KWAE" id="53">
+        <attvalues>
+          <attvalue for="5" value="3.387597888455425" />
+        </attvalues>
+      </edge>
+      <edge source="NBKH" target="KWF" id="54">
+        <attvalues>
+          <attvalue for="5" value="3.390829507597258" />
+        </attvalues>
+      </edge>
+      <edge source="NBKH" target="SHBL" id="55">
+        <attvalues>
+          <attvalue for="5" value="3.868260151784115" />
+        </attvalues>
+      </edge>
+      <edge source="ABKA" target="BGRA" id="56">
+        <attvalues>
+          <attvalue for="5" value="4.219270716823878" />
+        </attvalues>
+      </edge>
+      <edge source="ABKA" target="GPAE" id="57">
+        <attvalues>
+          <attvalue for="5" value="6.7057677912686735" />
+        </attvalues>
+      </edge>
+      <edge source="KMAE" target="DMLE" id="58">
+        <attvalues>
+          <attvalue for="5" value="1.96999214154795" />
+        </attvalues>
+      </edge>
+      <edge source="HOJ" target="KCF" id="59">
+        <attvalues>
+          <attvalue for="5" value="3.0486158340256333" />
+        </attvalues>
+      </edge>
+      <edge source="HOJ" target="GRU" id="60">
+        <attvalues>
+          <attvalue for="5" value="7.64610037391321" />
+        </attvalues>
+      </edge>
+      <edge source="HOJ" target="HSA" id="61">
+        <attvalues>
+          <attvalue for="5" value="8.065919728876" />
+        </attvalues>
+      </edge>
+      <edge source="LAP" target="TKP" id="62">
+        <attvalues>
+          <attvalue for="5" value="4.371446355366315" />
+        </attvalues>
+      </edge>
+      <edge source="LAP" target="MGAE" id="63">
+        <attvalues>
+          <attvalue for="5" value="5.550034338927269" />
+        </attvalues>
+      </edge>
+      <edge source="KJME" target="UKA" id="64">
+        <attvalues>
+          <attvalue for="5" value="6.479212448781847" />
+        </attvalues>
+      </edge>
+      <edge source="KJME" target="PAW" id="65">
+        <attvalues>
+          <attvalue for="5" value="14.30737234187649" />
+        </attvalues>
+      </edge>
+      <edge source="ABW" target="DHH" id="66">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="ABW" target="FLM" id="67">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="ABW" target="BXT" id="68">
+        <attvalues>
+          <attvalue for="5" value="4.150745504217081" />
+        </attvalues>
+      </edge>
+      <edge source="ABW" target="NGTG" id="69">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="MHN" target="DJRZ" id="70">
+        <attvalues>
+          <attvalue for="5" value="3.6536387315165775" />
+        </attvalues>
+      </edge>
+      <edge source="MHN" target="TDH" id="71">
+        <attvalues>
+          <attvalue for="5" value="3.6987543828148683" />
+        </attvalues>
+      </edge>
+      <edge source="MHN" target="TUNG" id="72">
+        <attvalues>
+          <attvalue for="5" value="4.987097669926069" />
+        </attvalues>
+      </edge>
+      <edge source="MHN" target="KGN" id="73">
+        <attvalues>
+          <attvalue for="5" value="4.164406648278506" />
+        </attvalues>
+      </edge>
+      <edge source="MDKD" target="DMA" id="74">
+        <attvalues>
+          <attvalue for="5" value="4.846131124844412" />
+        </attvalues>
+      </edge>
+      <edge source="MDKD" target="MDF" id="75">
+        <attvalues>
+          <attvalue for="5" value="7.143632078756404" />
+        </attvalues>
+      </edge>
+      <edge source="MDKD" target="BURN" id="76">
+        <attvalues>
+          <attvalue for="5" value="8.689869901561929" />
+        </attvalues>
+      </edge>
+      <edge source="CPLE" target="SURI" id="77">
+        <attvalues>
+          <attvalue for="5" value="9.232592427318295" />
+        </attvalues>
+      </edge>
+      <edge source="CPLE" target="DUJ" id="78">
+        <attvalues>
+          <attvalue for="5" value="9.23667009698661" />
+        </attvalues>
+      </edge>
+      <edge source="NILE" target="SPLE" id="79">
+        <attvalues>
+          <attvalue for="5" value="6.66457669727119" />
+        </attvalues>
+      </edge>
+      <edge source="NILE" target="DGLE" id="80">
+        <attvalues>
+          <attvalue for="5" value="8.778511686874703" />
+        </attvalues>
+      </edge>
+      <edge source="RHA" target="BNKA" id="81">
+        <attvalues>
+          <attvalue for="5" value="4.653104945248195" />
+        </attvalues>
+      </edge>
+      <edge source="RHA" target="PDX" id="82">
+        <attvalues>
+          <attvalue for="5" value="5.483980570547334" />
+        </attvalues>
+      </edge>
+      <edge source="SHM" target="PDPK" id="83">
+        <attvalues>
+          <attvalue for="5" value="1.7195277769473454" />
+        </attvalues>
+      </edge>
+      <edge source="SHM" target="BRJ" id="84">
+        <attvalues>
+          <attvalue for="5" value="4.430191871530931" />
+        </attvalues>
+      </edge>
+      <edge source="SDI" target="NWMS" id="85">
+        <attvalues>
+          <attvalue for="5" value="5.099810532896482" />
+        </attvalues>
+      </edge>
+      <edge source="SDI" target="MPLE" id="86">
+        <attvalues>
+          <attvalue for="5" value="6.105064129634175" />
+        </attvalues>
+      </edge>
+      <edge source="SDI" target="MGLE" id="87">
+        <attvalues>
+          <attvalue for="5" value="6.128219400565471" />
+        </attvalues>
+      </edge>
+      <edge source="SDI" target="BAA" id="88">
+        <attvalues>
+          <attvalue for="5" value="6.792499518875928" />
+        </attvalues>
+      </edge>
+      <edge source="CWLE" target="KZPR" id="89">
+        <attvalues>
+          <attvalue for="5" value="3.632878021669798" />
+        </attvalues>
+      </edge>
+      <edge source="CWLE" target="KTLR" id="90">
+        <attvalues>
+          <attvalue for="5" value="5.53381693934753" />
+        </attvalues>
+      </edge>
+      <edge source="CWLE" target="BEB" id="91">
+        <attvalues>
+          <attvalue for="5" value="5.859426811084004" />
+        </attvalues>
+      </edge>
+      <edge source="LKX" target="BQY" id="92">
+        <attvalues>
+          <attvalue for="5" value="2.724585987341956" />
+        </attvalues>
+      </edge>
+      <edge source="LKX" target="MTFA" id="93">
+        <attvalues>
+          <attvalue for="5" value="3.0935894315884336" />
+        </attvalues>
+      </edge>
+      <edge source="DMLE" target="KJU" id="94">
+        <attvalues>
+          <attvalue for="5" value="3.2670106807168335" />
+        </attvalues>
+      </edge>
+      <edge source="GRU" target="KCF" id="95">
+        <attvalues>
+          <attvalue for="5" value="5.026654475651119" />
+        </attvalues>
+      </edge>
+      <edge source="GRU" target="RVK" id="96">
+        <attvalues>
+          <attvalue for="5" value="5.9795930148689695" />
+        </attvalues>
+      </edge>
+      <edge source="THP" target="BIJ" id="97">
+        <attvalues>
+          <attvalue for="5" value="2.7423921755707674" />
+        </attvalues>
+      </edge>
+      <edge source="THP" target="HBE" id="98">
+        <attvalues>
+          <attvalue for="5" value="5.2937636604022575" />
+        </attvalues>
+      </edge>
+      <edge source="THP" target="BDZ" id="99">
+        <attvalues>
+          <attvalue for="5" value="5.312199121121486" />
+        </attvalues>
+      </edge>
+      <edge source="AGAE" target="SHBA" id="100">
+        <attvalues>
+          <attvalue for="5" value="2.819442794923951" />
+        </attvalues>
+      </edge>
+      <edge source="AGAE" target="PTAE" id="101">
+        <attvalues>
+          <attvalue for="5" value="4.5363537934563185" />
+        </attvalues>
+      </edge>
+      <edge source="AGAE" target="DHAE" id="102">
+        <attvalues>
+          <attvalue for="5" value="6.149323180297328" />
+        </attvalues>
+      </edge>
+      <edge source="BAAR" target="HLZ" id="103">
+        <attvalues>
+          <attvalue for="5" value="2.286798012937171" />
+        </attvalues>
+      </edge>
+      <edge source="BAAR" target="DZKT" id="104">
+        <attvalues>
+          <attvalue for="5" value="5.32913927449693" />
+        </attvalues>
+      </edge>
+      <edge source="BDYP" target="SBGR" id="105">
+        <attvalues>
+          <attvalue for="5" value="2.349272221883694" />
+        </attvalues>
+      </edge>
+      <edge source="BDYP" target="KLKR" id="106">
+        <attvalues>
+          <attvalue for="5" value="2.6691791180307103" />
+        </attvalues>
+      </edge>
+      <edge source="BDYP" target="SPR" id="107">
+        <attvalues>
+          <attvalue for="5" value="3.1222733022611124" />
+        </attvalues>
+      </edge>
+      <edge source="BEB" target="KZPR" id="108">
+        <attvalues>
+          <attvalue for="5" value="6.0628297187439095" />
+        </attvalues>
+      </edge>
+      <edge source="BEB" target="BFT" id="109">
+        <attvalues>
+          <attvalue for="5" value="6.1071440646119965" />
+        </attvalues>
+      </edge>
+      <edge source="BHNA" target="BGL" id="110">
+        <attvalues>
+          <attvalue for="5" value="2.625191533785713" />
+        </attvalues>
+      </edge>
+      <edge source="BHNA" target="BHGH" id="111">
+        <attvalues>
+          <attvalue for="5" value="4.240311465289933" />
+        </attvalues>
+      </edge>
+      <edge source="BGA" target="KSU" id="112">
+        <attvalues>
+          <attvalue for="5" value="2.7997601855312153" />
+        </attvalues>
+      </edge>
+      <edge source="BGA" target="ANR" id="113">
+        <attvalues>
+          <attvalue for="5" value="5.627100655979871" />
+        </attvalues>
+      </edge>
+      <edge source="BGA" target="CHRA" id="114">
+        <attvalues>
+          <attvalue for="5" value="12.598654440277075" />
+        </attvalues>
+      </edge>
+      <edge source="BERO" target="RKI" id="115">
+        <attvalues>
+          <attvalue for="5" value="5.061807697338748" />
+        </attvalues>
+      </edge>
+      <edge source="BERO" target="JOC" id="116">
+        <attvalues>
+          <attvalue for="5" value="5.900490196439201" />
+        </attvalues>
+      </edge>
+      <edge source="BERO" target="MYX" id="117">
+        <attvalues>
+          <attvalue for="5" value="7.6462121026104795" />
+        </attvalues>
+      </edge>
+      <edge source="BGB" target="NAI" id="118">
+        <attvalues>
+          <attvalue for="5" value="3.1125860631871967" />
+        </attvalues>
+      </edge>
+      <edge source="BGB" target="AKRA" id="119">
+        <attvalues>
+          <attvalue for="5" value="6.074425889612704" />
+        </attvalues>
+      </edge>
+      <edge source="BGJT" target="JDP" id="120">
+        <attvalues>
+          <attvalue for="5" value="1.9347415247839796" />
+        </attvalues>
+      </edge>
+      <edge source="BGJT" target="GIA" id="121">
+        <attvalues>
+          <attvalue for="5" value="2.5636667802215545" />
+        </attvalues>
+      </edge>
+      <edge source="BGJT" target="DHK" id="122">
+        <attvalues>
+          <attvalue for="5" value="4.0096634768404344" />
+        </attvalues>
+      </edge>
+      <edge source="BIJ" target="HBE" id="123">
+        <attvalues>
+          <attvalue for="5" value="2.964139194116426" />
+        </attvalues>
+      </edge>
+      <edge source="BHLA" target="GPAE" id="124">
+        <attvalues>
+          <attvalue for="5" value="2.046920794917369" />
+        </attvalues>
+      </edge>
+      <edge source="BHLA" target="SOAE" id="125">
+        <attvalues>
+          <attvalue for="5" value="4.779661097055664" />
+        </attvalues>
+      </edge>
+      <edge source="BGAE" target="SOAE" id="126">
+        <attvalues>
+          <attvalue for="5" value="2.7965413234830896" />
+        </attvalues>
+      </edge>
+      <edge source="AKRA" target="SSP" id="127">
+        <attvalues>
+          <attvalue for="5" value="2.6441593515762505" />
+        </attvalues>
+      </edge>
+      <edge source="AKRA" target="NAI" id="128">
+        <attvalues>
+          <attvalue for="5" value="3.0303404701459224" />
+        </attvalues>
+      </edge>
+      <edge source="BMGR" target="BJY" id="129">
+        <attvalues>
+          <attvalue for="5" value="3.854020595639564" />
+        </attvalues>
+      </edge>
+      <edge source="BMGR" target="RGJ" id="130">
+        <attvalues>
+          <attvalue for="5" value="6.38418333552478" />
+        </attvalues>
+      </edge>
+      <edge source="BPN" target="HRSR" id="131">
+        <attvalues>
+          <attvalue for="5" value="2.5833468687350214" />
+        </attvalues>
+      </edge>
+      <edge source="BPN" target="GEDE" id="132">
+        <attvalues>
+          <attvalue for="5" value="5.056148509000364" />
+        </attvalues>
+      </edge>
+      <edge source="BPN" target="MIJ" id="133">
+        <attvalues>
+          <attvalue for="5" value="6.024733311349222" />
+        </attvalues>
+      </edge>
+      <edge source="BQZ" target="SXP" id="134">
+        <attvalues>
+          <attvalue for="5" value="3.998950993028709" />
+        </attvalues>
+      </edge>
+      <edge source="BQZ" target="DGLE" id="135">
+        <attvalues>
+          <attvalue for="5" value="8.765062455991016" />
+        </attvalues>
+      </edge>
+      <edge source="BRP" target="SSRD" id="136">
+        <attvalues>
+          <attvalue for="5" value="2.2564861466265165" />
+        </attvalues>
+      </edge>
+      <edge source="BRP" target="KYP" id="137">
+        <attvalues>
+          <attvalue for="5" value="3.119372646590181" />
+        </attvalues>
+      </edge>
+      <edge source="BRP" target="MAK" id="138">
+        <attvalues>
+          <attvalue for="5" value="3.3765667455023514" />
+        </attvalues>
+      </edge>
+      <edge source="BTKB" target="FLU" id="139">
+        <attvalues>
+          <attvalue for="5" value="1.5685042746295859" />
+        </attvalues>
+      </edge>
+      <edge source="BTKB" target="STB" id="140">
+        <attvalues>
+          <attvalue for="5" value="5.680999056392922" />
+        </attvalues>
+      </edge>
+      <edge source="BQA" target="BXL" id="141">
+        <attvalues>
+          <attvalue for="5" value="7.025300860743746" />
+        </attvalues>
+      </edge>
+      <edge source="BQA" target="ANCR" id="142">
+        <attvalues>
+          <attvalue for="5" value="10.637005755501633" />
+        </attvalues>
+      </edge>
+      <edge source="BRJ" target="SSP" id="143">
+        <attvalues>
+          <attvalue for="5" value="3.0659645949072614" />
+        </attvalues>
+      </edge>
+      <edge source="BRJ" target="PDPK" id="144">
+        <attvalues>
+          <attvalue for="5" value="5.630478798504168" />
+        </attvalues>
+      </edge>
+      <edge source="BTPG" target="GOF" id="145">
+        <attvalues>
+          <attvalue for="5" value="2.9258769033895424" />
+        </attvalues>
+      </edge>
+      <edge source="BTPG" target="TLX" id="146">
+        <attvalues>
+          <attvalue for="5" value="3.715023973578066" />
+        </attvalues>
+      </edge>
+      <edge source="BTPG" target="CG" id="147">
+        <attvalues>
+          <attvalue for="5" value="10.514162305106401" />
+        </attvalues>
+      </edge>
+      <edge source="BRPK" target="BBT" id="148">
+        <attvalues>
+          <attvalue for="5" value="1.4787890088653846" />
+        </attvalues>
+      </edge>
+      <edge source="BRPK" target="NBE" id="149">
+        <attvalues>
+          <attvalue for="5" value="1.5938691404732386" />
+        </attvalues>
+      </edge>
+      <edge source="BYSA" target="DZK" id="150">
+        <attvalues>
+          <attvalue for="5" value="4.96074939556119" />
+        </attvalues>
+      </edge>
+      <edge source="BXT" target="DHH" id="151">
+        <attvalues>
+          <attvalue for="5" value="4.150745504217081" />
+        </attvalues>
+      </edge>
+      <edge source="BUTA" target="GSL" id="152">
+        <attvalues>
+          <attvalue for="5" value="5.005995635481113" />
+        </attvalues>
+      </edge>
+      <edge source="BUTA" target="MDN" id="153">
+        <attvalues>
+          <attvalue for="5" value="6.886497026594143" />
+        </attvalues>
+      </edge>
+      <edge source="CDGR" target="SLB" id="154">
+        <attvalues>
+          <attvalue for="5" value="11.075984330642715" />
+        </attvalues>
+      </edge>
+      <edge source="CDGR" target="GBA" id="155">
+        <attvalues>
+          <attvalue for="5" value="11.900631436970064" />
+        </attvalues>
+      </edge>
+      <edge source="ANR" target="GRB" id="156">
+        <attvalues>
+          <attvalue for="5" value="6.62942304571988" />
+        </attvalues>
+      </edge>
+      <edge source="ANR" target="KSU" id="157">
+        <attvalues>
+          <attvalue for="5" value="8.426268530772395" />
+        </attvalues>
+      </edge>
+      <edge source="ANR" target="RUI" id="158">
+        <attvalues>
+          <attvalue for="5" value="7.9546962280653055" />
+        </attvalues>
+      </edge>
+      <edge source="CG" target="TLX" id="159">
+        <attvalues>
+          <attvalue for="5" value="6.918593929661014" />
+        </attvalues>
+      </edge>
+      <edge source="DGNR" target="DDC" id="160">
+        <attvalues>
+          <attvalue for="5" value="1.7712733350145051" />
+        </attvalues>
+      </edge>
+      <edge source="DGNR" target="BBT" id="161">
+        <attvalues>
+          <attvalue for="5" value="1.7864441393664816" />
+        </attvalues>
+      </edge>
+      <edge source="CDH" target="PXR" id="162">
+        <attvalues>
+          <attvalue for="5" value="2.2972734208124446" />
+        </attvalues>
+      </edge>
+      <edge source="CDH" target="SMX" id="163">
+        <attvalues>
+          <attvalue for="5" value="4.579673091054581" />
+        </attvalues>
+      </edge>
+      <edge source="CDH" target="PDX" id="164">
+        <attvalues>
+          <attvalue for="5" value="5.817320568394335" />
+        </attvalues>
+      </edge>
+      <edge source="MLYA" target="HPL" id="165">
+        <attvalues>
+          <attvalue for="5" value="1.819050452310385" />
+        </attvalues>
+      </edge>
+      <edge source="MLYA" target="NKL" id="166">
+        <attvalues>
+          <attvalue for="5" value="3.0765554428676367" />
+        </attvalues>
+      </edge>
+      <edge source="DMU" target="HT" id="167">
+        <attvalues>
+          <attvalue for="5" value="2.159288308925638" />
+        </attvalues>
+      </edge>
+      <edge source="DMU" target="DKDP" id="168">
+        <attvalues>
+          <attvalue for="5" value="2.205125155563045" />
+        </attvalues>
+      </edge>
+      <edge source="DMU" target="UTN" id="169">
+        <attvalues>
+          <attvalue for="5" value="2.476090791727843" />
+        </attvalues>
+      </edge>
+      <edge source="DHH" target="FLM" id="170">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="DHH" target="NGTG" id="171">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="DKDP" target="HT" id="172">
+        <attvalues>
+          <attvalue for="5" value="0.049989286417586494" />
+        </attvalues>
+      </edge>
+      <edge source="DJRZ" target="TDH" id="173">
+        <attvalues>
+          <attvalue for="5" value="0.07522571665088208" />
+        </attvalues>
+      </edge>
+      <edge source="DJRZ" target="RTG" id="174">
+        <attvalues>
+          <attvalue for="5" value="1.999005332788825" />
+        </attvalues>
+      </edge>
+      <edge source="DPDP" target="KRXM" id="175">
+        <attvalues>
+          <attvalue for="5" value="1.8958181696955554" />
+        </attvalues>
+      </edge>
+      <edge source="DPDP" target="SJPR" id="176">
+        <attvalues>
+          <attvalue for="5" value="2.634406616906954" />
+        </attvalues>
+      </edge>
+      <edge source="DHU" target="BPD" id="177">
+        <attvalues>
+          <attvalue for="5" value="5.496435595709748" />
+        </attvalues>
+      </edge>
+      <edge source="DHU" target="MGM" id="178">
+        <attvalues>
+          <attvalue for="5" value="5.512135380211966" />
+        </attvalues>
+      </edge>
+      <edge source="FLU" target="HBE" id="179">
+        <attvalues>
+          <attvalue for="5" value="4.740030451976578" />
+        </attvalues>
+      </edge>
+      <edge source="FLU" target="STB" id="180">
+        <attvalues>
+          <attvalue for="5" value="7.246510511648301" />
+        </attvalues>
+      </edge>
+      <edge source="DZKT" target="DZK" id="181">
+        <attvalues>
+          <attvalue for="5" value="2.603943448720413" />
+        </attvalues>
+      </edge>
+      <edge source="DZKT" target="HLZ" id="182">
+        <attvalues>
+          <attvalue for="5" value="7.61536375429335" />
+        </attvalues>
+      </edge>
+      <edge source="DUJ" target="PCR" id="183">
+        <attvalues>
+          <attvalue for="5" value="6.069810316365151" />
+        </attvalues>
+      </edge>
+      <edge source="DUJ" target="SURI" id="184">
+        <attvalues>
+          <attvalue for="5" value="18.375180409711724" />
+        </attvalues>
+      </edge>
+      <edge source="GBA" target="BGO" id="185">
+        <attvalues>
+          <attvalue for="5" value="4.1634467791478125" />
+        </attvalues>
+      </edge>
+      <edge source="GIA" target="NRPR" id="186">
+        <attvalues>
+          <attvalue for="5" value="1.9321659847690873" />
+        </attvalues>
+      </edge>
+      <edge source="GHUM" target="SAD" id="187">
+        <attvalues>
+          <attvalue for="5" value="5.695057925714541" />
+        </attvalues>
+      </edge>
+      <edge source="GEDE" target="HRSR" id="188">
+        <attvalues>
+          <attvalue for="5" value="2.5434123410567646" />
+        </attvalues>
+      </edge>
+      <edge source="GRB" target="ADRA" id="189">
+        <attvalues>
+          <attvalue for="5" value="6.063983544396915" />
+        </attvalues>
+      </edge>
+      <edge source="HGA" target="DBT" id="190">
+        <attvalues>
+          <attvalue for="5" value="3.218219373123142" />
+        </attvalues>
+      </edge>
+      <edge source="GSL" target="MDN" id="191">
+        <attvalues>
+          <attvalue for="5" value="11.833662375999815" />
+        </attvalues>
+      </edge>
+      <edge source="GSL" target="SLB" id="192">
+        <attvalues>
+          <attvalue for="5" value="12.264646602553906" />
+        </attvalues>
+      </edge>
+      <edge source="HSA" target="MDT" id="193">
+        <attvalues>
+          <attvalue for="5" value="8.102757733339217" />
+        </attvalues>
+      </edge>
+      <edge source="JDP" target="DHK" id="194">
+        <attvalues>
+          <attvalue for="5" value="2.2587384908721164" />
+        </attvalues>
+      </edge>
+      <edge source="JKL" target="BDZ" id="195">
+        <attvalues>
+          <attvalue for="5" value="4.943378413752273" />
+        </attvalues>
+      </edge>
+      <edge source="JKL" target="KNJ" id="196">
+        <attvalues>
+          <attvalue for="5" value="5.015786630345635" />
+        </attvalues>
+      </edge>
+      <edge source="IBL" target="MYX" id="197">
+        <attvalues>
+          <attvalue for="5" value="5.33173737119278" />
+        </attvalues>
+      </edge>
+      <edge source="IBL" target="SRJM" id="198">
+        <attvalues>
+          <attvalue for="5" value="7.138891272083683" />
+        </attvalues>
+      </edge>
+      <edge source="JPH" target="CJN" id="199">
+        <attvalues>
+          <attvalue for="5" value="9.020754255259773" />
+        </attvalues>
+      </edge>
+      <edge source="JPH" target="SRJM" id="200">
+        <attvalues>
+          <attvalue for="5" value="9.038753447181254" />
+        </attvalues>
+      </edge>
+      <edge source="KBGH" target="BHKA" id="201">
+        <attvalues>
+          <attvalue for="5" value="3.658332507189642" />
+        </attvalues>
+      </edge>
+      <edge source="KBGH" target="SXC" id="202">
+        <attvalues>
+          <attvalue for="5" value="5.498903310452983" />
+        </attvalues>
+      </edge>
+      <edge source="KAJ" target="DLX" id="203">
+        <attvalues>
+          <attvalue for="5" value="5.605051665791846" />
+        </attvalues>
+      </edge>
+      <edge source="KAJ" target="BJY" id="204">
+        <attvalues>
+          <attvalue for="5" value="10.223586102009785" />
+        </attvalues>
+      </edge>
+      <edge source="KAJ" target="RDP" id="205">
+        <attvalues>
+          <attvalue for="5" value="11.813244247800469" />
+        </attvalues>
+      </edge>
+      <edge source="KKAE" target="BAHW" id="206">
+        <attvalues>
+          <attvalue for="5" value="2.645031539868731" />
+        </attvalues>
+      </edge>
+      <edge source="KKAE" target="HPL" id="207">
+        <attvalues>
+          <attvalue for="5" value="2.7590347146228127" />
+        </attvalues>
+      </edge>
+      <edge source="KHGR" target="KWDP" id="208">
+        <attvalues>
+          <attvalue for="5" value="2.969250711091671" />
+        </attvalues>
+      </edge>
+      <edge source="KHGR" target="NCP" id="209">
+        <attvalues>
+          <attvalue for="5" value="7.682730275255543" />
+        </attvalues>
+      </edge>
+      <edge source="KHGR" target="NCPM" id="210">
+        <attvalues>
+          <attvalue for="5" value="9.267463318482537" />
+        </attvalues>
+      </edge>
+      <edge source="KLKR" target="CHT" id="211">
+        <attvalues>
+          <attvalue for="5" value="2.2347964262763913" />
+        </attvalues>
+      </edge>
+      <edge source="KLW" target="URP" id="212">
+        <attvalues>
+          <attvalue for="5" value="3.192783556630877" />
+        </attvalues>
+      </edge>
+      <edge source="KLW" target="LKPR" id="213">
+        <attvalues>
+          <attvalue for="5" value="7.749526849318005" />
+        </attvalues>
+      </edge>
+      <edge source="KPA" target="KYI" id="214">
+        <attvalues>
+          <attvalue for="5" value="3.0702539240140134" />
+        </attvalues>
+      </edge>
+      <edge source="KPA" target="HLR" id="215">
+        <attvalues>
+          <attvalue for="5" value="3.102127205011666" />
+        </attvalues>
+      </edge>
+      <edge source="KRXM" target="SSRD" id="216">
+        <attvalues>
+          <attvalue for="5" value="2.3944514975466578" />
+        </attvalues>
+      </edge>
+      <edge source="KRP" target="LGL" id="217">
+        <attvalues>
+          <attvalue for="5" value="1.6539414277696698" />
+        </attvalues>
+      </edge>
+      <edge source="KRP" target="PRTL" id="218">
+        <attvalues>
+          <attvalue for="5" value="5.783765048862319" />
+        </attvalues>
+      </edge>
+      <edge source="KRKN" target="SNTD" id="219">
+        <attvalues>
+          <attvalue for="5" value="22.048035787963038" />
+        </attvalues>
+      </edge>
+      <edge source="KSU" target="CHRA" id="220">
+        <attvalues>
+          <attvalue for="5" value="9.801296479912464" />
+        </attvalues>
+      </edge>
+      <edge source="KWDP" target="UKLR" id="221">
+        <attvalues>
+          <attvalue for="5" value="7.170658228288165" />
+        </attvalues>
+      </edge>
+      <edge source="KWDP" target="NMKA" id="222">
+        <attvalues>
+          <attvalue for="5" value="12.83586126937612" />
+        </attvalues>
+      </edge>
+      <edge source="KWF" target="KWAE" id="223">
+        <attvalues>
+          <attvalue for="5" value="0.07690781822555107" />
+        </attvalues>
+      </edge>
+      <edge source="KYP" target="SSRD" id="224">
+        <attvalues>
+          <attvalue for="5" value="2.0777926672768663" />
+        </attvalues>
+      </edge>
+      <edge source="LKPR" target="MDBP" id="225">
+        <attvalues>
+          <attvalue for="5" value="2.804141767148158" />
+        </attvalues>
+      </edge>
+      <edge source="LKPR" target="URP" id="226">
+        <attvalues>
+          <attvalue for="5" value="5.090502403572138" />
+        </attvalues>
+      </edge>
+      <edge source="KYI" target="MPJ" id="227">
+        <attvalues>
+          <attvalue for="5" value="4.672705112082288" />
+        </attvalues>
+      </edge>
+      <edge source="LGL" target="PRTL" id="228">
+        <attvalues>
+          <attvalue for="5" value="7.260989536164174" />
+        </attvalues>
+      </edge>
+      <edge source="LBTL" target="BSLA" id="229">
+        <attvalues>
+          <attvalue for="5" value="1.8973550015154952" />
+        </attvalues>
+      </edge>
+      <edge source="LBTL" target="BGRD" id="230">
+        <attvalues>
+          <attvalue for="5" value="3.504194586145798" />
+        </attvalues>
+      </edge>
+      <edge source="MAK" target="SBGR" id="231">
+        <attvalues>
+          <attvalue for="5" value="1.8420495769770817" />
+        </attvalues>
+      </edge>
+      <edge source="MDF" target="RKI" id="232">
+        <attvalues>
+          <attvalue for="5" value="5.004959392363848" />
+        </attvalues>
+      </edge>
+      <edge source="MDBP" target="MPRD" id="233">
+        <attvalues>
+          <attvalue for="5" value="5.081379000449605" />
+        </attvalues>
+      </edge>
+      <edge source="MIJ" target="TNX" id="234">
+        <attvalues>
+          <attvalue for="5" value="5.507504393696289" />
+        </attvalues>
+      </edge>
+      <edge source="MGLE" target="NWMS" id="235">
+        <attvalues>
+          <attvalue for="5" value="3.68868164768535" />
+        </attvalues>
+      </edge>
+      <edge source="MGLE" target="GALE" id="236">
+        <attvalues>
+          <attvalue for="5" value="7.7464894966775635" />
+        </attvalues>
+      </edge>
+      <edge source="MJE" target="DLO" id="237">
+        <attvalues>
+          <attvalue for="5" value="6.053304538171051" />
+        </attvalues>
+      </edge>
+      <edge source="MJE" target="MDT" id="238">
+        <attvalues>
+          <attvalue for="5" value="8.20711359954254" />
+        </attvalues>
+      </edge>
+      <edge source="MGAE" target="BAA" id="239">
+        <attvalues>
+          <attvalue for="5" value="2.2266454011710004" />
+        </attvalues>
+      </edge>
+      <edge source="MGAE" target="TKP" id="240">
+        <attvalues>
+          <attvalue for="5" value="9.914746774921978" />
+        </attvalues>
+      </edge>
+      <edge source="MPLR" target="MPLE" id="241">
+        <attvalues>
+          <attvalue for="5" value="3.6096767562900562" />
+        </attvalues>
+      </edge>
+      <edge source="MPLR" target="PRDG" id="242">
+        <attvalues>
+          <attvalue for="5" value="4.666738563867601" />
+        </attvalues>
+      </edge>
+      <edge source="MPLR" target="GSGB" id="243">
+        <attvalues>
+          <attvalue for="5" value="4.867844961643461" />
+        </attvalues>
+      </edge>
+      <edge source="MMG" target="NBE" id="244">
+        <attvalues>
+          <attvalue for="5" value="1.0711545034002976" />
+        </attvalues>
+      </edge>
+      <edge source="MMG" target="HHR" id="245">
+        <attvalues>
+          <attvalue for="5" value="2.657216237289075" />
+        </attvalues>
+      </edge>
+      <edge source="MMG" target="BT" id="246">
+        <attvalues>
+          <attvalue for="5" value="4.620183456373889" />
+        </attvalues>
+      </edge>
+      <edge source="MPLE" target="NWMS" id="247">
+        <attvalues>
+          <attvalue for="5" value="3.1452141612874858" />
+        </attvalues>
+      </edge>
+      <edge source="MTFA" target="PSAE" id="248">
+        <attvalues>
+          <attvalue for="5" value="2.962826384579774" />
+        </attvalues>
+      </edge>
+      <edge source="MSDL" target="SSPH" id="249">
+        <attvalues>
+          <attvalue for="5" value="3.132263451612903" />
+        </attvalues>
+      </edge>
+      <edge source="MSDL" target="KSBP" id="250">
+        <attvalues>
+          <attvalue for="5" value="8.146626438338652" />
+        </attvalues>
+      </edge>
+      <edge source="NCP" target="NCPM" id="251">
+        <attvalues>
+          <attvalue for="5" value="1.5847598097873712" />
+        </attvalues>
+      </edge>
+      <edge source="MYHT" target="TNX" id="252">
+        <attvalues>
+          <attvalue for="5" value="2.7333598964888477" />
+        </attvalues>
+      </edge>
+      <edge source="MYHT" target="BGL" id="253">
+        <attvalues>
+          <attvalue for="5" value="3.4074192342858374" />
+        </attvalues>
+      </edge>
+      <edge source="NKL" target="HPL" id="254">
+        <attvalues>
+          <attvalue for="5" value="4.889692841070593" />
+        </attvalues>
+      </edge>
+      <edge source="NDAE" target="VSPR" id="255">
+        <attvalues>
+          <attvalue for="5" value="1.8496176714163737" />
+        </attvalues>
+      </edge>
+      <edge source="NDAE" target="BFZ" id="256">
+        <attvalues>
+          <attvalue for="5" value="4.894765862734171" />
+        </attvalues>
+      </edge>
+      <edge source="NDAE" target="SMAE" id="257">
+        <attvalues>
+          <attvalue for="5" value="7.4891580789581855" />
+        </attvalues>
+      </edge>
+      <edge source="NMKA" target="UKLR" id="258">
+        <attvalues>
+          <attvalue for="5" value="5.912094350860863" />
+        </attvalues>
+      </edge>
+      <edge source="NBPH" target="SGV" id="259">
+        <attvalues>
+          <attvalue for="5" value="3.7418530984607448" />
+        </attvalues>
+      </edge>
+      <edge source="NBPH" target="BPC" id="260">
+        <attvalues>
+          <attvalue for="5" value="4.521315561881664" />
+        </attvalues>
+      </edge>
+      <edge source="NLSF" target="LCAE" id="261">
+        <attvalues>
+          <attvalue for="5" value="1.9090042052472722" />
+        </attvalues>
+      </edge>
+      <edge source="NLSF" target="MBB" id="262">
+        <attvalues>
+          <attvalue for="5" value="4.235553562234841" />
+        </attvalues>
+      </edge>
+      <edge source="ODM" target="BXL" id="263">
+        <attvalues>
+          <attvalue for="5" value="8.582591888090784" />
+        </attvalues>
+      </edge>
+      <edge source="ODM" target="RSG" id="264">
+        <attvalues>
+          <attvalue for="5" value="8.945100187334626" />
+        </attvalues>
+      </edge>
+      <edge source="NSF" target="DEA" id="265">
+        <attvalues>
+          <attvalue for="5" value="2.0303474345386783" />
+        </attvalues>
+      </edge>
+      <edge source="NSF" target="SIU" id="266">
+        <attvalues>
+          <attvalue for="5" value="3.582705241151914" />
+        </attvalues>
+      </edge>
+      <edge source="NRPR" target="SPR" id="267">
+        <attvalues>
+          <attvalue for="5" value="1.6713839449336236" />
+        </attvalues>
+      </edge>
+      <edge source="NTA" target="BSD" id="268">
+        <attvalues>
+          <attvalue for="5" value="2.1307788238346954" />
+        </attvalues>
+      </edge>
+      <edge source="NTA" target="D" id="269">
+        <attvalues>
+          <attvalue for="5" value="2.919599401121634" />
+        </attvalues>
+      </edge>
+      <edge source="PCX" target="PLY" id="270">
+        <attvalues>
+          <attvalue for="5" value="4.3478506800329875" />
+        </attvalues>
+      </edge>
+      <edge source="PCR" target="BMGA" id="271">
+        <attvalues>
+          <attvalue for="5" value="6.003323673072992" />
+        </attvalues>
+      </edge>
+      <edge source="PBA" target="BGO" id="272">
+        <attvalues>
+          <attvalue for="5" value="8.362507486012937" />
+        </attvalues>
+      </edge>
+      <edge source="PBA" target="VSU" id="273">
+        <attvalues>
+          <attvalue for="5" value="12.269188143585573" />
+        </attvalues>
+      </edge>
+      <edge source="PLF" target="CHT" id="274">
+        <attvalues>
+          <attvalue for="5" value="2.89791472194102" />
+        </attvalues>
+      </edge>
+      <edge source="PLF" target="GOF" id="275">
+        <attvalues>
+          <attvalue for="5" value="4.236992735444804" />
+        </attvalues>
+      </edge>
+      <edge source="PNCB" target="BNKA" id="276">
+        <attvalues>
+          <attvalue for="5" value="1.536110826933438" />
+        </attvalues>
+      </edge>
+      <edge source="PRTL" target="BQG" id="277">
+        <attvalues>
+          <attvalue for="5" value="4.1501187881146135" />
+        </attvalues>
+      </edge>
+      <edge source="SAD" target="TUNG" id="278">
+        <attvalues>
+          <attvalue for="5" value="4.785027107667257" />
+        </attvalues>
+      </edge>
+      <edge source="RGX" target="RGA" id="279">
+        <attvalues>
+          <attvalue for="5" value="7.812105706311404" />
+        </attvalues>
+      </edge>
+      <edge source="RGX" target="SMTG" id="280">
+        <attvalues>
+          <attvalue for="5" value="12.748525295306575" />
+        </attvalues>
+      </edge>
+      <edge source="SALE" target="MHTR" id="281">
+        <attvalues>
+          <attvalue for="5" value="2.6248302183860583" />
+        </attvalues>
+      </edge>
+      <edge source="SHBA" target="DHAE" id="282">
+        <attvalues>
+          <attvalue for="5" value="3.334857943901425" />
+        </attvalues>
+      </edge>
+      <edge source="SIU" target="DEA" id="283">
+        <attvalues>
+          <attvalue for="5" value="5.610083641203011" />
+        </attvalues>
+      </edge>
+      <edge source="RSG" target="VSU" id="284">
+        <attvalues>
+          <attvalue for="5" value="5.1537927178183525" />
+        </attvalues>
+      </edge>
+      <edge source="SBNM" target="JJG" id="285">
+        <attvalues>
+          <attvalue for="5" value="3.5656424934774527" />
+        </attvalues>
+      </edge>
+      <edge source="SBNM" target="ACLE" id="286">
+        <attvalues>
+          <attvalue for="5" value="5.171523810319279" />
+        </attvalues>
+      </edge>
+      <edge source="SBNM" target="BQG" id="287">
+        <attvalues>
+          <attvalue for="5" value="6.904971184890115" />
+        </attvalues>
+      </edge>
+      <edge source="SGUT" target="SGUJ" id="288">
+        <attvalues>
+          <attvalue for="5" value="2.3738800304048704" />
+        </attvalues>
+      </edge>
+      <edge source="SGUT" target="GLMA" id="289">
+        <attvalues>
+          <attvalue for="5" value="10.924481504710595" />
+        </attvalues>
+      </edge>
+      <edge source="SGUJ" target="GLMA" id="290">
+        <attvalues>
+          <attvalue for="5" value="8.905073211430722" />
+        </attvalues>
+      </edge>
+      <edge source="SNU" target="BHPA" id="291">
+        <attvalues>
+          <attvalue for="5" value="2.1543432636428093" />
+        </attvalues>
+      </edge>
+      <edge source="SNU" target="MGT" id="292">
+        <attvalues>
+          <attvalue for="5" value="4.910859165762571" />
+        </attvalues>
+      </edge>
+      <edge source="SNU" target="D" id="293">
+        <attvalues>
+          <attvalue for="5" value="4.992116641071235" />
+        </attvalues>
+      </edge>
+      <edge source="SJPA" target="BDPA" id="294">
+        <attvalues>
+          <attvalue for="5" value="7.244579169247632" />
+        </attvalues>
+      </edge>
+      <edge source="SJPA" target="KATI" id="295">
+        <attvalues>
+          <attvalue for="5" value="8.40847349874148" />
+        </attvalues>
+      </edge>
+      <edge source="SMTG" target="TMZ" id="296">
+        <attvalues>
+          <attvalue for="5" value="3.122457492832342" />
+        </attvalues>
+      </edge>
+      <edge source="SMTG" target="RGA" id="297">
+        <attvalues>
+          <attvalue for="5" value="4.9518553537328645" />
+        </attvalues>
+      </edge>
+      <edge source="MHTR" target="TYAE" id="298">
+        <attvalues>
+          <attvalue for="5" value="3.9137558677008055" />
+        </attvalues>
+      </edge>
+      <edge source="SVQ" target="GLMA" id="299">
+        <attvalues>
+          <attvalue for="5" value="10.746903706999978" />
+        </attvalues>
+      </edge>
+      <edge source="SVQ" target="BRQ" id="300">
+        <attvalues>
+          <attvalue for="5" value="11.67442949161347" />
+        </attvalues>
+      </edge>
+      <edge source="TKF" target="NMDR" id="301">
+        <attvalues>
+          <attvalue for="5" value="2.5936985357584854" />
+        </attvalues>
+      </edge>
+      <edge source="TKF" target="MPN" id="302">
+        <attvalues>
+          <attvalue for="5" value="4.162878308707772" />
+        </attvalues>
+      </edge>
+      <edge source="SXP" target="DGLE" id="303">
+        <attvalues>
+          <attvalue for="5" value="5.080638517856407" />
+        </attvalues>
+      </edge>
+      <edge source="TLX" target="GOF" id="304">
+        <attvalues>
+          <attvalue for="5" value="6.408174362109808" />
+        </attvalues>
+      </edge>
+      <edge source="TMZ" target="KSBP" id="305">
+        <attvalues>
+          <attvalue for="5" value="6.743528657158221" />
+        </attvalues>
+      </edge>
+      <edge source="TMZ" target="RGA" id="306">
+        <attvalues>
+          <attvalue for="5" value="7.645100772647573" />
+        </attvalues>
+      </edge>
+      <edge source="TYAE" target="MIAN" id="307">
+        <attvalues>
+          <attvalue for="5" value="4.148028147241155" />
+        </attvalues>
+      </edge>
+      <edge source="UKA" target="PAW" id="308">
+        <attvalues>
+          <attvalue for="5" value="7.929145709019104" />
+        </attvalues>
+      </edge>
+      <edge source="UTN" target="MGT" id="309">
+        <attvalues>
+          <attvalue for="5" value="3.2324031368182418" />
+        </attvalues>
+      </edge>
+      <edge source="VSPR" target="BFZ" id="310">
+        <attvalues>
+          <attvalue for="5" value="3.4140527173797546" />
+        </attvalues>
+      </edge>
+      <edge source="ACLE" target="JJG" id="311">
+        <attvalues>
+          <attvalue for="5" value="1.966250302532068" />
+        </attvalues>
+      </edge>
+      <edge source="ACLE" target="AZ" id="312">
+        <attvalues>
+          <attvalue for="5" value="2.1110887601543227" />
+        </attvalues>
+      </edge>
+      <edge source="ACLE" target="PRDG" id="313">
+        <attvalues>
+          <attvalue for="5" value="4.1426213854462" />
+        </attvalues>
+      </edge>
+      <edge source="AZ" target="DHPD" id="314">
+        <attvalues>
+          <attvalue for="5" value="2.7964325217182586" />
+        </attvalues>
+      </edge>
+      <edge source="AZ" target="JJG" id="315">
+        <attvalues>
+          <attvalue for="5" value="3.473198899741729" />
+        </attvalues>
+      </edge>
+      <edge source="APD" target="APDC" id="316">
+        <attvalues>
+          <attvalue for="5" value="2.300773417223907" />
+        </attvalues>
+      </edge>
+      <edge source="APD" target="BSW" id="317">
+        <attvalues>
+          <attvalue for="5" value="10.460614750114123" />
+        </attvalues>
+      </edge>
+      <edge source="BGRD" target="SXC" id="318">
+        <attvalues>
+          <attvalue for="5" value="2.67561597074469" />
+        </attvalues>
+      </edge>
+      <edge source="BMGA" target="PAW" id="319">
+        <attvalues>
+          <attvalue for="5" value="2.9832724378033175" />
+        </attvalues>
+      </edge>
+      <edge source="BQY" target="PTAE" id="320">
+        <attvalues>
+          <attvalue for="5" value="4.472886186827159" />
+        </attvalues>
+      </edge>
+      <edge source="BNV" target="BNQ" id="321">
+        <attvalues>
+          <attvalue for="5" value="6.239734978507276" />
+        </attvalues>
+      </edge>
+      <edge source="BNV" target="DLO" id="322">
+        <attvalues>
+          <attvalue for="5" value="9.043016061699905" />
+        </attvalues>
+      </edge>
+      <edge source="DMA" target="BURN" id="323">
+        <attvalues>
+          <attvalue for="5" value="3.8469420646222634" />
+        </attvalues>
+      </edge>
+      <edge source="DGHA" target="TKRA" id="324">
+        <attvalues>
+          <attvalue for="5" value="5.231205520787847" />
+        </attvalues>
+      </edge>
+      <edge source="DGHA" target="RMRB" id="325">
+        <attvalues>
+          <attvalue for="5" value="7.777812462760678" />
+        </attvalues>
+      </edge>
+      <edge source="DLX" target="RDP" id="326">
+        <attvalues>
+          <attvalue for="5" value="6.20950918350805" />
+        </attvalues>
+      </edge>
+      <edge source="BSLA" target="HRO" id="327">
+        <attvalues>
+          <attvalue for="5" value="3.255452351965603" />
+        </attvalues>
+      </edge>
+      <edge source="GALE" target="JRLE" id="328">
+        <attvalues>
+          <attvalue for="5" value="6.898784160472204" />
+        </attvalues>
+      </edge>
+      <edge source="GGV" target="MPE" id="329">
+        <attvalues>
+          <attvalue for="5" value="2.059570658828749" />
+        </attvalues>
+      </edge>
+      <edge source="JOC" target="ADRA" id="330">
+        <attvalues>
+          <attvalue for="5" value="2.3411051134511847" />
+        </attvalues>
+      </edge>
+      <edge source="HRO" target="KMZA" id="331">
+        <attvalues>
+          <attvalue for="5" value="3.250554697890534" />
+        </attvalues>
+      </edge>
+      <edge source="KJU" target="TBAE" id="332">
+        <attvalues>
+          <attvalue for="5" value="3.3193408333977015" />
+        </attvalues>
+      </edge>
+      <edge source="TKRA" target="RMRB" id="333">
+        <attvalues>
+          <attvalue for="5" value="2.800737930555731" />
+        </attvalues>
+      </edge>
+      <edge source="KNJ" target="BPD" id="334">
+        <attvalues>
+          <attvalue for="5" value="6.340557228633663" />
+        </attvalues>
+      </edge>
+      <edge source="MBB" target="LCAE" id="335">
+        <attvalues>
+          <attvalue for="5" value="3.598444896311167" />
+        </attvalues>
+      </edge>
+      <edge source="MBB" target="DHPD" id="336">
+        <attvalues>
+          <attvalue for="5" value="4.170388651936987" />
+        </attvalues>
+      </edge>
+      <edge source="MPJ" target="SMX" id="337">
+        <attvalues>
+          <attvalue for="5" value="4.458797864286144" />
+        </attvalues>
+      </edge>
+      <edge source="MPN" target="NMDR" id="338">
+        <attvalues>
+          <attvalue for="5" value="1.6025276393257422" />
+        </attvalues>
+      </edge>
+      <edge source="MPN" target="BSHT" id="339">
+        <attvalues>
+          <attvalue for="5" value="4.3856086803003524" />
+        </attvalues>
+      </edge>
+      <edge source="ODB" target="BRQ" id="340">
+        <attvalues>
+          <attvalue for="5" value="3.860121095734278" />
+        </attvalues>
+      </edge>
+      <edge source="RUI" target="SNTD" id="341">
+        <attvalues>
+          <attvalue for="5" value="8.284200978910114" />
+        </attvalues>
+      </edge>
+      <edge source="RMRB" target="BDPA" id="342">
+        <attvalues>
+          <attvalue for="5" value="7.400193777185451" />
+        </attvalues>
+      </edge>
+      <edge source="SGV" target="BFT" id="343">
+        <attvalues>
+          <attvalue for="5" value="3.428566282829778" />
+        </attvalues>
+      </edge>
+      <edge source="PXR" target="SMX" id="344">
+        <attvalues>
+          <attvalue for="5" value="2.2862742014698894" />
+        </attvalues>
+      </edge>
+      <edge source="SPLE" target="AHN" id="345">
+        <attvalues>
+          <attvalue for="5" value="6.009039979336251" />
+        </attvalues>
+      </edge>
+      <edge source="SOAE" target="GPAE" id="346">
+        <attvalues>
+          <attvalue for="5" value="6.655700102820606" />
+        </attvalues>
+      </edge>
+      <edge source="TAK" target="LOK" id="347">
+        <attvalues>
+          <attvalue for="5" value="2.421412896094626" />
+        </attvalues>
+      </edge>
+      <edge source="TAK" target="BAHW" id="348">
+        <attvalues>
+          <attvalue for="5" value="6.816679524313053" />
+        </attvalues>
+      </edge>
+      <edge source="TUNG" target="KGN" id="349">
+        <attvalues>
+          <attvalue for="5" value="5.243647059294429" />
+        </attvalues>
+      </edge>
+      <edge source="VTG" target="COB" id="350">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="VTG" target="DWT" id="351">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="BFZ" target="PSAE" id="352">
+        <attvalues>
+          <attvalue for="5" value="2.3163315400723117" />
+        </attvalues>
+      </edge>
+      <edge source="BBLA" target="BSHT" id="353">
+        <attvalues>
+          <attvalue for="5" value="1.4985049502770342" />
+        </attvalues>
+      </edge>
+      <edge source="BBT" target="DDC" id="354">
+        <attvalues>
+          <attvalue for="5" value="3.555081116136002" />
+        </attvalues>
+      </edge>
+      <edge source="BSAE" target="TBAE" id="355">
+        <attvalues>
+          <attvalue for="5" value="3.6857952494231867" />
+        </attvalues>
+      </edge>
+      <edge source="BSAE" target="HLR" id="356">
+        <attvalues>
+          <attvalue for="5" value="5.796030568963131" />
+        </attvalues>
+      </edge>
+      <edge source="BZLE" target="MIAN" id="357">
+        <attvalues>
+          <attvalue for="5" value="2.7663631497721783" />
+        </attvalues>
+      </edge>
+      <edge source="BZLE" target="KZPR" id="358">
+        <attvalues>
+          <attvalue for="5" value="3.8301836409505157" />
+        </attvalues>
+      </edge>
+      <edge source="BZLE" target="REJ" id="359">
+        <attvalues>
+          <attvalue for="5" value="8.27576918137871" />
+        </attvalues>
+      </edge>
+      <edge source="ANCR" target="CJN" id="360">
+        <attvalues>
+          <attvalue for="5" value="2.979658565035637" />
+        </attvalues>
+      </edge>
+      <edge source="BSW" target="APDC" id="361">
+        <attvalues>
+          <attvalue for="5" value="12.761125819895137" />
+        </attvalues>
+      </edge>
+      <edge source="BDPA" target="KATI" id="362">
+        <attvalues>
+          <attvalue for="5" value="14.9663461997767" />
+        </attvalues>
+      </edge>
+      <edge source="BPC" target="KGLE" id="363">
+        <attvalues>
+          <attvalue for="5" value="4.25757547343268" />
+        </attvalues>
+      </edge>
+      <edge source="BT" target="HHR" id="364">
+        <attvalues>
+          <attvalue for="5" value="1.9630099267922632" />
+        </attvalues>
+      </edge>
+      <edge source="COB" target="DWT" id="365">
+        <attvalues>
+          <attvalue for="5" value="0.0" />
+        </attvalues>
+      </edge>
+      <edge source="BARU" target="DBT" id="366">
+        <attvalues>
+          <attvalue for="5" value="2.4516647439987103" />
+        </attvalues>
+      </edge>
+      <edge source="DHPD" target="LCAE" id="367">
+        <attvalues>
+          <attvalue for="5" value="2.4656260976379047" />
+        </attvalues>
+      </edge>
+      <edge source="DSPN" target="NDKR" id="368">
+        <attvalues>
+          <attvalue for="5" value="21.287173155574777" />
+        </attvalues>
+      </edge>
+      <edge source="DSPN" target="KSBP" id="369">
+        <attvalues>
+          <attvalue for="5" value="25.3214877202939" />
+        </attvalues>
+      </edge>
+      <edge source="GMDN" target="GKL" id="370">
+        <attvalues>
+          <attvalue for="5" value="4.143562601474725" />
+        </attvalues>
+      </edge>
+      <edge source="GMDN" target="MDN" id="371">
+        <attvalues>
+          <attvalue for="5" value="9.39704195319765" />
+        </attvalues>
+      </edge>
+      <edge source="GKL" target="MDN" id="372">
+        <attvalues>
+          <attvalue for="5" value="5.632829718667001" />
+        </attvalues>
+      </edge>
+      <edge source="GLMA" target="SN" id="373">
+        <attvalues>
+          <attvalue for="5" value="4.212789895336455" />
+        </attvalues>
+      </edge>
+      <edge source="GLMA" target="RTG" id="374">
+        <attvalues>
+          <attvalue for="5" value="7.130675629340952" />
+        </attvalues>
+      </edge>
+      <edge source="JVT" target="KGLE" id="375">
+        <attvalues>
+          <attvalue for="5" value="4.528161067941677" />
+        </attvalues>
+      </edge>
+      <edge source="JVT" target="KNSN" id="376">
+        <attvalues>
+          <attvalue for="5" value="5.258398778601479" />
+        </attvalues>
+      </edge>
+      <edge source="JRLE" target="AHN" id="377">
+        <attvalues>
+          <attvalue for="5" value="6.468536723028444" />
+        </attvalues>
+      </edge>
+      <edge source="KTLR" target="KNSN" id="378">
+        <attvalues>
+          <attvalue for="5" value="4.873406888932034" />
+        </attvalues>
+      </edge>
+      <edge source="DH" target="GURN" id="379">
+        <attvalues>
+          <attvalue for="5" value="2.7040995153799288" />
+        </attvalues>
+      </edge>
+      <edge source="DH" target="BSD" id="380">
+        <attvalues>
+          <attvalue for="5" value="4.7199025887800365" />
+        </attvalues>
+      </edge>
+      <edge source="MPE" target="KMZA" id="381">
+        <attvalues>
+          <attvalue for="5" value="4.301801282701466" />
+        </attvalues>
+      </edge>
+      <edge source="PRDG" target="GSGB" id="382">
+        <attvalues>
+          <attvalue for="5" value="1.9972354415040903" />
+        </attvalues>
+      </edge>
+      <edge source="REJ" target="SRJN" id="383">
+        <attvalues>
+          <attvalue for="5" value="3.6928401301554046" />
+        </attvalues>
+      </edge>
+      <edge source="SN" target="RTG" id="384">
+        <attvalues>
+          <attvalue for="5" value="5.448542115315825" />
+        </attvalues>
+      </edge>
+      <edge source="SRJN" target="PLY" id="385">
+        <attvalues>
+          <attvalue for="5" value="4.725620244411775" />
+        </attvalues>
+      </edge>
+      <edge source="SXC" target="BHKA" id="386">
+        <attvalues>
+          <attvalue for="5" value="1.958193495380357" />
+        </attvalues>
+      </edge>
+      <edge source="BHPA" target="MGT" id="387">
+        <attvalues>
+          <attvalue for="5" value="2.802221215044728" />
+        </attvalues>
+      </edge>
+      <edge source="TDH" target="RTG" id="388">
+        <attvalues>
+          <attvalue for="5" value="1.959391429444674" />
+        </attvalues>
+      </edge>
+      <edge source="LOK" target="BAHW" id="389">
+        <attvalues>
+          <attvalue for="5" value="4.395267821521743" />
+        </attvalues>
+      </edge>
+      <edge source="BSD" target="GURN" id="390">
+        <attvalues>
+          <attvalue for="5" value="2.0181458396287155" />
+        </attvalues>
+      </edge>
+      <edge source="KSBP" target="NDKR" id="391">
+        <attvalues>
+          <attvalue for="5" value="4.03439820224702" />
+        </attvalues>
+      </edge>
+      <edge source="KSBP" target="SSPH" id="392">
+        <attvalues>
+          <attvalue for="5" value="5.017266842183508" />
+        </attvalues>
+      </edge>
+      <edge source="NDKR" target="SSPH" id="393">
+        <attvalues>
+          <attvalue for="5" value="6.158767698857834" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

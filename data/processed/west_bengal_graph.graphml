@@ -1,0 +1,3514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="distance_km" attr.type="double"/>
+<key id="d4" for="node" attr.name="lat" attr.type="double"/>
+<key id="d3" for="node" attr.name="lon" attr.type="double"/>
+<key id="d2" for="node" attr.name="zone" attr.type="string"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="code" attr.type="string"/>
+<graph edgedefault="undirected"><node id="JNM">
+  <data key="d0">JNM</data>
+  <data key="d1">Jayanagar Majilpur Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.415324</data>
+  <data key="d4">22.168635</data>
+</node>
+<node id="DEB">
+  <data key="d0">DEB</data>
+  <data key="d1">Debagram</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.306807</data>
+  <data key="d4">23.685277</data>
+</node>
+<node id="BTY">
+  <data key="d0">BTY</data>
+  <data key="d1">Bethuadahari</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.384597</data>
+  <data key="d4">23.610275</data>
+</node>
+<node id="BGNA">
+  <data key="d0">BGNA</data>
+  <data key="d1">Balgona</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.95045644976199</data>
+  <data key="d4">23.458049719226736</data>
+</node>
+<node id="KLNP">
+  <data key="d0">KLNP</data>
+  <data key="d1">Kalinarayanpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.573216</data>
+  <data key="d4">23.206506</data>
+</node>
+<node id="BRDB">
+  <data key="d0">BRDB</data>
+  <data key="d1">Barda</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.08753041</data>
+  <data key="d4">22.15295838</data>
+</node>
+<node id="APDJ">
+  <data key="d0">APDJ</data>
+  <data key="d1">ALIPUR DUAR JN</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.534048</data>
+  <data key="d4">26.523279</data>
+</node>
+<node id="JTK">
+  <data key="d0">JTK</data>
+  <data key="d1">Jhitkia</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.05297200000001</data>
+  <data key="d4">25.626133</data>
+</node>
+<node id="SNKR">
+  <data key="d0">SNKR</data>
+  <data key="d1">Sanka</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.616164</data>
+  <data key="d4">23.52693</data>
+</node>
+<node id="GCN">
+  <data key="d0">GCN</data>
+  <data key="d1">Gocharan</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.45836999999999</data>
+  <data key="d4">22.277738</data>
+</node>
+<node id="SDMD">
+  <data key="d0">SDMD</data>
+  <data key="d1">Sudamdih</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.44032</data>
+  <data key="d4">23.654478</data>
+</node>
+<node id="CLD">
+  <data key="d0">CLD</data>
+  <data key="d1">CHALSA JN</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.798213</data>
+  <data key="d4">26.882215</data>
+</node>
+<node id="CRX">
+  <data key="d0">CRX</data>
+  <data key="d1">CARRON</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.9704</data>
+  <data key="d4">26.880279</data>
+</node>
+<node id="CSZ">
+  <data key="d0">CSZ</data>
+  <data key="d1">Cossimbazar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.266903</data>
+  <data key="d4">24.122264</data>
+</node>
+<node id="DDM">
+  <data key="d0">DDM</data>
+  <data key="d1">DAM DIM</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.67133299999999</data>
+  <data key="d4">26.859243000000003</data>
+</node>
+<node id="CQR">
+  <data key="d0">CQR</data>
+  <data key="d1">Champapukur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.80796000000001</data>
+  <data key="d4">22.656633999999997</data>
+</node>
+<node id="AG">
+  <data key="d0">AG</data>
+  <data key="d1">Aranghata</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.613551</data>
+  <data key="d4">23.242037</data>
+</node>
+<node id="DJ">
+  <data key="d0">DJ</data>
+  <data key="d1">Darjeeling</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.263326</data>
+  <data key="d4">27.038151</data>
+</node>
+<node id="GGLE">
+  <data key="d0">GGLE</data>
+  <data key="d1">GANGATIKURI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.087286</data>
+  <data key="d4">23.71822</data>
+</node>
+<node id="DTAE">
+  <data key="d0">DTAE</data>
+  <data key="d1">DHATRIGRAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.31182199999999</data>
+  <data key="d4">23.277796</data>
+</node>
+<node id="HNB">
+  <data key="d0">HNB</data>
+  <data key="d1">Hasanabad</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.912953</data>
+  <data key="d4">22.570155</data>
+</node>
+<node id="JHBN">
+  <data key="d0">JHBN</data>
+  <data key="d1">JHAMATPUR BAHARAN</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.098669</data>
+  <data key="d4">23.749987</data>
+</node>
+<node id="JIT">
+  <data key="d0">JIT</data>
+  <data key="d1">JIRAT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.461461</data>
+  <data key="d4">23.098255</data>
+</node>
+<node id="KAU">
+  <data key="d0">KAU</data>
+  <data key="d1">Kachna</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.0246425354</data>
+  <data key="d4">25.6337383216</data>
+</node>
+<node id="NBKH">
+  <data key="d0">NBKH</data>
+  <data key="d1">NABA GRAM KANKU</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.10026</data>
+  <data key="d4">23.661572</data>
+</node>
+<node id="ABKA">
+  <data key="d0">ABKA</data>
+  <data key="d1">AMBIKA KALNA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.353984</data>
+  <data key="d4">23.211377</data>
+</node>
+<node id="KMAE">
+  <data key="d0">KMAE</data>
+  <data key="d1">KHAMARGACHHI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.44421</data>
+  <data key="d4">23.054229</data>
+</node>
+<node id="HOJ">
+  <data key="d0">HOJ</data>
+  <data key="d1">HAMITONGANJ</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.416841</data>
+  <data key="d4">26.688907</data>
+</node>
+<node id="LAP">
+  <data key="d0">LAP</data>
+  <data key="d1">Lohapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.963719</data>
+  <data key="d4">24.302357</data>
+</node>
+<node id="KJME">
+  <data key="d0">KJME</data>
+  <data key="d1">KAJORAGRAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.18466500000001</data>
+  <data key="d4">23.615327</data>
+</node>
+<node id="ABW">
+  <data key="d0">ABW</data>
+  <data key="d1">Abutara Halt</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.5868746</data>
+  <data key="d4">26.0707762</data>
+</node>
+<node id="MHN">
+  <data key="d0">MHN</data>
+  <data key="d1">Mahanadi</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.318628</data>
+  <data key="d4">26.882301000000002</data>
+</node>
+<node id="MDKD">
+  <data key="d0">MDKD</data>
+  <data key="d1">MADHUKUNDA</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.869091</data>
+  <data key="d4">23.626630000000002</data>
+</node>
+<node id="CPLE">
+  <data key="d0">CPLE</data>
+  <data key="d1">CHINPAI</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.46063699999999</data>
+  <data key="d4">23.839677000000002</data>
+</node>
+<node id="NILE">
+  <data key="d0">NILE</data>
+  <data key="d1">NIMTITA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.00764</data>
+  <data key="d4">24.625338</data>
+</node>
+<node id="RHA">
+  <data key="d0">RHA</data>
+  <data key="d1">Ranaghat Junction</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.568184</data>
+  <data key="d4">23.173344</data>
+</node>
+<node id="SHM">
+  <data key="d0">SHM</data>
+  <data key="d1">KOLKATA SHALIMAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.315615</data>
+  <data key="d4">22.555508</data>
+</node>
+<node id="SDI">
+  <data key="d0">SDI</data>
+  <data key="d1">Sagardighi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.105398</data>
+  <data key="d4">24.287789</data>
+</node>
+<node id="SVH">
+  <data key="d0">SVH</data>
+  <data key="d1">Sonadanga</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.354092</data>
+  <data key="d4">23.636393</data>
+</node>
+<node id="CWLE">
+  <data key="d0">CWLE</data>
+  <data key="d1">CHOWRIGACHA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.18645099999999</data>
+  <data key="d4">23.942472</data>
+</node>
+<node id="LKX">
+  <data key="d0">LKX</data>
+  <data key="d1">LAKSHMIPUR</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.302374</data>
+  <data key="d4">23.502512000000003</data>
+</node>
+<node id="DMLE">
+  <data key="d0">DMLE</data>
+  <data key="d1">DUMURDAHA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.43266200000001</data>
+  <data key="d4">23.040053</data>
+</node>
+<node id="NKB">
+  <data key="d0">NKB</data>
+  <data key="d1">NAGRAKOTA</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.917581</data>
+  <data key="d4">26.885533</data>
+</node>
+<node id="GRU">
+  <data key="d0">GRU</data>
+  <data key="d1">GAROPARA</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.48526169979999</data>
+  <data key="d4">26.6574376742</data>
+</node>
+<node id="THP">
+  <data key="d0">THP</data>
+  <data key="d1">Taherpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.54311899999999</data>
+  <data key="d4">23.259379000000003</data>
+</node>
+<node id="AGAE">
+  <data key="d0">AGAE</data>
+  <data key="d1">AGRADWIP</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.22611699999999</data>
+  <data key="d4">23.58096</data>
+</node>
+<node id="BAAR">
+  <data key="d0">BAAR</data>
+  <data key="d1">Bandar P.H.</data>
+  <data key="d2">?</data>
+  <data key="d3">88.086816</data>
+  <data key="d4">22.052122</data>
+</node>
+<node id="BDYP">
+  <data key="d0">BDYP</data>
+  <data key="d1">Bidyadharpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.452872</data>
+  <data key="d4">22.425122</data>
+</node>
+<node id="BEB">
+  <data key="d0">BEB</data>
+  <data key="d1">Beldanga</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.2429681</data>
+  <data key="d4">23.9320594</data>
+</node>
+<node id="BHNA">
+  <data key="d0">BHNA</data>
+  <data key="d1">Bhayna</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.64165885999999</data>
+  <data key="d4">23.31226134</data>
+</node>
+<node id="BGA">
+  <data key="d0">BGA</data>
+  <data key="d1">BAGALIA</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.51904643</data>
+  <data key="d4">23.44693617</data>
+</node>
+<node id="BERO">
+  <data key="d0">BERO</data>
+  <data key="d1">BERO</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.72660900000001</data>
+  <data key="d4">23.548271</data>
+</node>
+<node id="BGB">
+  <data key="d0">BGB</data>
+  <data key="d1">Budge Budge</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.19469228000001</data>
+  <data key="d4">22.49310248</data>
+</node>
+<node id="BGJT">
+  <data key="d0">BGJT</data>
+  <data key="d1">Bagha Jatin</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.387421</data>
+  <data key="d4">22.482615000000003</data>
+</node>
+<node id="BIJ">
+  <data key="d0">BIJ</data>
+  <data key="d1">Birnagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.55125199999999</data>
+  <data key="d4">23.2358754</data>
+</node>
+<node id="BHLA">
+  <data key="d0">BHLA</data>
+  <data key="d1">BEHULA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.4287921</data>
+  <data key="d4">23.181967399999998</data>
+</node>
+<node id="BGAE">
+  <data key="d0">BGAE</data>
+  <data key="d1">BALAGARH</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.4525522</data>
+  <data key="d4">23.1215453</data>
+</node>
+<node id="AKRA">
+  <data key="d0">AKRA</data>
+  <data key="d1">Akra</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.249021</data>
+  <data key="d4">22.514668</data>
+</node>
+<node id="BMGR">
+  <data key="d0">BMGR</data>
+  <data key="d1">Bamangram</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.1912832245</data>
+  <data key="d4">25.622139865799998</data>
+</node>
+<node id="BPN">
+  <data key="d0">BPN</data>
+  <data key="d1">Banpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.76185515</data>
+  <data key="d4">23.45186861</data>
+</node>
+<node id="BQZ">
+  <data key="d0">BQZ</data>
+  <data key="d1">BALLALPUR</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.91224299999999</data>
+  <data key="d4">24.747459000000003</data>
+</node>
+<node id="BRP">
+  <data key="d0">BRP</data>
+  <data key="d1">Baruipur Junction</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.431647</data>
+  <data key="d4">22.366657999999997</data>
+</node>
+<node id="BTKB">
+  <data key="d0">BTKB</data>
+  <data key="d1">Bathna Krittibas Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.48266943</data>
+  <data key="d4">23.236313600000003</data>
+</node>
+<node id="BQA">
+  <data key="d0">BQA</data>
+  <data key="d1">BANKURA</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.07468750000001</data>
+  <data key="d4">23.224387099999998</data>
+</node>
+<node id="BRJ">
+  <data key="d0">BRJ</data>
+  <data key="d1">Brace Bridge</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.301496</data>
+  <data key="d4">22.517861</data>
+</node>
+<node id="BTPG">
+  <data key="d0">BTPG</data>
+  <data key="d1">Betheria Ghola</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.573321</data>
+  <data key="d4">22.350122</data>
+</node>
+<node id="BRPK">
+  <data key="d0">BRPK</data>
+  <data key="d1">Bisharpara Kodaliya</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.434731</data>
+  <data key="d4">22.676284</data>
+</node>
+<node id="BYSA">
+  <data key="d0">BYSA</data>
+  <data key="d1">Basulyasutahata</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.13056325</data>
+  <data key="d4">22.12030128</data>
+</node>
+<node id="BXT">
+  <data key="d0">BXT</data>
+  <data key="d1">Bamanhat</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.62797752581537</data>
+  <data key="d4">26.076284459879247</data>
+</node>
+<node id="BUTA">
+  <data key="d0">BUTA</data>
+  <data key="d1">BHADUTALA</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.3208</data>
+  <data key="d4">22.485657</data>
+</node>
+<node id="CDGR">
+  <data key="d0">CDGR</data>
+  <data key="d1">CHANDRAKONA RD</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.340588</data>
+  <data key="d4">22.739076</data>
+</node>
+<node id="ANR">
+  <data key="d0">ANR</data>
+  <data key="d1">ANARA</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.559763</data>
+  <data key="d4">23.481082</data>
+</node>
+<node id="CG">
+  <data key="d0">CG</data>
+  <data key="d1">Canning</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.667458</data>
+  <data key="d4">22.313264</data>
+</node>
+<node id="DGNR">
+  <data key="d0">DGNR</data>
+  <data key="d1">Durganagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.419</data>
+  <data key="d4">22.650758</data>
+</node>
+<node id="CDH">
+  <data key="d0">CDH</data>
+  <data key="d1">Chakdaha</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.529672</data>
+  <data key="d4">23.078406</data>
+</node>
+<node id="MLYA">
+  <data key="d0">MLYA</data>
+  <data key="d1">Maliya</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.136281</data>
+  <data key="d4">22.831668</data>
+</node>
+<node id="DMU">
+  <data key="d0">DMU</data>
+  <data key="d1">Dhamua</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.392178</data>
+  <data key="d4">22.290179</data>
+</node>
+<node id="DHH">
+  <data key="d0">DHH</data>
+  <data key="d1">Dinhata</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.5868746</data>
+  <data key="d4">26.0707762</data>
+</node>
+<node id="DKDP">
+  <data key="d0">DKDP</data>
+  <data key="d1">Dakshin Durgapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.399338</data>
+  <data key="d4">22.308871</data>
+</node>
+<node id="DJRZ">
+  <data key="d0">DJRZ</data>
+  <data key="d1">To Darjeeling</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.3332302</data>
+  <data key="d4">26.8521353</data>
+</node>
+<node id="DPDP">
+  <data key="d0">DPDP</data>
+  <data key="d1">Dhapdhapi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.459855</data>
+  <data key="d4">22.315994</data>
+</node>
+<node id="DHU">
+  <data key="d0">DHU</data>
+  <data key="d1">Dhubulia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.441145</data>
+  <data key="d4">23.483546</data>
+</node>
+<node id="FLU">
+  <data key="d0">FLU</data>
+  <data key="d1">Phulia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.49634</data>
+  <data key="d4">23.229896999999998</data>
+</node>
+<node id="DZKT">
+  <data key="d0">DZKT</data>
+  <data key="d1">Durga Chak Town</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.136032</data>
+  <data key="d4">22.066831</data>
+</node>
+<node id="DZK">
+  <data key="d0">DZK</data>
+  <data key="d1">Durgachak</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.15527399999999</data>
+  <data key="d4">22.082011</data>
+</node>
+<node id="NAI">
+  <data key="d0">NAI</data>
+  <data key="d1">Nangi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.223984</data>
+  <data key="d4">22.500255999999997</data>
+</node>
+<node id="DUJ">
+  <data key="d0">DUJ</data>
+  <data key="d1">DUBRAJPUR</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.378973</data>
+  <data key="d4">23.803358</data>
+</node>
+<node id="GBA">
+  <data key="d0">GBA</data>
+  <data key="d1">GARHBETA</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.320972</data>
+  <data key="d4">22.844562</data>
+</node>
+<node id="GIA">
+  <data key="d0">GIA</data>
+  <data key="d1">Garia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.404673</data>
+  <data key="d4">22.465958999999998</data>
+</node>
+<node id="GHUM">
+  <data key="d0">GHUM</data>
+  <data key="d1">Ghoom</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.254223</data>
+  <data key="d4">27.008643</data>
+</node>
+<node id="GEDE">
+  <data key="d0">GEDE</data>
+  <data key="d1">Gede</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.786737</data>
+  <data key="d4">23.491197</data>
+</node>
+<node id="GRB">
+  <data key="d0">GRB</data>
+  <data key="d1">GARHDHRUBESWAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.617006</data>
+  <data key="d4">23.509341</data>
+</node>
+<node id="HBE">
+  <data key="d0">HBE</data>
+  <data key="d1">Habibpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.538423</data>
+  <data key="d4">23.211966999999998</data>
+</node>
+<node id="HGA">
+  <data key="d0">HGA</data>
+  <data key="d1">Hogla</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.452384</data>
+  <data key="d4">22.255044</data>
+</node>
+<node id="HLZ">
+  <data key="d0">HLZ</data>
+  <data key="d1">Haldia</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.06589</data>
+  <data key="d4">22.045284</data>
+</node>
+<node id="GSL">
+  <data key="d0">GSL</data>
+  <data key="d1">GODAPIASAL</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.320806</data>
+  <data key="d4">22.530677</data>
+</node>
+<node id="HSA">
+  <data key="d0">HSA</data>
+  <data key="d1">HASIMARA</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.347661</data>
+  <data key="d4">26.72689</data>
+</node>
+<node id="HRSR">
+  <data key="d0">HRSR</data>
+  <data key="d1">Harish Nagar Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.77798899999999</data>
+  <data key="d4">23.469777</data>
+</node>
+<node id="JDP">
+  <data key="d0">JDP</data>
+  <data key="d1">Jadabpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.37469700000001</data>
+  <data key="d4">22.495442</data>
+</node>
+<node id="JKL">
+  <data key="d0">JKL</data>
+  <data key="d1">Jalal Khali</data>
+  <data key="d2">?</data>
+  <data key="d3">88.513628</data>
+  <data key="d4">23.347507999999998</data>
+</node>
+<node id="IBL">
+  <data key="d0">IBL</data>
+  <data key="d1">INDRABIL</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.78164699999999</data>
+  <data key="d4">23.445293999999997</data>
+</node>
+<node id="JPH">
+  <data key="d0">JPH</data>
+  <data key="d1">JHANTIPAHARI</data>
+  <data key="d2">?</data>
+  <data key="d3">86.904491</data>
+  <data key="d4">23.353362999999998</data>
+</node>
+<node id="KBGH">
+  <data key="d0">KBGH</data>
+  <data key="d1">Karea Kadambagachhi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.534887</data>
+  <data key="d4">22.705299</data>
+</node>
+<node id="KAJ">
+  <data key="d0">KAJ</data>
+  <data key="d1">Kaliyaganj</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.330404</data>
+  <data key="d4">25.6393</data>
+</node>
+<node id="KCF">
+  <data key="d0">KCF</data>
+  <data key="d1">KALCHINI</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.447487</data>
+  <data key="d4">26.687507</data>
+</node>
+<node id="KKAE">
+  <data key="d0">KKAE</data>
+  <data key="d1">Kaikala</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.09337895</data>
+  <data key="d4">22.83998676</data>
+</node>
+<node id="KHGR">
+  <data key="d0">KHGR</data>
+  <data key="d1">Kashinagar Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.20132346</data>
+  <data key="d4">21.90539421</data>
+</node>
+<node id="KLKR">
+  <data key="d0">KLKR</data>
+  <data key="d1">Kalikapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.47502999999999</data>
+  <data key="d4">22.412606</data>
+</node>
+<node id="KLW">
+  <data key="d0">KLW</data>
+  <data key="d1">Kalwan Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.256019</data>
+  <data key="d4">22.076525</data>
+</node>
+<node id="KPA">
+  <data key="d0">KPA</data>
+  <data key="d1">Kanchrapara</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.451231</data>
+  <data key="d4">22.946024</data>
+</node>
+<node id="KRXM">
+  <data key="d0">KRXM</data>
+  <data key="d1">Krishnamohan Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.449759</data>
+  <data key="d4">22.330258</data>
+</node>
+<node id="KRP">
+  <data key="d0">KRP</data>
+  <data key="d1">Krishnapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.25613200000001</data>
+  <data key="d4">24.406330999999998</data>
+</node>
+<node id="KRKN">
+  <data key="d0">KRKN</data>
+  <data key="d1">Karkend</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.369799</data>
+  <data key="d4">23.765615</data>
+</node>
+<node id="KSU">
+  <data key="d0">KSU</data>
+  <data key="d1">KUSHTAUR</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.498336</data>
+  <data key="d4">23.430415999999997</data>
+</node>
+<node id="KWDP">
+  <data key="d0">KWDP</data>
+  <data key="d1">Kakdwip</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.19387900000001</data>
+  <data key="d4">21.8796</data>
+</node>
+<node id="KWF">
+  <data key="d0">KWF</data>
+  <data key="d1">Katwa</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.123575</data>
+  <data key="d4">23.639805</data>
+</node>
+<node id="KYP">
+  <data key="d0">KYP</data>
+  <data key="d1">Kalyanpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.414597</data>
+  <data key="d4">22.343456</data>
+</node>
+<node id="LKPR">
+  <data key="d0">LKPR</data>
+  <data key="d1">Lakshmikantpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.321958</data>
+  <data key="d4">22.110055</data>
+</node>
+<node id="KYI">
+  <data key="d0">KYI</data>
+  <data key="d1">Kalyani</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.467499</data>
+  <data key="d4">22.969219</data>
+</node>
+<node id="LGL">
+  <data key="d0">LGL</data>
+  <data key="d1">Lalgola</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.257513</data>
+  <data key="d4">24.421152</data>
+</node>
+<node id="LBTL">
+  <data key="d0">LBTL</data>
+  <data key="d1">Lebutala</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.640107</data>
+  <data key="d4">22.666791</data>
+</node>
+<node id="MAK">
+  <data key="d0">MAK</data>
+  <data key="d1">Mallikpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.43331500000001</data>
+  <data key="d4">22.396985</data>
+</node>
+<node id="MDF">
+  <data key="d0">MDF</data>
+  <data key="d1">MURADI</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.80929</data>
+  <data key="d4">23.593092000000002</data>
+</node>
+<node id="MDBP">
+  <data key="d0">MDBP</data>
+  <data key="d1">Madhabpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.347323</data>
+  <data key="d4">22.119207</data>
+</node>
+<node id="MIJ">
+  <data key="d0">MIJ</data>
+  <data key="d1">Majhdia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.719031</data>
+  <data key="d4">23.414561999999997</data>
+</node>
+<node id="MGLE">
+  <data key="d0">MGLE</data>
+  <data key="d1">MANIGRAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.107881626</data>
+  <data key="d4">24.3428549076</data>
+</node>
+<node id="MJE">
+  <data key="d0">MJE</data>
+  <data key="d1">MUJNAL</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.191957</data>
+  <data key="d4">26.693327999999998</data>
+</node>
+<node id="MGAE">
+  <data key="d0">MGAE</data>
+  <data key="d1">Morgram</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.018413</data>
+  <data key="d4">24.304919</data>
+</node>
+<node id="MGM">
+  <data key="d0">MGM</data>
+  <data key="d1">Muragacha</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.421243</data>
+  <data key="d4">23.529636</data>
+</node>
+<node id="MPLR">
+  <data key="d0">MPLR</data>
+  <data key="d1">MAHIPAL ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.1911711557</data>
+  <data key="d4">24.2875453877</data>
+</node>
+<node id="MMG">
+  <data key="d0">MMG</data>
+  <data key="d1">Madhyamgram</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.45225400000001</data>
+  <data key="d4">22.693938</data>
+</node>
+<node id="MPLE">
+  <data key="d0">MPLE</data>
+  <data key="d1">MAHIPAL</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.162107</data>
+  <data key="d4">24.30631</data>
+</node>
+<node id="MTFA">
+  <data key="d0">MTFA</data>
+  <data key="d1">MERTALA PHALEYA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.319686</data>
+  <data key="d4">23.479665999999998</data>
+</node>
+<node id="MSDL">
+  <data key="d0">MSDL</data>
+  <data key="d1">Mahisadal</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.010799</data>
+  <data key="d4">22.176298999999997</data>
+</node>
+<node id="NCP">
+  <data key="d0">NCP</data>
+  <data key="d1">Nishchindapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.214325</data>
+  <data key="d4">21.973426</data>
+</node>
+<node id="MYHT">
+  <data key="d0">MYHT</data>
+  <data key="d1">Mayurhat</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.661013</data>
+  <data key="d4">23.363017</data>
+</node>
+<node id="NKL">
+  <data key="d0">NKL</data>
+  <data key="d1">Nalikul</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.16622600000001</data>
+  <data key="d4">22.829712999999998</data>
+</node>
+<node id="NDAE">
+  <data key="d0">NDAE</data>
+  <data key="d1">NABADWIP DHAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.356472</data>
+  <data key="d4">23.396593</data>
+</node>
+<node id="NBE">
+  <data key="d0">NBE</data>
+  <data key="d1">New Barrackpore</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.444755</data>
+  <data key="d4">22.687235</data>
+</node>
+<node id="NMZ">
+  <data key="d0">NMZ</data>
+  <data key="d1">NEW MAL JN</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.724837</data>
+  <data key="d4">26.87368</data>
+</node>
+<node id="NMKA">
+  <data key="d0">NMKA</data>
+  <data key="d1">Namkhana</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.239558</data>
+  <data key="d4">21.772235000000002</data>
+</node>
+<node id="NBPH">
+  <data key="d0">NBPH</data>
+  <data key="d1">New Balarampur Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.24737400000001</data>
+  <data key="d4">24.051233</data>
+</node>
+<node id="NLSF">
+  <data key="d0">NLSF</data>
+  <data key="d1">NIYALISH PARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.246367</data>
+  <data key="d4">24.156525000000002</data>
+</node>
+<node id="ODM">
+  <data key="d0">ODM</data>
+  <data key="d1">ONDAGRAM</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.202275</data>
+  <data key="d4">23.147973999999998</data>
+</node>
+<node id="NSF">
+  <data key="d0">NSF</data>
+  <data key="d1">Nasibpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.262036</data>
+  <data key="d4">22.804834999999997</data>
+</node>
+<node id="NRPR">
+  <data key="d0">NRPR</data>
+  <data key="d1">Narendrapur Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.41769</data>
+  <data key="d4">22.453419999999998</data>
+</node>
+<node id="NTA">
+  <data key="d0">NTA</data>
+  <data key="d1">Netra</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.25409499999999</data>
+  <data key="d4">22.208105</data>
+</node>
+<node id="PDPK">
+  <data key="d0">PDPK</data>
+  <data key="d1">PADMAPUKAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">88.3062197015</data>
+  <data key="d4">22.5683088157</data>
+</node>
+<node id="PCX">
+  <data key="d0">PCX</data>
+  <data key="d1">Pagla Chandi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.303969</data>
+  <data key="d4">23.743195</data>
+</node>
+<node id="PCR">
+  <data key="d0">PCR</data>
+  <data key="d1">PANCHRA</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.330151</data>
+  <data key="d4">23.771990000000002</data>
+</node>
+<node id="PBA">
+  <data key="d0">PBA</data>
+  <data key="d1">PIARDOBA</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.322164</data>
+  <data key="d4">22.956881</data>
+</node>
+<node id="PLF">
+  <data key="d0">PLF</data>
+  <data key="d1">Piali</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.51744099999999</data>
+  <data key="d4">22.388254</data>
+</node>
+<node id="PNCB">
+  <data key="d0">PNCB</data>
+  <data key="d1">Pancheberia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.599435</data>
+  <data key="d4">23.221017</data>
+</node>
+<node id="PDX">
+  <data key="d0">PDX</data>
+  <data key="d1">Payradanga</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.545481</data>
+  <data key="d4">23.128660999999997</data>
+</node>
+<node id="PRTL">
+  <data key="d0">PRTL</data>
+  <data key="d1">Pirtala</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.28058300000001</data>
+  <data key="d4">24.359325000000002</data>
+</node>
+<node id="RKI">
+  <data key="d0">RKI</data>
+  <data key="d1">RAMKANALI JN</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.76233599999999</data>
+  <data key="d4">23.579891</data>
+</node>
+<node id="RGJ">
+  <data key="d0">RGJ</data>
+  <data key="d1">RaiGanj</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.127696</data>
+  <data key="d4">25.619125</data>
+</node>
+<node id="SAD">
+  <data key="d0">SAD</data>
+  <data key="d1">Sonada</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.273323</data>
+  <data key="d4">26.960337</data>
+</node>
+<node id="RGX">
+  <data key="d0">RGX</data>
+  <data key="d1">Raghunathbari</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.797247</data>
+  <data key="d4">22.353228</data>
+</node>
+<node id="SBGR">
+  <data key="d0">SBGR</data>
+  <data key="d1">Subhas Gram</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.433753</data>
+  <data key="d4">22.413546</data>
+</node>
+<node id="SALE">
+  <data key="d0">SALE</data>
+  <data key="d1">SALAR</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.111097</data>
+  <data key="d4">23.774579</data>
+</node>
+<node id="SHBA">
+  <data key="d0">SHBA</data>
+  <data key="d1">SAHEBTALA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.200996</data>
+  <data key="d4">23.591585</data>
+</node>
+<node id="SIU">
+  <data key="d0">SIU</data>
+  <data key="d1">Singur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.228712</data>
+  <data key="d4">22.814558</data>
+</node>
+<node id="RSG">
+  <data key="d0">RSG</data>
+  <data key="d1">RAMSAGAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.277063</data>
+  <data key="d4">23.106248</data>
+</node>
+<node id="SBNM">
+  <data key="d0">SBNM</data>
+  <data key="d1">Subarnamrigi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.292124</data>
+  <data key="d4">24.27321</data>
+</node>
+<node id="SHBL">
+  <data key="d0">SHBL</data>
+  <data key="d1">SHIBLUN</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.082999</data>
+  <data key="d4">23.692561</data>
+</node>
+<node id="SGUT">
+  <data key="d0">SGUT</data>
+  <data key="d1">SILIGURU TOWN</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.42960699999999</data>
+  <data key="d4">26.7073</data>
+</node>
+<node id="SGUJ">
+  <data key="d0">SGUJ</data>
+  <data key="d1">SILIGURI JN</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.413663</data>
+  <data key="d4">26.723204</data>
+</node>
+<node id="SJPR">
+  <data key="d0">SJPR</data>
+  <data key="d1">Surjyapur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.466557</data>
+  <data key="d4">22.293128</data>
+</node>
+<node id="SNU">
+  <data key="d0">SNU</data>
+  <data key="d1">Sangrampur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.32876</data>
+  <data key="d4">22.224929</data>
+</node>
+<node id="SJPA">
+  <data key="d0">SJPA</data>
+  <data key="d1">Sujalpur</data>
+  <data key="d2">?</data>
+  <data key="d3">87.65749699999999</data>
+  <data key="d4">21.763167000000003</data>
+</node>
+<node id="SSP">
+  <data key="d0">SSP</data>
+  <data key="d1">Santoshpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.272502</data>
+  <data key="d4">22.524414</data>
+</node>
+<node id="SSRD">
+  <data key="d0">SSRD</data>
+  <data key="d1">Shasan Road</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.434523</data>
+  <data key="d4">22.346539999999997</data>
+</node>
+<node id="SMTG">
+  <data key="d0">SMTG</data>
+  <data key="d1">Saheed Matangini</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.90811500000001</data>
+  <data key="d4">22.301973999999998</data>
+</node>
+<node id="MHTR">
+  <data key="d0">MHTR</data>
+  <data key="d1">MALIHATI TALIBPUR ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.126194</data>
+  <data key="d4">23.79372</data>
+</node>
+<node id="SVQ">
+  <data key="d0">SVQ</data>
+  <data key="d1">SIVOK</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.468742</data>
+  <data key="d4">26.880144</data>
+</node>
+<node id="TKF">
+  <data key="d0">TKF</data>
+  <data key="d1">Taki Road</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.915553</data>
+  <data key="d4">22.587179</data>
+</node>
+<node id="TNX">
+  <data key="d0">TNX</data>
+  <data key="d1">Tarak Nagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.680184</data>
+  <data key="d4">23.38018</data>
+</node>
+<node id="SXP">
+  <data key="d0">SXP</data>
+  <data key="d1">SANKOPARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.9344515665</data>
+  <data key="d4">24.7176851264</data>
+</node>
+<node id="TLX">
+  <data key="d0">TLX</data>
+  <data key="d1">Taldi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.60875899999999</data>
+  <data key="d4">22.343647</data>
+</node>
+<node id="TMZ">
+  <data key="d0">TMZ</data>
+  <data key="d1">Tamluk</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.91914399999999</data>
+  <data key="d4">22.275813</data>
+</node>
+<node id="TYAE">
+  <data key="d0">TYAE</data>
+  <data key="d1">TENYA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.148864</data>
+  <data key="d4">23.822157</data>
+</node>
+<node id="UKA">
+  <data key="d0">UKA</data>
+  <data key="d1">UKHRA</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.232537</data>
+  <data key="d4">23.653692</data>
+</node>
+<node id="UTN">
+  <data key="d0">UTN</data>
+  <data key="d1">Uttar Radhanagar Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.383365</data>
+  <data key="d4">22.269458</data>
+</node>
+<node id="VSPR">
+  <data key="d0">VSPR</data>
+  <data key="d1">BISHNUPRIYA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.3552</data>
+  <data key="d4">23.413186</data>
+</node>
+<node id="VSU">
+  <data key="d0">VSU</data>
+  <data key="d1">BISHNUPUR</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.30107100000001</data>
+  <data key="d4">23.065499000000003</data>
+</node>
+<node id="ACLE">
+  <data key="d0">ACLE</data>
+  <data key="d1">AZIMGANJ CITY</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.25887100000001</data>
+  <data key="d4">24.237941</data>
+</node>
+<node id="AZ">
+  <data key="d0">AZ</data>
+  <data key="d1">AZIMGANJ JN</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.256764</data>
+  <data key="d4">24.219053</data>
+</node>
+<node id="APD">
+  <data key="d0">APD</data>
+  <data key="d1">Alipur Duar</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.520667</data>
+  <data key="d4">26.479307000000002</data>
+</node>
+<node id="BGRD">
+  <data key="d0">BGRD</data>
+  <data key="d1">Beliaghata Road</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.607005</data>
+  <data key="d4">22.674548</data>
+</node>
+<node id="BMGA">
+  <data key="d0">BMGA</data>
+  <data key="d1">BHIMGARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.28427905</data>
+  <data key="d4">23.73804814</data>
+</node>
+<node id="BQY">
+  <data key="d0">BQY</data>
+  <data key="d1">BELERHAT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.28291748000001</data>
+  <data key="d4">23.51930706</data>
+</node>
+<node id="BNV">
+  <data key="d0">BNV</data>
+  <data key="d1">BINNAGURI</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.05239089999999</data>
+  <data key="d4">26.747088299999998</data>
+</node>
+<node id="DLO">
+  <data key="d0">DLO</data>
+  <data key="d1">DALGAON</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.136244</data>
+  <data key="d4">26.715384</data>
+</node>
+<node id="BJY">
+  <data key="d0">BJY</data>
+  <data key="d1">Bangalbaree</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.22942499999999</data>
+  <data key="d4">25.626454</data>
+</node>
+<node id="DMA">
+  <data key="d0">DMA</data>
+  <data key="d1">DAMODAR JUNCTION</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.908517</data>
+  <data key="d4">23.651021</data>
+</node>
+<node id="DGHA">
+  <data key="d0">DGHA</data>
+  <data key="d1">Digha Flag Station</data>
+  <data key="d2">?</data>
+  <data key="d3">87.507655</data>
+  <data key="d4">21.622377</data>
+</node>
+<node id="DLX">
+  <data key="d0">DLX</data>
+  <data key="d1">Dalimgaon</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.38629999999999</data>
+  <data key="d4">25.640548000000003</data>
+</node>
+<node id="BSLA">
+  <data key="d0">BSLA</data>
+  <data key="d1">Bhasila</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.65854499999999</data>
+  <data key="d4">22.665494000000002</data>
+</node>
+<node id="GALE">
+  <data key="d0">GALE</data>
+  <data key="d1">GANKAR</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.07289439819999</data>
+  <data key="d4">24.404804119599998</data>
+</node>
+<node id="FLM">
+  <data key="d0">FLM</data>
+  <data key="d1">Falimari</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.5868746</data>
+  <data key="d4">26.0707762</data>
+</node>
+<node id="GGV">
+  <data key="d0">GGV</data>
+  <data key="d1">Ghovarash Ghona</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.78289199999999</data>
+  <data key="d4">22.651678</data>
+</node>
+<node id="JOC">
+  <data key="d0">JOC</data>
+  <data key="d1">JOYCHANDI PAHAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.68033899999999</data>
+  <data key="d4">23.516393</data>
+</node>
+<node id="HRO">
+  <data key="d0">HRO</data>
+  <data key="d1">Harua Road</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.689994</data>
+  <data key="d4">22.661628</data>
+</node>
+<node id="KJU">
+  <data key="d0">KJU</data>
+  <data key="d1">KUNTIGHAT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.413149</data>
+  <data key="d4">23.016799000000002</data>
+</node>
+<node id="TKRA">
+  <data key="d0">TKRA</data>
+  <data key="d1">Tikra Ph</data>
+  <data key="d2">?</data>
+  <data key="d3">87.531081</data>
+  <data key="d4">21.664080000000002</data>
+</node>
+<node id="KNJ">
+  <data key="d0">KNJ</data>
+  <data key="d1">Krishnanagar City Junction</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.493636</data>
+  <data key="d4">23.388714</data>
+</node>
+<node id="MBB">
+  <data key="d0">MBB</data>
+  <data key="d1">Murshidabad</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.281598</data>
+  <data key="d4">24.176963999999998</data>
+</node>
+<node id="MPJ">
+  <data key="d0">MPJ</data>
+  <data key="d1">Madanpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.489717</data>
+  <data key="d4">23.005927999999997</data>
+</node>
+<node id="MPN">
+  <data key="d0">MPN</data>
+  <data key="d1">Madhyampur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.896007</data>
+  <data key="d4">22.619981</data>
+</node>
+<node id="SURI">
+  <data key="d0">SURI</data>
+  <data key="d1">SIURI</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.5327</data>
+  <data key="d4">23.890185</data>
+</node>
+<node id="NWMS">
+  <data key="d0">NWMS</data>
+  <data key="d1">NOAPARA MAHISHA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.13727399999999</data>
+  <data key="d4">24.323279</data>
+</node>
+<node id="ODB">
+  <data key="d0">ODB</data>
+  <data key="d1">OODLABARI</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.624639</data>
+  <data key="d4">26.866793</data>
+</node>
+<node id="RUI">
+  <data key="d0">RUI</data>
+  <data key="d1">Rukni</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.548025</data>
+  <data key="d4">23.551806</data>
+</node>
+<node id="RMRB">
+  <data key="d0">RMRB</data>
+  <data key="d1">Ramnagar Bengal</data>
+  <data key="d2">?</data>
+  <data key="d3">87.55405</data>
+  <data key="d4">21.677450999999998</data>
+</node>
+<node id="RGA">
+  <data key="d0">RGA</data>
+  <data key="d1">Rajgoda</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.866472</data>
+  <data key="d4">22.324313</data>
+</node>
+<node id="RVK">
+  <data key="d0">RVK</data>
+  <data key="d1">RAJA BHAT KHAWA</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.528605351</data>
+  <data key="d4">26.6201438112</data>
+</node>
+<node id="SGV">
+  <data key="d0">SGV</data>
+  <data key="d1">Sargachhi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.244037</data>
+  <data key="d4">24.01772</data>
+</node>
+<node id="PXR">
+  <data key="d0">PXR</data>
+  <data key="d1">Palpara</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.520722</data>
+  <data key="d4">23.059458</data>
+</node>
+<node id="SPLE">
+  <data key="d0">SPLE</data>
+  <data key="d1">SUJNIPARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.03679699999999</data>
+  <data key="d4">24.571584</data>
+</node>
+<node id="SOAE">
+  <data key="d0">SOAE</data>
+  <data key="d1">SOMRA BAZAR</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.433032</data>
+  <data key="d4">23.13916</data>
+</node>
+<node id="SMX">
+  <data key="d0">SMX</data>
+  <data key="d1">Simurali</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.51016399999999</data>
+  <data key="d4">23.041337</data>
+</node>
+<node id="TAK">
+  <data key="d0">TAK</data>
+  <data key="d1">Tarakeswar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.013437</data>
+  <data key="d4">22.882582</data>
+</node>
+<node id="TUNG">
+  <data key="d0">TUNG</data>
+  <data key="d1">Tung</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.294811</data>
+  <data key="d4">26.921803</data>
+</node>
+<node id="ADRA">
+  <data key="d0">ADRA</data>
+  <data key="d1">ADRA JN</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.67466499999999</data>
+  <data key="d4">23.495992</data>
+</node>
+<node id="VTG">
+  <data key="d0">VTG</data>
+  <data key="d1">Bhetaguri</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.6653098</data>
+  <data key="d4">26.3029681</data>
+</node>
+<node id="BFZ">
+  <data key="d0">BFZ</data>
+  <data key="d1">BHANDARTIKURI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.32981731</data>
+  <data key="d4">23.43319157</data>
+</node>
+<node id="BFT">
+  <data key="d0">BFT</data>
+  <data key="d1">Bhabta</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.241584</data>
+  <data key="d4">23.9869677</data>
+</node>
+<node id="BAA">
+  <data key="d0">BAA</data>
+  <data key="d1">Barala</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.039851</data>
+  <data key="d4">24.300532</data>
+</node>
+<node id="BDZ">
+  <data key="d0">BDZ</data>
+  <data key="d1">Badkulla</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.526557</data>
+  <data key="d4">23.3046657</data>
+</node>
+<node id="BBLA">
+  <data key="d0">BBLA</data>
+  <data key="d1">Bhyabla Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.854932</data>
+  <data key="d4">22.654259999999997</data>
+</node>
+<node id="BBT">
+  <data key="d0">BBT</data>
+  <data key="d1">Birati</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.42761300000001</data>
+  <data key="d4">22.66472</data>
+</node>
+<node id="BSAE">
+  <data key="d0">BSAE</data>
+  <data key="d1">BANSH BARIA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.395641</data>
+  <data key="d4">22.957288000000002</data>
+</node>
+<node id="BQG">
+  <data key="d0">BQG</data>
+  <data key="d1">Bhagwangola</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.309816</data>
+  <data key="d4">24.333178</data>
+</node>
+<node id="BRQ">
+  <data key="d0">BRQ</data>
+  <data key="d1">BAGRAKOT</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.58596154</data>
+  <data key="d4">26.87063169</data>
+</node>
+<node id="BNQ">
+  <data key="d0">BNQ</data>
+  <data key="d1">BANARHAT</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.025682</data>
+  <data key="d4">26.797885</data>
+</node>
+<node id="BSHT">
+  <data key="d0">BSHT</data>
+  <data key="d1">Basirhat</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.86896</data>
+  <data key="d4">22.650516</data>
+</node>
+<node id="BZLE">
+  <data key="d0">BZLE</data>
+  <data key="d1">BAZARSAU</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.1828793</data>
+  <data key="d4">23.8757926</data>
+</node>
+<node id="ANCR">
+  <data key="d0">ANCR</data>
+  <data key="d1">ANCHURI</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.993174</data>
+  <data key="d4">23.283904</data>
+</node>
+<node id="BSW">
+  <data key="d0">BSW</data>
+  <data key="d1">Baneswar</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.494466</data>
+  <data key="d4">26.388205</data>
+</node>
+<node id="APDC">
+  <data key="d0">APDC</data>
+  <data key="d1">Alipur Duar Court</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.526808</data>
+  <data key="d4">26.499254999999998</data>
+</node>
+<node id="BDPA">
+  <data key="d0">BDPA</data>
+  <data key="d1">Badalpur Ph</data>
+  <data key="d2">?</data>
+  <data key="d3">87.616227</data>
+  <data key="d4">21.710487</data>
+</node>
+<node id="BPC">
+  <data key="d0">BPC</data>
+  <data key="d1">Berhampore Court</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.263642</data>
+  <data key="d4">24.0890841</data>
+</node>
+<node id="BT">
+  <data key="d0">BT</data>
+  <data key="d1">Barasat</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.48348299999999</data>
+  <data key="d4">22.723879999999998</data>
+</node>
+<node id="BPD">
+  <data key="d0">BPD</data>
+  <data key="d1">Bahadurpur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.4633792</data>
+  <data key="d4">23.438519499999998</data>
+</node>
+<node id="DGLE">
+  <data key="d0">DGLE</data>
+  <data key="d1">DHULIAN GANGA</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.937644</data>
+  <data key="d4">24.672086</data>
+</node>
+<node id="DHAE">
+  <data key="d0">DHAE</data>
+  <data key="d1">DAINHAT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.17026899999999</data>
+  <data key="d4">23.60191</data>
+</node>
+<node id="COB">
+  <data key="d0">COB</data>
+  <data key="d1">Cooch Behar</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.6653098</data>
+  <data key="d4">26.3029681</data>
+</node>
+<node id="BARU">
+  <data key="d0">BARU</data>
+  <data key="d1">Baharu</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.44446</data>
+  <data key="d4">22.205278</data>
+</node>
+<node id="DHPD">
+  <data key="d0">DHPD</data>
+  <data key="d1">DHAPARA DHAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.246087</data>
+  <data key="d4">24.195866000000002</data>
+</node>
+<node id="DSPN">
+  <data key="d0">DSPN</data>
+  <data key="d1">Deshpran Ph</data>
+  <data key="d2">?</data>
+  <data key="d3">87.817047</data>
+  <data key="d4">22.029346999999998</data>
+</node>
+<node id="DWT">
+  <data key="d0">DWT</data>
+  <data key="d1">Dewan Hat</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.6653098</data>
+  <data key="d4">26.3029681</data>
+</node>
+<node id="GMDN">
+  <data key="d0">GMDN</data>
+  <data key="d1">GIRIMAIDAN</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.306151</data>
+  <data key="d4">22.340478</data>
+</node>
+<node id="GKL">
+  <data key="d0">GKL</data>
+  <data key="d1">GOKULPUR</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.293716</data>
+  <data key="d4">22.375923</data>
+</node>
+<node id="GLMA">
+  <data key="d0">GLMA</data>
+  <data key="d1">GULMA</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.403784</data>
+  <data key="d4">26.802802</data>
+</node>
+<node id="BGL">
+  <data key="d0">BGL</data>
+  <data key="d1">Bagula</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.64640372000001</data>
+  <data key="d4">23.335464709999997</data>
+</node>
+<node id="HHR">
+  <data key="d0">HHR</data>
+  <data key="d1">Hridaypur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.470282</data>
+  <data key="d4">22.711098</data>
+</node>
+<node id="JVT">
+  <data key="d0">JVT</data>
+  <data key="d1">JIVANTI HALT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.192446</data>
+  <data key="d4">24.080516999999997</data>
+</node>
+<node id="JJG">
+  <data key="d0">JJG</data>
+  <data key="d1">JiaGanj</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.27698</data>
+  <data key="d4">24.244268</data>
+</node>
+<node id="JRLE">
+  <data key="d0">JRLE</data>
+  <data key="d1">JANGIPUR ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.04076</data>
+  <data key="d4">24.459515</data>
+</node>
+<node id="KGN">
+  <data key="d0">KGN</data>
+  <data key="d1">Kurseong</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.277001</data>
+  <data key="d4">26.877401000000003</data>
+</node>
+<node id="D">
+  <data key="d0">D</data>
+  <data key="d1">Deula</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.28148300000001</data>
+  <data key="d4">22.214924</data>
+</node>
+<node id="DEA">
+  <data key="d0">DEA</data>
+  <data key="d1">Diara</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.280471</data>
+  <data key="d4">22.798157</data>
+</node>
+<node id="KTLR">
+  <data key="d0">KTLR</data>
+  <data key="d1">KANTHALIYA ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.179001</data>
+  <data key="d4">23.991771</data>
+</node>
+<node id="DH">
+  <data key="d0">DH</data>
+  <data key="d1">Diamond Harbour</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.18991600000001</data>
+  <data key="d4">22.191902</data>
+</node>
+<node id="DHK">
+  <data key="d0">DHK</data>
+  <data key="d1">Dhakuria</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.371504</data>
+  <data key="d4">22.51554</data>
+</node>
+<node id="KZPR">
+  <data key="d0">KZPR</data>
+  <data key="d1">KAZIPARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.188491</data>
+  <data key="d4">23.909854000000003</data>
+</node>
+<node id="MDT">
+  <data key="d0">MDT</data>
+  <data key="d1">MADARIHAT</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.274559021</data>
+  <data key="d4">26.694551388</data>
+</node>
+<node id="MPE">
+  <data key="d0">MPE</data>
+  <data key="d1">Malatipur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.76282300000001</data>
+  <data key="d4">22.651892</data>
+</node>
+<node id="PAW">
+  <data key="d0">PAW</data>
+  <data key="d1">PANDABESWAR</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.277416</data>
+  <data key="d4">23.711965</data>
+</node>
+<node id="NGTG">
+  <data key="d0">NGTG</data>
+  <data key="d1">New Gitaldaha</data>
+  <data key="d2">NFR</data>
+  <data key="d3">89.5868746</data>
+  <data key="d4">26.0707762</data>
+</node>
+<node id="PRDG">
+  <data key="d0">PRDG</data>
+  <data key="d1">PORADANGA HALT</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.2261646533</data>
+  <data key="d4">24.2602726462</data>
+</node>
+<node id="PSAE">
+  <data key="d0">PSAE</data>
+  <data key="d1">PURBASTHALI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.323896</data>
+  <data key="d4">23.453302</data>
+</node>
+<node id="HT">
+  <data key="d0">HT</data>
+  <data key="d1">Hotar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.39900800000001</data>
+  <data key="d4">22.308540999999998</data>
+</node>
+<node id="PTAE">
+  <data key="d0">PTAE</data>
+  <data key="d1">PATULI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.25171385990001</data>
+  <data key="d4">23.5475854116</data>
+</node>
+<node id="REJ">
+  <data key="d0">REJ</data>
+  <data key="d1">Rejinagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.259255</data>
+  <data key="d4">23.850089999999998</data>
+</node>
+<node id="SMAE">
+  <data key="d0">SMAE</data>
+  <data key="d1">SAMUDRAGARH</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.324967</data>
+  <data key="d4">23.335767</data>
+</node>
+<node id="SLB">
+  <data key="d0">SLB</data>
+  <data key="d1">SALBONI</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.321899</data>
+  <data key="d4">22.640971</data>
+</node>
+<node id="SRJM">
+  <data key="d0">SRJM</data>
+  <data key="d1">SIRJAM</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.83509699999999</data>
+  <data key="d4">23.403864</data>
+</node>
+<node id="SN">
+  <data key="d0">SN</data>
+  <data key="d1">Sukna</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.363493</data>
+  <data key="d4">26.790887</data>
+</node>
+<node id="TKP">
+  <data key="d0">TKP</data>
+  <data key="d1">Takipur</data>
+  <data key="d2">ER</data>
+  <data key="d3">87.92059400000001</data>
+  <data key="d4">24.303242</data>
+</node>
+<node id="SRJN">
+  <data key="d0">SRJN</data>
+  <data key="d1">Sirajnagar Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.27076000000001</data>
+  <data key="d4">23.818590999999998</data>
+</node>
+<node id="SXC">
+  <data key="d0">SXC</data>
+  <data key="d1">Sondalia</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.58227500000001</data>
+  <data key="d4">22.682186</data>
+</node>
+<node id="KWAE">
+  <data key="d0">KWAE</data>
+  <data key="d1">KATWA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.124085</data>
+  <data key="d4">23.640315</data>
+</node>
+<node id="CJN">
+  <data key="d0">CJN</data>
+  <data key="d1">CHHATNA</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.975734</data>
+  <data key="d4">23.305386000000002</data>
+</node>
+<node id="URP">
+  <data key="d0">URP</data>
+  <data key="d1">Udairampur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.273732</data>
+  <data key="d4">22.100085</data>
+</node>
+<node id="DDC">
+  <data key="d0">DDC</data>
+  <data key="d1">Dum Dum Cantt.</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.411641</data>
+  <data key="d4">22.636349000000003</data>
+</node>
+<node id="PLY">
+  <data key="d0">PLY</data>
+  <data key="d1">Plassey</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.28447</data>
+  <data key="d4">23.777986000000002</data>
+</node>
+<node id="BHPA">
+  <data key="d0">BHPA</data>
+  <data key="d1">Bahrupiya Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.349067</data>
+  <data key="d4">22.22962</data>
+</node>
+<node id="BXL">
+  <data key="d0">BXL</data>
+  <data key="d1">BHEDUASOL</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.13517327999999</data>
+  <data key="d4">23.1943639299</data>
+</node>
+<node id="SPR">
+  <data key="d0">SPR</data>
+  <data key="d1">Sonarpur Junction</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.429773</data>
+  <data key="d4">22.443359</data>
+</node>
+<node id="MPRD">
+  <data key="d0">MPRD</data>
+  <data key="d1">Mathurapur Road</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.390923</data>
+  <data key="d4">22.140587</data>
+</node>
+<node id="HLR">
+  <data key="d0">HLR</data>
+  <data key="d1">Halisahar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.436792</data>
+  <data key="d4">22.921498999999997</data>
+</node>
+<node id="TDH">
+  <data key="d0">TDH</data>
+  <data key="d1">Tindharia</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.332848</data>
+  <data key="d4">26.851551</data>
+</node>
+<node id="STB">
+  <data key="d0">STB</data>
+  <data key="d1">Shantipur</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.435028</data>
+  <data key="d4">23.262660999999998</data>
+</node>
+<node id="NMDR">
+  <data key="d0">NMDR</data>
+  <data key="d1">Nimdanri</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.905624</data>
+  <data key="d4">22.608628</data>
+</node>
+<node id="TBAE">
+  <data key="d0">TBAE</data>
+  <data key="d1">TRIBENI</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.398096</data>
+  <data key="d4">22.990357999999997</data>
+</node>
+<node id="KNSN">
+  <data key="d0">KNSN</data>
+  <data key="d1">KARNA SUBARNA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.176458</data>
+  <data key="d4">24.035537</data>
+</node>
+<node id="CHRA">
+  <data key="d0">CHRA</data>
+  <data key="d1">CHHARRA</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.42299399999999</data>
+  <data key="d4">23.375747</data>
+</node>
+<node id="SNTD">
+  <data key="d0">SNTD</data>
+  <data key="d1">Santaldih</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.48312299999999</data>
+  <data key="d4">23.596660999999997</data>
+</node>
+<node id="LOK">
+  <data key="d0">LOK</data>
+  <data key="d1">Loknath</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.03392099999999</data>
+  <data key="d4">22.871717999999998</data>
+</node>
+<node id="GPAE">
+  <data key="d0">GPAE</data>
+  <data key="d1">GUPTIPARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.4178</data>
+  <data key="d4">23.197355</data>
+</node>
+<node id="BSD">
+  <data key="d0">BSD</data>
+  <data key="d1">Basuldanga</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.23393947000001</data>
+  <data key="d4">22.20374787</data>
+</node>
+<node id="BURN">
+  <data key="d0">BURN</data>
+  <data key="d1">BURNPUR</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.9386234</data>
+  <data key="d4">23.6719137</data>
+</node>
+<node id="BHKA">
+  <data key="d0">BHKA</data>
+  <data key="d1">Bahira Kalibari</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.563588</data>
+  <data key="d4">22.685772</data>
+</node>
+<node id="NCPM">
+  <data key="d0">NCPM</data>
+  <data key="d1">Nishchindapur Market Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.21710499999999</data>
+  <data key="d4">21.987443000000003</data>
+</node>
+<node id="KGLE">
+  <data key="d0">KGLE</data>
+  <data key="d1">KHAGRAGHAT ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.22648099999999</data>
+  <data key="d4">24.106842</data>
+</node>
+<node id="RTG">
+  <data key="d0">RTG</data>
+  <data key="d1">Rangtong</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.342388</data>
+  <data key="d4">26.836122</data>
+</node>
+<node id="CHT">
+  <data key="d0">CHT</data>
+  <data key="d1">Champahati</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.493624</data>
+  <data key="d4">22.402193</data>
+</node>
+<node id="MDN">
+  <data key="d0">MDN</data>
+  <data key="d1">MIDNAPORE</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.307379</data>
+  <data key="d4">22.42498</data>
+</node>
+<node id="MYX">
+  <data key="d0">MYX</data>
+  <data key="d1">METYAL SOHAR</data>
+  <data key="d2">SER</data>
+  <data key="d3">86.748784</data>
+  <data key="d4">23.482582</data>
+</node>
+<node id="KATI">
+  <data key="d0">KATI</data>
+  <data key="d1">Kanthi P Halt</data>
+  <data key="d2">?</data>
+  <data key="d3">87.734128</data>
+  <data key="d4">21.788742999999997</data>
+</node>
+<node id="GURN">
+  <data key="d0">GURN</data>
+  <data key="d1">Gurudas Nagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.214928</data>
+  <data key="d4">22.199323</data>
+</node>
+<node id="LCAE">
+  <data key="d0">LCAE</data>
+  <data key="d1">LALBAGH COURT ROAD</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.246307</data>
+  <data key="d4">24.173693</data>
+</node>
+<node id="BGRA">
+  <data key="d0">BGRA</data>
+  <data key="d1">BAGHNAPARA</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.329724</data>
+  <data key="d4">23.242082</data>
+</node>
+<node id="KSBP">
+  <data key="d0">KSBP</data>
+  <data key="d1">Keshabpur</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.948672</data>
+  <data key="d4">22.221674</data>
+</node>
+<node id="DBT">
+  <data key="d0">DBT</data>
+  <data key="d1">Dakshin Barasat</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.45228599999999</data>
+  <data key="d4">22.226102</data>
+</node>
+<node id="HPL">
+  <data key="d0">HPL</data>
+  <data key="d1">Haripal</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.11853982</data>
+  <data key="d4">22.8311582</data>
+</node>
+<node id="GOF">
+  <data key="d0">GOF</data>
+  <data key="d1">Ghutiari Sharif</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.552115</data>
+  <data key="d4">22.367665</data>
+</node>
+<node id="AHN">
+  <data key="d0">AHN</data>
+  <data key="d1">AHIRAN</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.04112500000001</data>
+  <data key="d4">24.517687000000002</data>
+</node>
+<node id="MIAN">
+  <data key="d0">MIAN</data>
+  <data key="d1">MIANGRAM</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.17146</data>
+  <data key="d4">23.853212000000003</data>
+</node>
+<node id="RDP">
+  <data key="d0">RDP</data>
+  <data key="d1">Radhikapur</data>
+  <data key="d2">NFR</data>
+  <data key="d3">88.448153</data>
+  <data key="d4">25.643573999999997</data>
+</node>
+<node id="MGT">
+  <data key="d0">MGT</data>
+  <data key="d1">Magra Hat</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.37271299999999</data>
+  <data key="d4">22.242111</data>
+</node>
+<node id="KMZA">
+  <data key="d0">KMZA</data>
+  <data key="d1">Kankra Mirzanagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.721428</data>
+  <data key="d4">22.658005</data>
+</node>
+<node id="BAHW">
+  <data key="d0">BAHW</data>
+  <data key="d1">Bahir Khanda</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.071068</data>
+  <data key="d4">22.851949</data>
+</node>
+<node id="GSGB">
+  <data key="d0">GSGB</data>
+  <data key="d1">Gosaingram</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.211777</data>
+  <data key="d4">24.248003</data>
+</node>
+<node id="NDKR">
+  <data key="d0">NDKR</data>
+  <data key="d1">Nandakumar P.H.</data>
+  <data key="d2">?</data>
+  <data key="d3">87.927872196</data>
+  <data key="d4">22.1909239649</data>
+</node>
+<node id="UKLR">
+  <data key="d0">UKLR</data>
+  <data key="d1">Ukilerhat Halt</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.230351</data>
+  <data key="d4">21.824712</data>
+</node>
+<node id="BGO">
+  <data key="d0">BGO</data>
+  <data key="d1">BOGRI ROAD</data>
+  <data key="d2">SER</data>
+  <data key="d3">87.325732</data>
+  <data key="d4">22.881747</data>
+</node>
+<node id="BNKA">
+  <data key="d0">BNKA</data>
+  <data key="d1">Bankim Nagar</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.59190873</data>
+  <data key="d4">23.209058770000002</data>
+</node>
+<node id="SSPH">
+  <data key="d0">SSPH</data>
+  <data key="d1">Satish Samanta P.H.</data>
+  <data key="d2">?</data>
+  <data key="d3">87.987567</data>
+  <data key="d4">22.194485</data>
+</node>
+<node id="BHGH">
+  <data key="d0">BHGH</data>
+  <data key="d1">Bhairgachhi</data>
+  <data key="d2">ER</data>
+  <data key="d3">88.634016</data>
+  <data key="d4">23.274779</data>
+</node>
+<edge source="JNM" target="MPRD">
+  <data key="d5">4.005219178875888</data>
+</edge>
+<edge source="JNM" target="BARU">
+  <data key="d5">5.059745609439582</data>
+</edge>
+<edge source="DEB" target="PCX">
+  <data key="d5">6.446665508123216</data>
+</edge>
+<edge source="DEB" target="SVH">
+  <data key="d5">7.2621515801967815</data>
+</edge>
+<edge source="BTY" target="SVH">
+  <data key="d5">4.253519172827244</data>
+</edge>
+<edge source="BTY" target="MGM">
+  <data key="d5">9.713403488700528</data>
+</edge>
+<edge source="BGNA" target="KWF">
+  <data key="d5">26.830252020055767</data>
+</edge>
+<edge source="BGNA" target="KWAE">
+  <data key="d5">26.907139133347034</data>
+</edge>
+<edge source="KLNP" target="BNKA">
+  <data key="d5">1.9313189789938099</data>
+</edge>
+<edge source="KLNP" target="PNCB">
+  <data key="d5">3.127725985011191</data>
+</edge>
+<edge source="KLNP" target="RHA">
+  <data key="d5">3.723142429448109</data>
+</edge>
+<edge source="KLNP" target="HBE">
+  <data key="d5">3.6071881808195587</data>
+</edge>
+<edge source="BRDB" target="BYSA">
+  <data key="d5">5.729905385200383</data>
+</edge>
+<edge source="BRDB" target="MSDL">
+  <data key="d5">8.316967374155618</data>
+</edge>
+<edge source="APDJ" target="APDC">
+  <data key="d5">2.7667791280437433</data>
+</edge>
+<edge source="APDJ" target="APD">
+  <data key="d5">5.067533525475878</data>
+</edge>
+<edge source="APDJ" target="RVK">
+  <data key="d5">10.784467313345653</data>
+</edge>
+<edge source="JTK" target="KAU">
+  <data key="d5">2.963373783314272</data>
+</edge>
+<edge source="JTK" target="RGJ">
+  <data key="d5">7.532261933816593</data>
+</edge>
+<edge source="SNKR" target="GRB">
+  <data key="d5">1.957690801603252</data>
+</edge>
+<edge source="SNKR" target="JOC">
+  <data key="d5">6.6470816121675425</data>
+</edge>
+<edge source="SNKR" target="RUI">
+  <data key="d5">7.476711878555997</data>
+</edge>
+<edge source="GCN" target="SJPR">
+  <data key="d5">1.9073739348994558</data>
+</edge>
+<edge source="GCN" target="HGA">
+  <data key="d5">2.597550641706532</data>
+</edge>
+<edge source="SDMD" target="SNTD">
+  <data key="d5">7.768264630904574</data>
+</edge>
+<edge source="SDMD" target="KRKN">
+  <data key="d5">14.2921249012155</data>
+</edge>
+<edge source="CLD" target="NMZ">
+  <data key="d5">7.339250986680055</data>
+</edge>
+<edge source="CLD" target="NKB">
+  <data key="d5">11.844368927390617</data>
+</edge>
+<edge source="CRX" target="NKB">
+  <data key="d5">5.270978534211005</data>
+</edge>
+<edge source="CRX" target="BNQ">
+  <data key="d5">10.678138072683636</data>
+</edge>
+<edge source="CSZ" target="BPC">
+  <data key="d5">3.7042533865826446</data>
+</edge>
+<edge source="CSZ" target="NLSF">
+  <data key="d5">4.342316253567413</data>
+</edge>
+<edge source="CSZ" target="KGLE">
+  <data key="d5">4.446454242604382</data>
+</edge>
+<edge source="DDM" target="ODB">
+  <data key="d5">4.707315997474237</data>
+</edge>
+<edge source="DDM" target="NMZ">
+  <data key="d5">5.544686251299657</data>
+</edge>
+<edge source="DDM" target="BRQ">
+  <data key="d5">8.5625105785022</data>
+</edge>
+<edge source="CQR" target="GGV">
+  <data key="d5">2.630741512026718</data>
+</edge>
+<edge source="CQR" target="MPE">
+  <data key="d5">4.66168513873682</data>
+</edge>
+<edge source="CQR" target="BBLA">
+  <data key="d5">4.827249811013261</data>
+</edge>
+<edge source="AG" target="PNCB">
+  <data key="d5">2.74653490057853</data>
+</edge>
+<edge source="AG" target="BHGH">
+  <data key="d5">4.198325082849293</data>
+</edge>
+<edge source="DJ" target="GHUM">
+  <data key="d5">3.402783285725542</data>
+</edge>
+<edge source="DJ" target="SAD">
+  <data key="d5">8.709027212226127</data>
+</edge>
+<edge source="GGLE" target="SHBL">
+  <data key="d5">2.8863430026304773</data>
+</edge>
+<edge source="GGLE" target="JHBN">
+  <data key="d5">3.7175112320575967</data>
+</edge>
+<edge source="DTAE" target="BGRA">
+  <data key="d5">4.372086018042033</data>
+</edge>
+<edge source="DTAE" target="SMAE">
+  <data key="d5">6.584372396036512</data>
+</edge>
+<edge source="HNB" target="TKF">
+  <data key="d5">1.9117122071885881</data>
+</edge>
+<edge source="HNB" target="NMDR">
+  <data key="d5">4.343667736724308</data>
+</edge>
+<edge source="JHBN" target="SALE">
+  <data key="d5">3.0128364180062923</data>
+</edge>
+<edge source="JIT" target="BGAE">
+  <data key="d5">2.745362200154809</data>
+</edge>
+<edge source="JIT" target="KMAE">
+  <data key="d5">5.203834719126263</data>
+</edge>
+<edge source="KAU" target="RGJ">
+  <data key="d5">10.458832369236319</data>
+</edge>
+<edge source="NBKH" target="KWAE">
+  <data key="d5">3.387597888455425</data>
+</edge>
+<edge source="NBKH" target="KWF">
+  <data key="d5">3.390829507597258</data>
+</edge>
+<edge source="NBKH" target="SHBL">
+  <data key="d5">3.868260151784115</data>
+</edge>
+<edge source="ABKA" target="BGRA">
+  <data key="d5">4.219270716823878</data>
+</edge>
+<edge source="ABKA" target="GPAE">
+  <data key="d5">6.7057677912686735</data>
+</edge>
+<edge source="KMAE" target="DMLE">
+  <data key="d5">1.96999214154795</data>
+</edge>
+<edge source="HOJ" target="KCF">
+  <data key="d5">3.0486158340256333</data>
+</edge>
+<edge source="HOJ" target="GRU">
+  <data key="d5">7.64610037391321</data>
+</edge>
+<edge source="HOJ" target="HSA">
+  <data key="d5">8.065919728876</data>
+</edge>
+<edge source="LAP" target="TKP">
+  <data key="d5">4.371446355366315</data>
+</edge>
+<edge source="LAP" target="MGAE">
+  <data key="d5">5.550034338927269</data>
+</edge>
+<edge source="KJME" target="UKA">
+  <data key="d5">6.479212448781847</data>
+</edge>
+<edge source="KJME" target="PAW">
+  <data key="d5">14.30737234187649</data>
+</edge>
+<edge source="ABW" target="DHH">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="ABW" target="FLM">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="ABW" target="BXT">
+  <data key="d5">4.150745504217081</data>
+</edge>
+<edge source="ABW" target="NGTG">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="MHN" target="DJRZ">
+  <data key="d5">3.6536387315165775</data>
+</edge>
+<edge source="MHN" target="TDH">
+  <data key="d5">3.6987543828148683</data>
+</edge>
+<edge source="MHN" target="TUNG">
+  <data key="d5">4.987097669926069</data>
+</edge>
+<edge source="MHN" target="KGN">
+  <data key="d5">4.164406648278506</data>
+</edge>
+<edge source="MDKD" target="DMA">
+  <data key="d5">4.846131124844412</data>
+</edge>
+<edge source="MDKD" target="MDF">
+  <data key="d5">7.143632078756404</data>
+</edge>
+<edge source="MDKD" target="BURN">
+  <data key="d5">8.689869901561929</data>
+</edge>
+<edge source="CPLE" target="SURI">
+  <data key="d5">9.232592427318295</data>
+</edge>
+<edge source="CPLE" target="DUJ">
+  <data key="d5">9.23667009698661</data>
+</edge>
+<edge source="NILE" target="SPLE">
+  <data key="d5">6.66457669727119</data>
+</edge>
+<edge source="NILE" target="DGLE">
+  <data key="d5">8.778511686874703</data>
+</edge>
+<edge source="RHA" target="BNKA">
+  <data key="d5">4.653104945248195</data>
+</edge>
+<edge source="RHA" target="PDX">
+  <data key="d5">5.483980570547334</data>
+</edge>
+<edge source="SHM" target="PDPK">
+  <data key="d5">1.7195277769473454</data>
+</edge>
+<edge source="SHM" target="BRJ">
+  <data key="d5">4.430191871530931</data>
+</edge>
+<edge source="SDI" target="NWMS">
+  <data key="d5">5.099810532896482</data>
+</edge>
+<edge source="SDI" target="MPLE">
+  <data key="d5">6.105064129634175</data>
+</edge>
+<edge source="SDI" target="MGLE">
+  <data key="d5">6.128219400565471</data>
+</edge>
+<edge source="SDI" target="BAA">
+  <data key="d5">6.792499518875928</data>
+</edge>
+<edge source="CWLE" target="KZPR">
+  <data key="d5">3.632878021669798</data>
+</edge>
+<edge source="CWLE" target="KTLR">
+  <data key="d5">5.53381693934753</data>
+</edge>
+<edge source="CWLE" target="BEB">
+  <data key="d5">5.859426811084004</data>
+</edge>
+<edge source="LKX" target="BQY">
+  <data key="d5">2.724585987341956</data>
+</edge>
+<edge source="LKX" target="MTFA">
+  <data key="d5">3.0935894315884336</data>
+</edge>
+<edge source="DMLE" target="KJU">
+  <data key="d5">3.2670106807168335</data>
+</edge>
+<edge source="GRU" target="KCF">
+  <data key="d5">5.026654475651119</data>
+</edge>
+<edge source="GRU" target="RVK">
+  <data key="d5">5.9795930148689695</data>
+</edge>
+<edge source="THP" target="BIJ">
+  <data key="d5">2.7423921755707674</data>
+</edge>
+<edge source="THP" target="HBE">
+  <data key="d5">5.2937636604022575</data>
+</edge>
+<edge source="THP" target="BDZ">
+  <data key="d5">5.312199121121486</data>
+</edge>
+<edge source="AGAE" target="SHBA">
+  <data key="d5">2.819442794923951</data>
+</edge>
+<edge source="AGAE" target="PTAE">
+  <data key="d5">4.5363537934563185</data>
+</edge>
+<edge source="AGAE" target="DHAE">
+  <data key="d5">6.149323180297328</data>
+</edge>
+<edge source="BAAR" target="HLZ">
+  <data key="d5">2.286798012937171</data>
+</edge>
+<edge source="BAAR" target="DZKT">
+  <data key="d5">5.32913927449693</data>
+</edge>
+<edge source="BDYP" target="SBGR">
+  <data key="d5">2.349272221883694</data>
+</edge>
+<edge source="BDYP" target="KLKR">
+  <data key="d5">2.6691791180307103</data>
+</edge>
+<edge source="BDYP" target="SPR">
+  <data key="d5">3.1222733022611124</data>
+</edge>
+<edge source="BEB" target="KZPR">
+  <data key="d5">6.0628297187439095</data>
+</edge>
+<edge source="BEB" target="BFT">
+  <data key="d5">6.1071440646119965</data>
+</edge>
+<edge source="BHNA" target="BGL">
+  <data key="d5">2.625191533785713</data>
+</edge>
+<edge source="BHNA" target="BHGH">
+  <data key="d5">4.240311465289933</data>
+</edge>
+<edge source="BGA" target="KSU">
+  <data key="d5">2.7997601855312153</data>
+</edge>
+<edge source="BGA" target="ANR">
+  <data key="d5">5.627100655979871</data>
+</edge>
+<edge source="BGA" target="CHRA">
+  <data key="d5">12.598654440277075</data>
+</edge>
+<edge source="BERO" target="RKI">
+  <data key="d5">5.061807697338748</data>
+</edge>
+<edge source="BERO" target="JOC">
+  <data key="d5">5.900490196439201</data>
+</edge>
+<edge source="BERO" target="MYX">
+  <data key="d5">7.6462121026104795</data>
+</edge>
+<edge source="BGB" target="NAI">
+  <data key="d5">3.1125860631871967</data>
+</edge>
+<edge source="BGB" target="AKRA">
+  <data key="d5">6.074425889612704</data>
+</edge>
+<edge source="BGJT" target="JDP">
+  <data key="d5">1.9347415247839796</data>
+</edge>
+<edge source="BGJT" target="GIA">
+  <data key="d5">2.5636667802215545</data>
+</edge>
+<edge source="BGJT" target="DHK">
+  <data key="d5">4.0096634768404344</data>
+</edge>
+<edge source="BIJ" target="HBE">
+  <data key="d5">2.964139194116426</data>
+</edge>
+<edge source="BHLA" target="GPAE">
+  <data key="d5">2.046920794917369</data>
+</edge>
+<edge source="BHLA" target="SOAE">
+  <data key="d5">4.779661097055664</data>
+</edge>
+<edge source="BGAE" target="SOAE">
+  <data key="d5">2.7965413234830896</data>
+</edge>
+<edge source="AKRA" target="SSP">
+  <data key="d5">2.6441593515762505</data>
+</edge>
+<edge source="AKRA" target="NAI">
+  <data key="d5">3.0303404701459224</data>
+</edge>
+<edge source="BMGR" target="BJY">
+  <data key="d5">3.854020595639564</data>
+</edge>
+<edge source="BMGR" target="RGJ">
+  <data key="d5">6.38418333552478</data>
+</edge>
+<edge source="BPN" target="HRSR">
+  <data key="d5">2.5833468687350214</data>
+</edge>
+<edge source="BPN" target="GEDE">
+  <data key="d5">5.056148509000364</data>
+</edge>
+<edge source="BPN" target="MIJ">
+  <data key="d5">6.024733311349222</data>
+</edge>
+<edge source="BQZ" target="SXP">
+  <data key="d5">3.998950993028709</data>
+</edge>
+<edge source="BQZ" target="DGLE">
+  <data key="d5">8.765062455991016</data>
+</edge>
+<edge source="BRP" target="SSRD">
+  <data key="d5">2.2564861466265165</data>
+</edge>
+<edge source="BRP" target="KYP">
+  <data key="d5">3.119372646590181</data>
+</edge>
+<edge source="BRP" target="MAK">
+  <data key="d5">3.3765667455023514</data>
+</edge>
+<edge source="BTKB" target="FLU">
+  <data key="d5">1.5685042746295859</data>
+</edge>
+<edge source="BTKB" target="STB">
+  <data key="d5">5.680999056392922</data>
+</edge>
+<edge source="BQA" target="BXL">
+  <data key="d5">7.025300860743746</data>
+</edge>
+<edge source="BQA" target="ANCR">
+  <data key="d5">10.637005755501633</data>
+</edge>
+<edge source="BRJ" target="SSP">
+  <data key="d5">3.0659645949072614</data>
+</edge>
+<edge source="BRJ" target="PDPK">
+  <data key="d5">5.630478798504168</data>
+</edge>
+<edge source="BTPG" target="GOF">
+  <data key="d5">2.9258769033895424</data>
+</edge>
+<edge source="BTPG" target="TLX">
+  <data key="d5">3.715023973578066</data>
+</edge>
+<edge source="BTPG" target="CG">
+  <data key="d5">10.514162305106401</data>
+</edge>
+<edge source="BRPK" target="BBT">
+  <data key="d5">1.4787890088653846</data>
+</edge>
+<edge source="BRPK" target="NBE">
+  <data key="d5">1.5938691404732386</data>
+</edge>
+<edge source="BYSA" target="DZK">
+  <data key="d5">4.96074939556119</data>
+</edge>
+<edge source="BXT" target="DHH">
+  <data key="d5">4.150745504217081</data>
+</edge>
+<edge source="BUTA" target="GSL">
+  <data key="d5">5.005995635481113</data>
+</edge>
+<edge source="BUTA" target="MDN">
+  <data key="d5">6.886497026594143</data>
+</edge>
+<edge source="CDGR" target="SLB">
+  <data key="d5">11.075984330642715</data>
+</edge>
+<edge source="CDGR" target="GBA">
+  <data key="d5">11.900631436970064</data>
+</edge>
+<edge source="ANR" target="GRB">
+  <data key="d5">6.62942304571988</data>
+</edge>
+<edge source="ANR" target="KSU">
+  <data key="d5">8.426268530772395</data>
+</edge>
+<edge source="ANR" target="RUI">
+  <data key="d5">7.9546962280653055</data>
+</edge>
+<edge source="CG" target="TLX">
+  <data key="d5">6.918593929661014</data>
+</edge>
+<edge source="DGNR" target="DDC">
+  <data key="d5">1.7712733350145051</data>
+</edge>
+<edge source="DGNR" target="BBT">
+  <data key="d5">1.7864441393664816</data>
+</edge>
+<edge source="CDH" target="PXR">
+  <data key="d5">2.2972734208124446</data>
+</edge>
+<edge source="CDH" target="SMX">
+  <data key="d5">4.579673091054581</data>
+</edge>
+<edge source="CDH" target="PDX">
+  <data key="d5">5.817320568394335</data>
+</edge>
+<edge source="MLYA" target="HPL">
+  <data key="d5">1.819050452310385</data>
+</edge>
+<edge source="MLYA" target="NKL">
+  <data key="d5">3.0765554428676367</data>
+</edge>
+<edge source="DMU" target="HT">
+  <data key="d5">2.159288308925638</data>
+</edge>
+<edge source="DMU" target="DKDP">
+  <data key="d5">2.205125155563045</data>
+</edge>
+<edge source="DMU" target="UTN">
+  <data key="d5">2.476090791727843</data>
+</edge>
+<edge source="DHH" target="FLM">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="DHH" target="NGTG">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="DKDP" target="HT">
+  <data key="d5">0.049989286417586494</data>
+</edge>
+<edge source="DJRZ" target="TDH">
+  <data key="d5">0.07522571665088208</data>
+</edge>
+<edge source="DJRZ" target="RTG">
+  <data key="d5">1.999005332788825</data>
+</edge>
+<edge source="DPDP" target="KRXM">
+  <data key="d5">1.8958181696955554</data>
+</edge>
+<edge source="DPDP" target="SJPR">
+  <data key="d5">2.634406616906954</data>
+</edge>
+<edge source="DHU" target="BPD">
+  <data key="d5">5.496435595709748</data>
+</edge>
+<edge source="DHU" target="MGM">
+  <data key="d5">5.512135380211966</data>
+</edge>
+<edge source="FLU" target="HBE">
+  <data key="d5">4.740030451976578</data>
+</edge>
+<edge source="FLU" target="STB">
+  <data key="d5">7.246510511648301</data>
+</edge>
+<edge source="DZKT" target="DZK">
+  <data key="d5">2.603943448720413</data>
+</edge>
+<edge source="DZKT" target="HLZ">
+  <data key="d5">7.61536375429335</data>
+</edge>
+<edge source="DUJ" target="PCR">
+  <data key="d5">6.069810316365151</data>
+</edge>
+<edge source="DUJ" target="SURI">
+  <data key="d5">18.375180409711724</data>
+</edge>
+<edge source="GBA" target="BGO">
+  <data key="d5">4.1634467791478125</data>
+</edge>
+<edge source="GIA" target="NRPR">
+  <data key="d5">1.9321659847690873</data>
+</edge>
+<edge source="GHUM" target="SAD">
+  <data key="d5">5.695057925714541</data>
+</edge>
+<edge source="GEDE" target="HRSR">
+  <data key="d5">2.5434123410567646</data>
+</edge>
+<edge source="GRB" target="ADRA">
+  <data key="d5">6.063983544396915</data>
+</edge>
+<edge source="HGA" target="DBT">
+  <data key="d5">3.218219373123142</data>
+</edge>
+<edge source="GSL" target="MDN">
+  <data key="d5">11.833662375999815</data>
+</edge>
+<edge source="GSL" target="SLB">
+  <data key="d5">12.264646602553906</data>
+</edge>
+<edge source="HSA" target="MDT">
+  <data key="d5">8.102757733339217</data>
+</edge>
+<edge source="JDP" target="DHK">
+  <data key="d5">2.2587384908721164</data>
+</edge>
+<edge source="JKL" target="BDZ">
+  <data key="d5">4.943378413752273</data>
+</edge>
+<edge source="JKL" target="KNJ">
+  <data key="d5">5.015786630345635</data>
+</edge>
+<edge source="IBL" target="MYX">
+  <data key="d5">5.33173737119278</data>
+</edge>
+<edge source="IBL" target="SRJM">
+  <data key="d5">7.138891272083683</data>
+</edge>
+<edge source="JPH" target="CJN">
+  <data key="d5">9.020754255259773</data>
+</edge>
+<edge source="JPH" target="SRJM">
+  <data key="d5">9.038753447181254</data>
+</edge>
+<edge source="KBGH" target="BHKA">
+  <data key="d5">3.658332507189642</data>
+</edge>
+<edge source="KBGH" target="SXC">
+  <data key="d5">5.498903310452983</data>
+</edge>
+<edge source="KAJ" target="DLX">
+  <data key="d5">5.605051665791846</data>
+</edge>
+<edge source="KAJ" target="BJY">
+  <data key="d5">10.223586102009785</data>
+</edge>
+<edge source="KAJ" target="RDP">
+  <data key="d5">11.813244247800469</data>
+</edge>
+<edge source="KKAE" target="BAHW">
+  <data key="d5">2.645031539868731</data>
+</edge>
+<edge source="KKAE" target="HPL">
+  <data key="d5">2.7590347146228127</data>
+</edge>
+<edge source="KHGR" target="KWDP">
+  <data key="d5">2.969250711091671</data>
+</edge>
+<edge source="KHGR" target="NCP">
+  <data key="d5">7.682730275255543</data>
+</edge>
+<edge source="KHGR" target="NCPM">
+  <data key="d5">9.267463318482537</data>
+</edge>
+<edge source="KLKR" target="CHT">
+  <data key="d5">2.2347964262763913</data>
+</edge>
+<edge source="KLW" target="URP">
+  <data key="d5">3.192783556630877</data>
+</edge>
+<edge source="KLW" target="LKPR">
+  <data key="d5">7.749526849318005</data>
+</edge>
+<edge source="KPA" target="KYI">
+  <data key="d5">3.0702539240140134</data>
+</edge>
+<edge source="KPA" target="HLR">
+  <data key="d5">3.102127205011666</data>
+</edge>
+<edge source="KRXM" target="SSRD">
+  <data key="d5">2.3944514975466578</data>
+</edge>
+<edge source="KRP" target="LGL">
+  <data key="d5">1.6539414277696698</data>
+</edge>
+<edge source="KRP" target="PRTL">
+  <data key="d5">5.783765048862319</data>
+</edge>
+<edge source="KRKN" target="SNTD">
+  <data key="d5">22.048035787963038</data>
+</edge>
+<edge source="KSU" target="CHRA">
+  <data key="d5">9.801296479912464</data>
+</edge>
+<edge source="KWDP" target="UKLR">
+  <data key="d5">7.170658228288165</data>
+</edge>
+<edge source="KWDP" target="NMKA">
+  <data key="d5">12.83586126937612</data>
+</edge>
+<edge source="KWF" target="KWAE">
+  <data key="d5">0.07690781822555107</data>
+</edge>
+<edge source="KYP" target="SSRD">
+  <data key="d5">2.0777926672768663</data>
+</edge>
+<edge source="LKPR" target="MDBP">
+  <data key="d5">2.804141767148158</data>
+</edge>
+<edge source="LKPR" target="URP">
+  <data key="d5">5.090502403572138</data>
+</edge>
+<edge source="KYI" target="MPJ">
+  <data key="d5">4.672705112082288</data>
+</edge>
+<edge source="LGL" target="PRTL">
+  <data key="d5">7.260989536164174</data>
+</edge>
+<edge source="LBTL" target="BSLA">
+  <data key="d5">1.8973550015154952</data>
+</edge>
+<edge source="LBTL" target="BGRD">
+  <data key="d5">3.504194586145798</data>
+</edge>
+<edge source="MAK" target="SBGR">
+  <data key="d5">1.8420495769770817</data>
+</edge>
+<edge source="MDF" target="RKI">
+  <data key="d5">5.004959392363848</data>
+</edge>
+<edge source="MDBP" target="MPRD">
+  <data key="d5">5.081379000449605</data>
+</edge>
+<edge source="MIJ" target="TNX">
+  <data key="d5">5.507504393696289</data>
+</edge>
+<edge source="MGLE" target="NWMS">
+  <data key="d5">3.68868164768535</data>
+</edge>
+<edge source="MGLE" target="GALE">
+  <data key="d5">7.7464894966775635</data>
+</edge>
+<edge source="MJE" target="DLO">
+  <data key="d5">6.053304538171051</data>
+</edge>
+<edge source="MJE" target="MDT">
+  <data key="d5">8.20711359954254</data>
+</edge>
+<edge source="MGAE" target="BAA">
+  <data key="d5">2.2266454011710004</data>
+</edge>
+<edge source="MGAE" target="TKP">
+  <data key="d5">9.914746774921978</data>
+</edge>
+<edge source="MPLR" target="MPLE">
+  <data key="d5">3.6096767562900562</data>
+</edge>
+<edge source="MPLR" target="PRDG">
+  <data key="d5">4.666738563867601</data>
+</edge>
+<edge source="MPLR" target="GSGB">
+  <data key="d5">4.867844961643461</data>
+</edge>
+<edge source="MMG" target="NBE">
+  <data key="d5">1.0711545034002976</data>
+</edge>
+<edge source="MMG" target="HHR">
+  <data key="d5">2.657216237289075</data>
+</edge>
+<edge source="MMG" target="BT">
+  <data key="d5">4.620183456373889</data>
+</edge>
+<edge source="MPLE" target="NWMS">
+  <data key="d5">3.1452141612874858</data>
+</edge>
+<edge source="MTFA" target="PSAE">
+  <data key="d5">2.962826384579774</data>
+</edge>
+<edge source="MSDL" target="SSPH">
+  <data key="d5">3.132263451612903</data>
+</edge>
+<edge source="MSDL" target="KSBP">
+  <data key="d5">8.146626438338652</data>
+</edge>
+<edge source="NCP" target="NCPM">
+  <data key="d5">1.5847598097873712</data>
+</edge>
+<edge source="MYHT" target="TNX">
+  <data key="d5">2.7333598964888477</data>
+</edge>
+<edge source="MYHT" target="BGL">
+  <data key="d5">3.4074192342858374</data>
+</edge>
+<edge source="NKL" target="HPL">
+  <data key="d5">4.889692841070593</data>
+</edge>
+<edge source="NDAE" target="VSPR">
+  <data key="d5">1.8496176714163737</data>
+</edge>
+<edge source="NDAE" target="BFZ">
+  <data key="d5">4.894765862734171</data>
+</edge>
+<edge source="NDAE" target="SMAE">
+  <data key="d5">7.4891580789581855</data>
+</edge>
+<edge source="NMKA" target="UKLR">
+  <data key="d5">5.912094350860863</data>
+</edge>
+<edge source="NBPH" target="SGV">
+  <data key="d5">3.7418530984607448</data>
+</edge>
+<edge source="NBPH" target="BPC">
+  <data key="d5">4.521315561881664</data>
+</edge>
+<edge source="NLSF" target="LCAE">
+  <data key="d5">1.9090042052472722</data>
+</edge>
+<edge source="NLSF" target="MBB">
+  <data key="d5">4.235553562234841</data>
+</edge>
+<edge source="ODM" target="BXL">
+  <data key="d5">8.582591888090784</data>
+</edge>
+<edge source="ODM" target="RSG">
+  <data key="d5">8.945100187334626</data>
+</edge>
+<edge source="NSF" target="DEA">
+  <data key="d5">2.0303474345386783</data>
+</edge>
+<edge source="NSF" target="SIU">
+  <data key="d5">3.582705241151914</data>
+</edge>
+<edge source="NRPR" target="SPR">
+  <data key="d5">1.6713839449336236</data>
+</edge>
+<edge source="NTA" target="BSD">
+  <data key="d5">2.1307788238346954</data>
+</edge>
+<edge source="NTA" target="D">
+  <data key="d5">2.919599401121634</data>
+</edge>
+<edge source="PCX" target="PLY">
+  <data key="d5">4.3478506800329875</data>
+</edge>
+<edge source="PCR" target="BMGA">
+  <data key="d5">6.003323673072992</data>
+</edge>
+<edge source="PBA" target="BGO">
+  <data key="d5">8.362507486012937</data>
+</edge>
+<edge source="PBA" target="VSU">
+  <data key="d5">12.269188143585573</data>
+</edge>
+<edge source="PLF" target="CHT">
+  <data key="d5">2.89791472194102</data>
+</edge>
+<edge source="PLF" target="GOF">
+  <data key="d5">4.236992735444804</data>
+</edge>
+<edge source="PNCB" target="BNKA">
+  <data key="d5">1.536110826933438</data>
+</edge>
+<edge source="PRTL" target="BQG">
+  <data key="d5">4.1501187881146135</data>
+</edge>
+<edge source="SAD" target="TUNG">
+  <data key="d5">4.785027107667257</data>
+</edge>
+<edge source="RGX" target="RGA">
+  <data key="d5">7.812105706311404</data>
+</edge>
+<edge source="RGX" target="SMTG">
+  <data key="d5">12.748525295306575</data>
+</edge>
+<edge source="SALE" target="MHTR">
+  <data key="d5">2.6248302183860583</data>
+</edge>
+<edge source="SHBA" target="DHAE">
+  <data key="d5">3.334857943901425</data>
+</edge>
+<edge source="SIU" target="DEA">
+  <data key="d5">5.610083641203011</data>
+</edge>
+<edge source="RSG" target="VSU">
+  <data key="d5">5.1537927178183525</data>
+</edge>
+<edge source="SBNM" target="JJG">
+  <data key="d5">3.5656424934774527</data>
+</edge>
+<edge source="SBNM" target="ACLE">
+  <data key="d5">5.171523810319279</data>
+</edge>
+<edge source="SBNM" target="BQG">
+  <data key="d5">6.904971184890115</data>
+</edge>
+<edge source="SGUT" target="SGUJ">
+  <data key="d5">2.3738800304048704</data>
+</edge>
+<edge source="SGUT" target="GLMA">
+  <data key="d5">10.924481504710595</data>
+</edge>
+<edge source="SGUJ" target="GLMA">
+  <data key="d5">8.905073211430722</data>
+</edge>
+<edge source="SNU" target="BHPA">
+  <data key="d5">2.1543432636428093</data>
+</edge>
+<edge source="SNU" target="MGT">
+  <data key="d5">4.910859165762571</data>
+</edge>
+<edge source="SNU" target="D">
+  <data key="d5">4.992116641071235</data>
+</edge>
+<edge source="SJPA" target="BDPA">
+  <data key="d5">7.244579169247632</data>
+</edge>
+<edge source="SJPA" target="KATI">
+  <data key="d5">8.40847349874148</data>
+</edge>
+<edge source="SMTG" target="TMZ">
+  <data key="d5">3.122457492832342</data>
+</edge>
+<edge source="SMTG" target="RGA">
+  <data key="d5">4.9518553537328645</data>
+</edge>
+<edge source="MHTR" target="TYAE">
+  <data key="d5">3.9137558677008055</data>
+</edge>
+<edge source="SVQ" target="GLMA">
+  <data key="d5">10.746903706999978</data>
+</edge>
+<edge source="SVQ" target="BRQ">
+  <data key="d5">11.67442949161347</data>
+</edge>
+<edge source="TKF" target="NMDR">
+  <data key="d5">2.5936985357584854</data>
+</edge>
+<edge source="TKF" target="MPN">
+  <data key="d5">4.162878308707772</data>
+</edge>
+<edge source="SXP" target="DGLE">
+  <data key="d5">5.080638517856407</data>
+</edge>
+<edge source="TLX" target="GOF">
+  <data key="d5">6.408174362109808</data>
+</edge>
+<edge source="TMZ" target="KSBP">
+  <data key="d5">6.743528657158221</data>
+</edge>
+<edge source="TMZ" target="RGA">
+  <data key="d5">7.645100772647573</data>
+</edge>
+<edge source="TYAE" target="MIAN">
+  <data key="d5">4.148028147241155</data>
+</edge>
+<edge source="UKA" target="PAW">
+  <data key="d5">7.929145709019104</data>
+</edge>
+<edge source="UTN" target="MGT">
+  <data key="d5">3.2324031368182418</data>
+</edge>
+<edge source="VSPR" target="BFZ">
+  <data key="d5">3.4140527173797546</data>
+</edge>
+<edge source="ACLE" target="JJG">
+  <data key="d5">1.966250302532068</data>
+</edge>
+<edge source="ACLE" target="AZ">
+  <data key="d5">2.1110887601543227</data>
+</edge>
+<edge source="ACLE" target="PRDG">
+  <data key="d5">4.1426213854462</data>
+</edge>
+<edge source="AZ" target="DHPD">
+  <data key="d5">2.7964325217182586</data>
+</edge>
+<edge source="AZ" target="JJG">
+  <data key="d5">3.473198899741729</data>
+</edge>
+<edge source="APD" target="APDC">
+  <data key="d5">2.300773417223907</data>
+</edge>
+<edge source="APD" target="BSW">
+  <data key="d5">10.460614750114123</data>
+</edge>
+<edge source="BGRD" target="SXC">
+  <data key="d5">2.67561597074469</data>
+</edge>
+<edge source="BMGA" target="PAW">
+  <data key="d5">2.9832724378033175</data>
+</edge>
+<edge source="BQY" target="PTAE">
+  <data key="d5">4.472886186827159</data>
+</edge>
+<edge source="BNV" target="BNQ">
+  <data key="d5">6.239734978507276</data>
+</edge>
+<edge source="BNV" target="DLO">
+  <data key="d5">9.043016061699905</data>
+</edge>
+<edge source="DMA" target="BURN">
+  <data key="d5">3.8469420646222634</data>
+</edge>
+<edge source="DGHA" target="TKRA">
+  <data key="d5">5.231205520787847</data>
+</edge>
+<edge source="DGHA" target="RMRB">
+  <data key="d5">7.777812462760678</data>
+</edge>
+<edge source="DLX" target="RDP">
+  <data key="d5">6.20950918350805</data>
+</edge>
+<edge source="BSLA" target="HRO">
+  <data key="d5">3.255452351965603</data>
+</edge>
+<edge source="GALE" target="JRLE">
+  <data key="d5">6.898784160472204</data>
+</edge>
+<edge source="GGV" target="MPE">
+  <data key="d5">2.059570658828749</data>
+</edge>
+<edge source="JOC" target="ADRA">
+  <data key="d5">2.3411051134511847</data>
+</edge>
+<edge source="HRO" target="KMZA">
+  <data key="d5">3.250554697890534</data>
+</edge>
+<edge source="KJU" target="TBAE">
+  <data key="d5">3.3193408333977015</data>
+</edge>
+<edge source="TKRA" target="RMRB">
+  <data key="d5">2.800737930555731</data>
+</edge>
+<edge source="KNJ" target="BPD">
+  <data key="d5">6.340557228633663</data>
+</edge>
+<edge source="MBB" target="LCAE">
+  <data key="d5">3.598444896311167</data>
+</edge>
+<edge source="MBB" target="DHPD">
+  <data key="d5">4.170388651936987</data>
+</edge>
+<edge source="MPJ" target="SMX">
+  <data key="d5">4.458797864286144</data>
+</edge>
+<edge source="MPN" target="NMDR">
+  <data key="d5">1.6025276393257422</data>
+</edge>
+<edge source="MPN" target="BSHT">
+  <data key="d5">4.3856086803003524</data>
+</edge>
+<edge source="ODB" target="BRQ">
+  <data key="d5">3.860121095734278</data>
+</edge>
+<edge source="RUI" target="SNTD">
+  <data key="d5">8.284200978910114</data>
+</edge>
+<edge source="RMRB" target="BDPA">
+  <data key="d5">7.400193777185451</data>
+</edge>
+<edge source="SGV" target="BFT">
+  <data key="d5">3.428566282829778</data>
+</edge>
+<edge source="PXR" target="SMX">
+  <data key="d5">2.2862742014698894</data>
+</edge>
+<edge source="SPLE" target="AHN">
+  <data key="d5">6.009039979336251</data>
+</edge>
+<edge source="SOAE" target="GPAE">
+  <data key="d5">6.655700102820606</data>
+</edge>
+<edge source="TAK" target="LOK">
+  <data key="d5">2.421412896094626</data>
+</edge>
+<edge source="TAK" target="BAHW">
+  <data key="d5">6.816679524313053</data>
+</edge>
+<edge source="TUNG" target="KGN">
+  <data key="d5">5.243647059294429</data>
+</edge>
+<edge source="VTG" target="COB">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="VTG" target="DWT">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="BFZ" target="PSAE">
+  <data key="d5">2.3163315400723117</data>
+</edge>
+<edge source="BBLA" target="BSHT">
+  <data key="d5">1.4985049502770342</data>
+</edge>
+<edge source="BBT" target="DDC">
+  <data key="d5">3.555081116136002</data>
+</edge>
+<edge source="BSAE" target="TBAE">
+  <data key="d5">3.6857952494231867</data>
+</edge>
+<edge source="BSAE" target="HLR">
+  <data key="d5">5.796030568963131</data>
+</edge>
+<edge source="BZLE" target="MIAN">
+  <data key="d5">2.7663631497721783</data>
+</edge>
+<edge source="BZLE" target="KZPR">
+  <data key="d5">3.8301836409505157</data>
+</edge>
+<edge source="BZLE" target="REJ">
+  <data key="d5">8.27576918137871</data>
+</edge>
+<edge source="ANCR" target="CJN">
+  <data key="d5">2.979658565035637</data>
+</edge>
+<edge source="BSW" target="APDC">
+  <data key="d5">12.761125819895137</data>
+</edge>
+<edge source="BDPA" target="KATI">
+  <data key="d5">14.9663461997767</data>
+</edge>
+<edge source="BPC" target="KGLE">
+  <data key="d5">4.25757547343268</data>
+</edge>
+<edge source="BT" target="HHR">
+  <data key="d5">1.9630099267922632</data>
+</edge>
+<edge source="COB" target="DWT">
+  <data key="d5">0.0</data>
+</edge>
+<edge source="BARU" target="DBT">
+  <data key="d5">2.4516647439987103</data>
+</edge>
+<edge source="DHPD" target="LCAE">
+  <data key="d5">2.4656260976379047</data>
+</edge>
+<edge source="DSPN" target="NDKR">
+  <data key="d5">21.287173155574777</data>
+</edge>
+<edge source="DSPN" target="KSBP">
+  <data key="d5">25.3214877202939</data>
+</edge>
+<edge source="GMDN" target="GKL">
+  <data key="d5">4.143562601474725</data>
+</edge>
+<edge source="GMDN" target="MDN">
+  <data key="d5">9.39704195319765</data>
+</edge>
+<edge source="GKL" target="MDN">
+  <data key="d5">5.632829718667001</data>
+</edge>
+<edge source="GLMA" target="SN">
+  <data key="d5">4.212789895336455</data>
+</edge>
+<edge source="GLMA" target="RTG">
+  <data key="d5">7.130675629340952</data>
+</edge>
+<edge source="JVT" target="KGLE">
+  <data key="d5">4.528161067941677</data>
+</edge>
+<edge source="JVT" target="KNSN">
+  <data key="d5">5.258398778601479</data>
+</edge>
+<edge source="JRLE" target="AHN">
+  <data key="d5">6.468536723028444</data>
+</edge>
+<edge source="KTLR" target="KNSN">
+  <data key="d5">4.873406888932034</data>
+</edge>
+<edge source="DH" target="GURN">
+  <data key="d5">2.7040995153799288</data>
+</edge>
+<edge source="DH" target="BSD">
+  <data key="d5">4.7199025887800365</data>
+</edge>
+<edge source="MPE" target="KMZA">
+  <data key="d5">4.301801282701466</data>
+</edge>
+<edge source="PRDG" target="GSGB">
+  <data key="d5">1.9972354415040903</data>
+</edge>
+<edge source="REJ" target="SRJN">
+  <data key="d5">3.6928401301554046</data>
+</edge>
+<edge source="SN" target="RTG">
+  <data key="d5">5.448542115315825</data>
+</edge>
+<edge source="SRJN" target="PLY">
+  <data key="d5">4.725620244411775</data>
+</edge>
+<edge source="SXC" target="BHKA">
+  <data key="d5">1.958193495380357</data>
+</edge>
+<edge source="BHPA" target="MGT">
+  <data key="d5">2.802221215044728</data>
+</edge>
+<edge source="TDH" target="RTG">
+  <data key="d5">1.959391429444674</data>
+</edge>
+<edge source="LOK" target="BAHW">
+  <data key="d5">4.395267821521743</data>
+</edge>
+<edge source="BSD" target="GURN">
+  <data key="d5">2.0181458396287155</data>
+</edge>
+<edge source="KSBP" target="NDKR">
+  <data key="d5">4.03439820224702</data>
+</edge>
+<edge source="KSBP" target="SSPH">
+  <data key="d5">5.017266842183508</data>
+</edge>
+<edge source="NDKR" target="SSPH">
+  <data key="d5">6.158767698857834</data>
+</edge>
+</graph></graphml>
