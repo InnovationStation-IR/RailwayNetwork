@@ -9,7 +9,7 @@ Its the project (Someone update this)
 
 ### AI-ML
 *   [Rupam Neogi](https://github.com/plant7-arch)
-*   [Prithwish Ghosh](https://github.com/neural-prith)
+*   [Prithwish Ghosh](https://github.com/cogni-prith)
 
 ### Design
 *   [Nilanjana Tripathy]()
