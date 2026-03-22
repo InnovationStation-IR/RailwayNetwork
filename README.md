@@ -8,15 +8,14 @@ Its the project (Someone update this)
 *   [Subhayan Shaha](https://github.com/Itssubhayan)
 
 ### AI-ML
-*   [Rupam Neogi](https://github.com/plant7-arch)
-*   [Prithwish Ghosh](https://github.com/cogni-prith)
-
+*   [Rupam Neogi](https://github.com/plant7-arch)  (ai branch)
+*   [Prithwish Ghosh](https://github.com/cogni-prith) (ai)  
 ### Design
 *   [Nilanjana Tripathy]()
 
 
 
-
+Please note that the main branch only contains acknowledgements. For the project files, please navigate to the 'ai' branch.
 
 
 
